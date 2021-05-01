@@ -1,0 +1,20 @@
+[
+    {
+        "id": "world",
+        "displayName": "Global",
+        "isVaccineDataAvailable": true,
+        "totalConfirmed": 150848483,
+        "totalDeaths": 3171896,
+        "totalRecovered": 87865172,
+        "totalRecoveredDelta": 735863,
+        "totalDeathsDelta": 15488,
+        "totalConfirmedDelta": 902819,
+        "totalDosesAdministered": 1085462463,
+        "totalDosesDistributed": null,
+        "totalDosesWithAtleast1Dose": 7.44,
+        "totalDosesWithAtleast2Dose": 3.27,
+        "totalDosesPer100People": 13.93,
+        "totalSupplyUsed": null,
+        "lastUpdated": "2021-04-30T23:48:27.290Z"
+    }
+]
