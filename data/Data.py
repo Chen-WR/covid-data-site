@@ -79,17 +79,23 @@ class Data:
 				self.areadata.append(tempDict)
 		self.writeData(self.areadata, 'areadata')
 
-	def getglobalData(self):
-		return self.globaldata
+	def arangeData(self):
+		for x in range(len(self.data['areas'])):
+			for y in range(len(self.data['areas'][x]['areas'])):
+				for z in range(len(self.data['areas'][x]['areas'][y]['areas'])):
+					self.data['areas'][x]['areas'][y]['areas'][z].pop('areas')
+					self.areadata.append(self.data['areas'][x]['areas'][y]['areas'][z])
+				self.data['areas'][x]['areas'][y].pop('areas')
+				self.statedata.append(self.data['areas'][x]['areas'][y])
+			self.data['areas'][x].pop('areas')
+			self.countrydata.append(self.data['areas'][x])
+		self.data.pop('areas')
+		self.globaldata.append(self.data)
 
-	def getcountryData(self):
-		return self.countrydata
-
-	def getstateData(self):
-		return self.statedata
-
-	def getareaData(self):
-		return self.areadata
+		self.writeData(self.globaldata, 'globaldata')
+		self.writeData(self.countrydata, 'countrydata')
+		self.writeData(self.statedata, 'statedata')
+		self.writeData(self.areadata, 'areadata')
 
 	def writeData(self, data, filename):
 		ext = '.json'
@@ -103,9 +109,13 @@ class Data:
 		self.setstateData()
 		self.setareaData()
 
+	def oneClick(self):
+		self.arangeData()
+
 def main():
 	data = Data()
-	data.start()
+	# data.start()
+	data.oneClick()
 
 if __name__ == '__main__':
 	main()

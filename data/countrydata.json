@@ -15,7 +15,7 @@
         "totalDosesWithAtleast2Dose": 29.8,
         "totalDosesPer100People": 70.97,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 39.495914459228516,
         "long": -98.98998260498047,
         "parentId": "world"
@@ -36,7 +36,7 @@
         "totalDosesWithAtleast2Dose": 2.1,
         "totalDosesPer100People": 11.63,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 22.493118286132812,
         "long": 79.72701263427734,
         "parentId": "world"
@@ -57,7 +57,7 @@
         "totalDosesWithAtleast2Dose": 6.22,
         "totalDosesPer100People": 19.75,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -10.7767972946167,
         "long": -53.06805419921875,
         "parentId": "world"
@@ -65,21 +65,20 @@
     {
         "id": "france",
         "displayName": "France",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 5642359,
         "totalDeaths": 104706,
         "totalRecovered": 305692,
         "totalRecoveredDelta": 1650,
-        "totalDeathsDelta": 482,
-        "totalConfirmedDelta": 49969,
+        "totalDeathsDelta": 192,
+        "totalConfirmedDelta": 25670,
         "totalDosesAdministered": 20969346,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 21.87,
         "totalDosesWithAtleast2Dose": 8.94,
         "totalDosesPer100People": 30.77,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 46.62184143066406,
         "long": 2.45194411277771,
         "parentId": "world"
@@ -87,7 +86,6 @@
     {
         "id": "turkey",
         "displayName": "Turkey",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 4849408,
         "totalDeaths": 40504,
@@ -101,7 +99,7 @@
         "totalDosesWithAtleast2Dose": 10.58,
         "totalDosesPer100People": 26.76,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 39.05101013183594,
         "long": 34.93033981323242,
         "parentId": "world"
@@ -122,7 +120,7 @@
         "totalDosesWithAtleast2Dose": 5.05,
         "totalDosesPer100People": 13.38,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 61.76019287109375,
         "long": 99.87684631347656,
         "parentId": "world"
@@ -143,7 +141,7 @@
         "totalDosesWithAtleast2Dose": 20.69,
         "totalDosesPer100People": 70.91,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 53.9438362121582,
         "long": -2.5505640506744385,
         "parentId": "world"
@@ -164,7 +162,7 @@
         "totalDosesWithAtleast2Dose": 9.52,
         "totalDosesPer100People": 32.12,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 43.529029846191406,
         "long": 12.16218376159668,
         "parentId": "world"
@@ -177,15 +175,15 @@
         "totalDeaths": 78216,
         "totalRecovered": null,
         "totalRecoveredDelta": null,
-        "totalDeathsDelta": 136,
-        "totalConfirmedDelta": 9135,
+        "totalDeathsDelta": null,
+        "totalConfirmedDelta": null,
         "totalDosesAdministered": 15859772,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 24.64,
         "totalDosesWithAtleast2Dose": 9.44,
         "totalDosesPer100People": 33.92,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 40.3876953125,
         "long": -3.5573909282684326,
         "parentId": "world"
@@ -206,7 +204,7 @@
         "totalDosesWithAtleast2Dose": 7.62,
         "totalDosesPer100People": 34.34,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 51.12180709838867,
         "long": 10.400694847106934,
         "parentId": "world"
@@ -215,19 +213,19 @@
         "id": "argentina",
         "displayName": "Argentina",
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 2977363,
-        "totalDeaths": 63865,
-        "totalRecovered": 2634306,
-        "totalRecoveredDelta": 26229,
-        "totalDeathsDelta": 357,
-        "totalConfirmedDelta": 22420,
+        "totalConfirmed": 2993802,
+        "totalDeaths": 64096,
+        "totalRecovered": 2655296,
+        "totalRecoveredDelta": 21053,
+        "totalDeathsDelta": 231,
+        "totalConfirmedDelta": 16502,
         "totalDosesAdministered": 7715006,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 15.06,
         "totalDosesWithAtleast2Dose": 2.01,
         "totalDosesPer100People": 17.07,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -35.181148529052734,
         "long": -65.09385681152344,
         "parentId": "world"
@@ -236,19 +234,19 @@
         "id": "colombia",
         "displayName": "Colombia",
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 2859724,
-        "totalDeaths": 73720,
+        "totalConfirmed": 2877746,
+        "totalDeaths": 74215,
         "totalRecovered": 2669308,
         "totalRecoveredDelta": 18665,
-        "totalDeathsDelta": 490,
-        "totalConfirmedDelta": 17781,
+        "totalDeathsDelta": 985,
+        "totalConfirmedDelta": 35803,
         "totalDosesAdministered": 4824078,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 6.44,
         "totalDosesWithAtleast2Dose": 3.04,
         "totalDosesPer100People": 9.48,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 3.90644907951355,
         "long": -73.07502746582031,
         "parentId": "world"
@@ -256,7 +254,6 @@
     {
         "id": "poland",
         "displayName": "Poland",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 2798617,
         "totalDeaths": 67924,
@@ -270,7 +267,7 @@
         "totalDosesWithAtleast2Dose": 7.59,
         "totalDosesPer100People": 30.31,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 52.1290397644043,
         "long": 19.393701553344727,
         "parentId": "world"
@@ -291,7 +288,7 @@
         "totalDosesWithAtleast2Dose": 0.24,
         "totalDosesPer100People": 1.19,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 32.56426239013672,
         "long": 54.303672790527344,
         "parentId": "world"
@@ -312,7 +309,7 @@
         "totalDosesWithAtleast2Dose": 5.24,
         "totalDosesPer100People": 13.46,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 23.94062042236328,
         "long": -102.52513885498047,
         "parentId": "world"
@@ -333,7 +330,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 1.61,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 49.16029357910156,
         "long": 31.278121948242188,
         "parentId": "world"
@@ -341,7 +338,6 @@
     {
         "id": "indonesia",
         "displayName": "Indonesia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 1672880,
         "totalDeaths": 45652,
@@ -355,7 +351,7 @@
         "totalDosesWithAtleast2Dose": 2.77,
         "totalDosesPer100People": 7.27,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -0.2101230025291443,
         "long": 113.99723052978516,
         "parentId": "world"
@@ -376,7 +372,7 @@
         "totalDosesWithAtleast2Dose": 9.3,
         "totalDosesPer100People": 28.82,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 49.739105224609375,
         "long": 15.331500053405762,
         "parentId": "world"
@@ -384,21 +380,20 @@
     {
         "id": "southafrica",
         "displayName": "South Africa",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 1581210,
-        "totalDeaths": 54350,
-        "totalRecovered": 1505620,
-        "totalRecoveredDelta": 1194,
-        "totalDeathsDelta": 19,
-        "totalConfirmedDelta": 1674,
+        "totalConfirmed": 1582842,
+        "totalDeaths": 54406,
+        "totalRecovered": 1506732,
+        "totalRecoveredDelta": 1112,
+        "totalDeathsDelta": 56,
+        "totalConfirmedDelta": 1632,
         "totalDosesAdministered": 307591,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 0.52,
         "totalDosesWithAtleast2Dose": 0.52,
         "totalDosesPer100People": 0.52,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -29.00231170654297,
         "long": 25.080322265625,
         "parentId": "world"
@@ -419,7 +414,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 30.73,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 52.34225845336914,
         "long": 5.5281572341918945,
         "parentId": "world"
@@ -428,19 +423,19 @@
         "id": "canada",
         "displayName": "Canada",
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 1224048,
-        "totalDeaths": 24255,
-        "totalRecovered": 1117108,
-        "totalRecoveredDelta": 7885,
-        "totalDeathsDelta": 51,
-        "totalConfirmedDelta": 7661,
+        "totalConfirmed": 1224602,
+        "totalDeaths": 24260,
+        "totalRecovered": 1117523,
+        "totalRecoveredDelta": 8300,
+        "totalDeathsDelta": 56,
+        "totalConfirmedDelta": 8215,
         "totalDosesAdministered": 13131871,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 31.93,
         "totalDosesWithAtleast2Dose": 2.87,
         "totalDosesPer100People": 34.79,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 62.536041259765625,
         "long": -96.38835144042969,
         "parentId": "world"
@@ -461,7 +456,7 @@
         "totalDosesWithAtleast2Dose": 34.37,
         "totalDosesPer100People": 76.47,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -35.23200607299805,
         "long": -71.21882629394531,
         "parentId": "world"
@@ -469,7 +464,6 @@
     {
         "id": "iraq",
         "displayName": "Iraq",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 1070366,
         "totalDeaths": 15498,
@@ -483,7 +477,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.74,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 33.044429779052734,
         "long": 43.775184631347656,
         "parentId": "world"
@@ -491,7 +485,6 @@
     {
         "id": "romania",
         "displayName": "Romania",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 1056572,
         "totalDeaths": 28194,
@@ -505,7 +498,7 @@
         "totalDosesWithAtleast2Dose": 9.91,
         "totalDosesPer100People": 26.83,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 45.83913040161133,
         "long": 24.98465347290039,
         "parentId": "world"
@@ -513,7 +506,6 @@
     {
         "id": "philippines",
         "displayName": "Philippines",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 1046653,
         "totalDeaths": 17354,
@@ -527,7 +519,7 @@
         "totalDosesWithAtleast2Dose": 0.24,
         "totalDosesPer100People": 1.72,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 15.948041915893555,
         "long": 121.42259979248047,
         "parentId": "world"
@@ -548,7 +540,7 @@
         "totalDosesWithAtleast2Dose": 6.91,
         "totalDosesPer100People": 32.26,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 50.64118576049805,
         "long": 4.660569190979004,
         "parentId": "world"
@@ -569,7 +561,7 @@
         "totalDosesWithAtleast2Dose": 7.32,
         "totalDosesPer100People": 31.12,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 62.82179260253906,
         "long": 16.73538589477539,
         "parentId": "world"
@@ -577,21 +569,20 @@
     {
         "id": "israel",
         "displayName": "Israel",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 838481,
         "totalDeaths": 6363,
         "totalRecovered": 830625,
         "totalRecoveredDelta": 95,
-        "totalDeathsDelta": 1,
-        "totalConfirmedDelta": 74,
+        "totalDeathsDelta": null,
+        "totalConfirmedDelta": 48,
         "totalDosesAdministered": 10494321,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 62.43,
         "totalDosesWithAtleast2Dose": 58.82,
         "totalDosesPer100People": 121.24,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 31,
         "long": 35,
         "parentId": "world"
@@ -599,7 +590,6 @@
     {
         "id": "portugal",
         "displayName": "Portugal",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 836947,
         "totalDeaths": 16976,
@@ -613,7 +603,7 @@
         "totalDosesWithAtleast2Dose": 8.47,
         "totalDosesPer100People": 31.41,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 39.679908752441406,
         "long": -7.96866512298584,
         "parentId": "world"
@@ -634,7 +624,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.95,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 29.354202270507812,
         "long": 68.80183410644531,
         "parentId": "world"
@@ -655,7 +645,7 @@
         "totalDosesWithAtleast2Dose": 19.47,
         "totalDosesPer100People": 59.98,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 47.165191650390625,
         "long": 19.412044525146484,
         "parentId": "world"
@@ -663,7 +653,6 @@
     {
         "id": "bangladesh",
         "displayName": "Bangladesh",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 760584,
         "totalDeaths": 11510,
@@ -677,7 +666,7 @@
         "totalDosesWithAtleast2Dose": 1.7,
         "totalDosesPer100People": 5.24,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 23.80488395690918,
         "long": 90.27921295166016,
         "parentId": "world"
@@ -685,7 +674,6 @@
     {
         "id": "jordan",
         "displayName": "Jordan",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 712077,
         "totalDeaths": 8871,
@@ -699,7 +687,7 @@
         "totalDosesWithAtleast2Dose": 2.16,
         "totalDosesPer100People": 9.02,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 31.248191833496094,
         "long": 36.78810119628906,
         "parentId": "world"
@@ -707,7 +695,6 @@
     {
         "id": "serbia",
         "displayName": "Serbia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 690931,
         "totalDeaths": 6386,
@@ -721,7 +708,7 @@
         "totalDosesWithAtleast2Dose": 20.65,
         "totalDosesPer100People": 50.12,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 44.23085403442383,
         "long": 20.793766021728516,
         "parentId": "world"
@@ -742,7 +729,7 @@
         "totalDosesWithAtleast2Dose": 10.7,
         "totalDosesPer100People": 30.39,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 46.800209045410156,
         "long": 8.229198455810547,
         "parentId": "world"
@@ -763,7 +750,7 @@
         "totalDosesWithAtleast2Dose": 9.2,
         "totalDosesPer100People": 33.91,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 47.58708572387695,
         "long": 14.14128589630127,
         "parentId": "world"
@@ -784,7 +771,7 @@
         "totalDosesWithAtleast2Dose": 0.79,
         "totalDosesPer100People": 2.76,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 36.65333557128906,
         "long": 137.981689453125,
         "parentId": "world"
@@ -792,21 +779,20 @@
     {
         "id": "lebanon",
         "displayName": "Lebanon",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 526578,
         "totalDeaths": 7278,
         "totalRecovered": 461122,
-        "totalRecoveredDelta": 3364,
-        "totalDeathsDelta": 29,
-        "totalConfirmedDelta": 1001,
+        "totalRecoveredDelta": null,
+        "totalDeathsDelta": null,
+        "totalConfirmedDelta": null,
         "totalDosesAdministered": 461160,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 4.29,
         "totalDosesWithAtleast2Dose": 2.46,
         "totalDosesPer100People": 6.76,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 33.927734375,
         "long": 35.73728561401367,
         "parentId": "world"
@@ -814,7 +800,6 @@
     {
         "id": "unitedarabemirates",
         "displayName": "United Arab Emirates",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 521948,
         "totalDeaths": 1591,
@@ -828,7 +813,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 106.64,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 23.907182693481445,
         "long": 54.333534240722656,
         "parentId": "world"
@@ -836,7 +821,6 @@
     {
         "id": "morocco",
         "displayName": "Morocco",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 511562,
         "totalDeaths": 9026,
@@ -850,7 +834,7 @@
         "totalDosesWithAtleast2Dose": 11.53,
         "totalDosesPer100People": 25.03,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 31.841398239135742,
         "long": -6.281309127807617,
         "parentId": "world"
@@ -858,7 +842,6 @@
     {
         "id": "saudiarabia",
         "displayName": "Saudi Arabia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 418411,
         "totalDeaths": 6968,
@@ -872,7 +855,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 25.85,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 24.124120712280273,
         "long": 44.55049514770508,
         "parentId": "world"
@@ -880,7 +863,6 @@
     {
         "id": "malaysia",
         "displayName": "Malaysia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 411594,
         "totalDeaths": 1521,
@@ -894,7 +876,7 @@
         "totalDosesWithAtleast2Dose": 1.68,
         "totalDosesPer100People": 4.39,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 3.6054680347442627,
         "long": 114.71072387695312,
         "parentId": "world"
@@ -902,21 +884,20 @@
     {
         "id": "bulgaria",
         "displayName": "Bulgaria",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 404380,
-        "totalDeaths": 16399,
-        "totalRecovered": 339534,
-        "totalRecoveredDelta": 1222,
-        "totalDeathsDelta": 31,
-        "totalConfirmedDelta": 652,
+        "totalConfirmed": 404486,
+        "totalDeaths": 16444,
+        "totalRecovered": 339889,
+        "totalRecoveredDelta": 355,
+        "totalDeathsDelta": 45,
+        "totalConfirmedDelta": 106,
         "totalDosesAdministered": 803176,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 8.57,
         "totalDosesWithAtleast2Dose": 2.99,
         "totalDosesPer100People": 11.56,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 42.75708770751953,
         "long": 25.23870277404785,
         "parentId": "world"
@@ -937,7 +918,7 @@
         "totalDosesWithAtleast2Dose": 1.29,
         "totalDosesPer100People": 4.88,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -1.4655699729919434,
         "long": -78.39720916748047,
         "parentId": "world"
@@ -945,7 +926,6 @@
     {
         "id": "slovakia",
         "displayName": "Slovakia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 382720,
         "totalDeaths": 11732,
@@ -959,7 +939,7 @@
         "totalDosesWithAtleast2Dose": 8.95,
         "totalDosesPer100People": 28.41,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 48.70748519897461,
         "long": 19.48487663269043,
         "parentId": "world"
@@ -967,7 +947,6 @@
     {
         "id": "kazakhstan",
         "displayName": "Kazakhstan",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 375539,
         "totalDeaths": 3699,
@@ -981,7 +960,7 @@
         "totalDosesWithAtleast2Dose": 1.2,
         "totalDosesPer100People": 7.02,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 48.16010665893555,
         "long": 67.26608276367188,
         "parentId": "world"
@@ -989,7 +968,6 @@
     {
         "id": "panama",
         "displayName": "Panama",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 364576,
         "totalDeaths": 6232,
@@ -1003,7 +981,7 @@
         "totalDosesWithAtleast2Dose": 4.41,
         "totalDosesPer100People": 15.58,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 8.531039237976074,
         "long": -80.1344985961914,
         "parentId": "world"
@@ -1011,7 +989,6 @@
     {
         "id": "belarus",
         "displayName": "Belarus",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 359982,
         "totalDeaths": 2552,
@@ -1025,7 +1002,7 @@
         "totalDosesWithAtleast2Dose": 0.89,
         "totalDosesPer100People": 3.48,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 53.542198181152344,
         "long": 28.05012321472168,
         "parentId": "world"
@@ -1033,7 +1010,6 @@
     {
         "id": "greece",
         "displayName": "Greece",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 346422,
         "totalDeaths": 10453,
@@ -1047,7 +1023,7 @@
         "totalDosesWithAtleast2Dose": 9.06,
         "totalDosesPer100People": 29.51,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 39.347442626953125,
         "long": 22.571271896362305,
         "parentId": "world"
@@ -1055,7 +1031,6 @@
     {
         "id": "croatia",
         "displayName": "Croatia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 334229,
         "totalDeaths": 7130,
@@ -1069,7 +1044,7 @@
         "totalDosesWithAtleast2Dose": 4.63,
         "totalDosesPer100People": 21.26,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 45.14006805419922,
         "long": 16.427303314208984,
         "parentId": "world"
@@ -1077,7 +1052,6 @@
     {
         "id": "nepal",
         "displayName": "Nepal",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 328893,
         "totalDeaths": 3298,
@@ -1091,7 +1065,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 7.18,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 28.259138107299805,
         "long": 83.94416046142578,
         "parentId": "world"
@@ -1099,7 +1073,6 @@
     {
         "id": "azerbaijan",
         "displayName": "Azerbaijan",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 320322,
         "totalDeaths": 4538,
@@ -1113,7 +1086,7 @@
         "totalDosesWithAtleast2Dose": 5.05,
         "totalDosesPer100People": 14.51,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 40.359642028808594,
         "long": 47.652400970458984,
         "parentId": "world"
@@ -1134,7 +1107,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 1.09,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 41.71665954589844,
         "long": 44.78333282470703,
         "parentId": "world"
@@ -1142,21 +1115,20 @@
     {
         "id": "tunisia",
         "displayName": "Tunisia",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 309119,
-        "totalDeaths": 10722,
-        "totalRecovered": 259957,
-        "totalRecoveredDelta": null,
-        "totalDeathsDelta": null,
-        "totalConfirmedDelta": null,
+        "totalConfirmed": 310734,
+        "totalDeaths": 10808,
+        "totalRecovered": 261552,
+        "totalRecoveredDelta": 1595,
+        "totalDeathsDelta": 86,
+        "totalConfirmedDelta": 1615,
         "totalDosesAdministered": 358746,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 2.35,
         "totalDosesWithAtleast2Dose": 0.68,
         "totalDosesPer100People": 3.04,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 34.114463806152344,
         "long": 9.57198715209961,
         "parentId": "world"
@@ -1177,7 +1149,7 @@
         "totalDosesWithAtleast2Dose": 1.84,
         "totalDosesPer100People": 6.53,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -16.71464729309082,
         "long": -64.65779113769531,
         "parentId": "world"
@@ -1185,7 +1157,6 @@
     {
         "id": "westbank",
         "displayName": "West Bank",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 296462,
         "totalDeaths": 3249,
@@ -1199,7 +1170,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 31.94147491455078,
         "long": 35.25776672363281,
         "parentId": "world"
@@ -1207,7 +1178,6 @@
     {
         "id": "paraguay",
         "displayName": "Paraguay",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 279077,
         "totalDeaths": 6385,
@@ -1221,7 +1191,7 @@
         "totalDosesWithAtleast2Dose": 0.16,
         "totalDosesPer100People": 1.46,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -23.241958618164062,
         "long": -58.392765045166016,
         "parentId": "world"
@@ -1229,21 +1199,20 @@
     {
         "id": "kuwait",
         "displayName": "Kuwait",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 273991,
-        "totalDeaths": 1563,
-        "totalRecovered": 257261,
-        "totalRecoveredDelta": 1444,
-        "totalDeathsDelta": 9,
-        "totalConfirmedDelta": 1429,
+        "totalConfirmed": 275270,
+        "totalDeaths": 1569,
+        "totalRecovered": 258599,
+        "totalRecoveredDelta": 2782,
+        "totalDeathsDelta": 15,
+        "totalConfirmedDelta": 2708,
         "totalDosesAdministered": 1000000,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": null,
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 23.42,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 29.33588218688965,
         "long": 47.59549331665039,
         "parentId": "world"
@@ -1251,7 +1220,6 @@
     {
         "id": "dominicanrepublic",
         "displayName": "Dominican Republic",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 266861,
         "totalDeaths": 3487,
@@ -1265,7 +1233,7 @@
         "totalDosesWithAtleast2Dose": 7.26,
         "totalDosesPer100People": 17.46,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 18.89733123779297,
         "long": -70.49993896484375,
         "parentId": "world"
@@ -1273,21 +1241,20 @@
     {
         "id": "ethiopia",
         "displayName": "Ethiopia",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 257442,
-        "totalDeaths": 3688,
-        "totalRecovered": 198862,
-        "totalRecoveredDelta": null,
-        "totalDeathsDelta": null,
-        "totalConfirmedDelta": null,
+        "totalConfirmed": 258062,
+        "totalDeaths": 3709,
+        "totalRecovered": 200148,
+        "totalRecoveredDelta": 1286,
+        "totalDeathsDelta": 21,
+        "totalConfirmedDelta": 620,
         "totalDosesAdministered": 430000,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": null,
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.37,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 8.62248420715332,
         "long": 39.63431167602539,
         "parentId": "world"
@@ -1295,7 +1262,6 @@
     {
         "id": "denmark",
         "displayName": "Denmark",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 252045,
         "totalDeaths": 2489,
@@ -1309,7 +1275,7 @@
         "totalDosesWithAtleast2Dose": 11.16,
         "totalDosesPer100People": 34.12,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 56.26227569580078,
         "long": 9.336356163024902,
         "parentId": "world"
@@ -1330,7 +1296,7 @@
         "totalDosesWithAtleast2Dose": 5.5,
         "totalDosesPer100People": 16.08,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 9.974835395812988,
         "long": -84.19385528564453,
         "parentId": "world"
@@ -1338,7 +1304,6 @@
     {
         "id": "moldova",
         "displayName": "Moldova",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 250837,
         "totalDeaths": 5812,
@@ -1352,7 +1317,7 @@
         "totalDosesWithAtleast2Dose": 0.41,
         "totalDosesPer100People": 3.6,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 47.202144622802734,
         "long": 28.4654483795166,
         "parentId": "world"
@@ -1360,7 +1325,6 @@
     {
         "id": "ireland",
         "displayName": "Ireland",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 249437,
         "totalDeaths": 4906,
@@ -1374,7 +1338,7 @@
         "totalDosesWithAtleast2Dose": 8.5,
         "totalDosesPer100People": 30.12,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 53.18498611450195,
         "long": -8.146889686584473,
         "parentId": "world"
@@ -1382,7 +1346,6 @@
     {
         "id": "lithuania",
         "displayName": "Lithuania",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 248655,
         "totalDeaths": 3937,
@@ -1396,7 +1359,7 @@
         "totalDosesWithAtleast2Dose": 9.9,
         "totalDosesPer100People": 34.67,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 55.337310791015625,
         "long": 23.883544921875,
         "parentId": "world"
@@ -1404,7 +1367,6 @@
     {
         "id": "slovenia",
         "displayName": "Slovenia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 241309,
         "totalDeaths": 4258,
@@ -1418,7 +1380,7 @@
         "totalDosesWithAtleast2Dose": 9.23,
         "totalDosesPer100People": 29.38,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 46.11955642700195,
         "long": 14.821760177612305,
         "parentId": "world"
@@ -1426,21 +1388,20 @@
     {
         "id": "guatemala",
         "displayName": "Guatemala",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 227671,
         "totalDeaths": 7524,
         "totalRecovered": 202843,
-        "totalRecoveredDelta": 1222,
-        "totalDeathsDelta": 24,
-        "totalConfirmedDelta": 1424,
+        "totalRecoveredDelta": null,
+        "totalDeathsDelta": null,
+        "totalConfirmedDelta": null,
         "totalDosesAdministered": 168367,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 0.93,
         "totalDosesWithAtleast2Dose": 0.01,
         "totalDosesPer100People": 0.94,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 15.696107864379883,
         "long": -90.35709381103516,
         "parentId": "world"
@@ -1448,7 +1409,6 @@
     {
         "id": "egypt",
         "displayName": "Egypt",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 227552,
         "totalDeaths": 13339,
@@ -1462,7 +1422,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.64,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 26.57845687866211,
         "long": 29.77687644958496,
         "parentId": "world"
@@ -1470,7 +1430,6 @@
     {
         "id": "armenia",
         "displayName": "Armenia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 216596,
         "totalDeaths": 4128,
@@ -1484,7 +1443,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.02,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 40.29264450073242,
         "long": 44.939476013183594,
         "parentId": "world"
@@ -1492,7 +1451,6 @@
     {
         "id": "honduras",
         "displayName": "Honduras",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 212333,
         "totalDeaths": 5281,
@@ -1506,7 +1464,7 @@
         "totalDosesWithAtleast2Dose": 0.03,
         "totalDosesPer100People": 0.58,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 14.82381820678711,
         "long": -86.59754180908203,
         "parentId": "world"
@@ -1514,7 +1472,6 @@
     {
         "id": "qatar",
         "displayName": "Qatar",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 206302,
         "totalDeaths": 465,
@@ -1528,7 +1485,7 @@
         "totalDosesWithAtleast2Dose": 19.26,
         "totalDosesPer100People": 52.99,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 25.28533172607422,
         "long": 51.19325256347656,
         "parentId": "world"
@@ -1536,7 +1493,6 @@
     {
         "id": "bosniaandherzegovina",
         "displayName": "Bosnia and Herzegovina",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 198827,
         "totalDeaths": 8551,
@@ -1550,7 +1506,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 44.16825485229492,
         "long": 17.785249710083008,
         "parentId": "world"
@@ -1558,21 +1514,20 @@
     {
         "id": "uruguay",
         "displayName": "Uruguay",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 198428,
         "totalDeaths": 2616,
         "totalRecovered": 167823,
-        "totalRecoveredDelta": 2858,
-        "totalDeathsDelta": 53,
-        "totalConfirmedDelta": 2694,
+        "totalRecoveredDelta": null,
+        "totalDeathsDelta": null,
+        "totalConfirmedDelta": null,
         "totalDosesAdministered": 1786697,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 33.32,
         "totalDosesWithAtleast2Dose": 18.12,
         "totalDosesPer100People": 51.43,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -32.9697380065918,
         "long": -56.05606460571289,
         "parentId": "world"
@@ -1580,7 +1535,6 @@
     {
         "id": "venezuela",
         "displayName": "Venezuela",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 197683,
         "totalDeaths": 2136,
@@ -1594,7 +1548,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.88,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 7.156984806060791,
         "long": -66.2232437133789,
         "parentId": "world"
@@ -1602,7 +1556,6 @@
     {
         "id": "oman",
         "displayName": "Oman",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 193253,
         "totalDeaths": 2010,
@@ -1616,7 +1569,7 @@
         "totalDosesWithAtleast2Dose": 1.23,
         "totalDosesPer100People": 6.18,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 20.56961441040039,
         "long": 56.09807586669922,
         "parentId": "world"
@@ -1624,21 +1577,20 @@
     {
         "id": "libya",
         "displayName": "Libya",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 177508,
         "totalDeaths": 3029,
         "totalRecovered": 163191,
-        "totalRecoveredDelta": 519,
-        "totalDeathsDelta": 6,
-        "totalConfirmedDelta": 436,
+        "totalRecoveredDelta": null,
+        "totalDeathsDelta": null,
+        "totalConfirmedDelta": null,
         "totalDosesAdministered": 750,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 0.01,
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.01,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 27.041828155517578,
         "long": 18.030818939208984,
         "parentId": "world"
@@ -1646,7 +1598,6 @@
     {
         "id": "bahrain",
         "displayName": "Bahrain",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 176934,
         "totalDeaths": 648,
@@ -1660,7 +1611,7 @@
         "totalDosesWithAtleast2Dose": 31.67,
         "totalDosesPer100People": 71.94,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 26.08924674987793,
         "long": 50.562774658203125,
         "parentId": "world"
@@ -1668,7 +1619,6 @@
     {
         "id": "nigeria",
         "displayName": "Nigeria",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 165110,
         "totalDeaths": 2063,
@@ -1682,7 +1632,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.58,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 9.585453987121582,
         "long": 8.093578338623047,
         "parentId": "world"
@@ -1690,7 +1640,6 @@
     {
         "id": "kenya",
         "displayName": "Kenya",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 160053,
         "totalDeaths": 2744,
@@ -1704,7 +1653,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 1.59,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 0.5370280146598816,
         "long": 37.85677719116211,
         "parentId": "world"
@@ -1712,21 +1661,20 @@
     {
         "id": "northmacedonia",
         "displayName": "North Macedonia",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 152367,
-        "totalDeaths": 4855,
-        "totalRecovered": 132765,
-        "totalRecoveredDelta": null,
-        "totalDeathsDelta": null,
-        "totalConfirmedDelta": null,
+        "totalConfirmed": 152581,
+        "totalDeaths": 4891,
+        "totalRecovered": 133070,
+        "totalRecoveredDelta": 305,
+        "totalDeathsDelta": 36,
+        "totalConfirmedDelta": 214,
         "totalDosesAdministered": 55926,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 2.68,
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 2.68,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 41.6004638671875,
         "long": 21.700889587402344,
         "parentId": "world"
@@ -1734,7 +1682,6 @@
     {
         "id": "myanmar",
         "displayName": "Myanmar",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 142831,
         "totalDeaths": 3209,
@@ -1748,7 +1695,7 @@
         "totalDosesWithAtleast2Dose": 0.07,
         "totalDosesPer100People": 1.91,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 21.18514633178711,
         "long": 96.51920318603516,
         "parentId": "world"
@@ -1756,7 +1703,6 @@
     {
         "id": "albania",
         "displayName": "Albania",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 131185,
         "totalDeaths": 2396,
@@ -1770,7 +1716,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 15.75,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 41.139286041259766,
         "long": 20.064313888549805,
         "parentId": "world"
@@ -1791,7 +1737,7 @@
         "totalDosesWithAtleast2Dose": 0.39,
         "totalDosesPer100People": 6.35,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 36.45115661621094,
         "long": 127.86114501953125,
         "parentId": "world"
@@ -1799,7 +1745,6 @@
     {
         "id": "estonia",
         "displayName": "Estonia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 122450,
         "totalDeaths": 1166,
@@ -1813,7 +1758,7 @@
         "totalDosesWithAtleast2Dose": 8.75,
         "totalDosesPer100People": 33.74,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 58.68367004394531,
         "long": 25.838701248168945,
         "parentId": "world"
@@ -1821,7 +1766,6 @@
     {
         "id": "algeria",
         "displayName": "Algeria",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 122108,
         "totalDeaths": 3253,
@@ -1835,7 +1779,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.17,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 28.155088424682617,
         "long": 2.6787490844726562,
         "parentId": "world"
@@ -1843,7 +1787,6 @@
     {
         "id": "latvia",
         "displayName": "Latvia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 119370,
         "totalDeaths": 2139,
@@ -1857,7 +1800,7 @@
         "totalDosesWithAtleast2Dose": 2.63,
         "totalDosesPer100People": 15.72,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 56.853981018066406,
         "long": 24.927459716796875,
         "parentId": "world"
@@ -1865,7 +1808,6 @@
     {
         "id": "puertorico",
         "displayName": "Puerto Rico",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 116180,
         "totalDeaths": 2310,
@@ -1879,7 +1821,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 18.22506332397461,
         "long": -66.47891235351562,
         "parentId": "world"
@@ -1893,14 +1835,14 @@
         "totalRecovered": 88952,
         "totalRecoveredDelta": null,
         "totalDeathsDelta": null,
-        "totalConfirmedDelta": 599,
+        "totalConfirmedDelta": 425,
         "totalDosesAdministered": 1700785,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 24.78,
         "totalDosesWithAtleast2Dose": 6.59,
         "totalDosesPer100People": 31.37,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 64.23892974853516,
         "long": 13.950632095336914,
         "parentId": "world"
@@ -1908,7 +1850,6 @@
     {
         "id": "srilanka",
         "displayName": "Sri Lanka",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 109862,
         "totalDeaths": 687,
@@ -1922,7 +1863,7 @@
         "totalDosesWithAtleast2Dose": 0.03,
         "totalDosesPer100People": 4.36,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 7.6416449546813965,
         "long": 80.69197845458984,
         "parentId": "world"
@@ -1930,7 +1871,6 @@
     {
         "id": "cuba",
         "displayName": "Cuba",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 107622,
         "totalDeaths": 654,
@@ -1944,7 +1884,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 21.610517501831055,
         "long": -78.96027374267578,
         "parentId": "world"
@@ -1952,7 +1892,6 @@
     {
         "id": "kosovo",
         "displayName": "Kosovo",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 105375,
         "totalDeaths": 2178,
@@ -1966,7 +1905,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 1.14,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 42.581485748291016,
         "long": 20.89157485961914,
         "parentId": "world"
@@ -1974,7 +1913,6 @@
     {
         "id": "gazastrip",
         "displayName": "Gaza Strip",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 100977,
         "totalDeaths": null,
@@ -1988,7 +1926,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 31.40584373474121,
         "long": 34.376888275146484,
         "parentId": "world"
@@ -1996,7 +1934,6 @@
     {
         "id": "montenegro",
         "displayName": "Montenegro",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 97517,
         "totalDeaths": 1502,
@@ -2010,7 +1947,7 @@
         "totalDosesWithAtleast2Dose": 3.3,
         "totalDosesPer100People": 9.68,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 42.78509521484375,
         "long": 19.248979568481445,
         "parentId": "world"
@@ -2018,7 +1955,6 @@
     {
         "id": "kyrgyzstan",
         "displayName": "Kyrgyzstan",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 95752,
         "totalDeaths": 1612,
@@ -2032,7 +1968,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.03,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 41.46426773071289,
         "long": 74.55564880371094,
         "parentId": "world"
@@ -2040,7 +1976,6 @@
     {
         "id": "ghana",
         "displayName": "Ghana",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 92562,
         "totalDeaths": 779,
@@ -2054,7 +1989,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 2.72,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 7.960673809051514,
         "long": -1.2076109647750854,
         "parentId": "world"
@@ -2062,7 +1997,6 @@
     {
         "id": "zambia",
         "displayName": "Zambia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 91670,
         "totalDeaths": 1251,
@@ -2076,7 +2010,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.14,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -13.463128089904785,
         "long": 27.787389755249023,
         "parentId": "world"
@@ -2084,7 +2018,6 @@
     {
         "id": "uzbekistan",
         "displayName": "Uzbekistan",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 90808,
         "totalDeaths": 649,
@@ -2098,7 +2031,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 1.79,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 41.763492584228516,
         "long": 63.15152359008789,
         "parentId": "world"
@@ -2119,7 +2052,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 17.61,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 36.563114166259766,
         "long": 103.73580932617188,
         "parentId": "world"
@@ -2127,7 +2060,6 @@
     {
         "id": "finland",
         "displayName": "Finland",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 87096,
         "totalDeaths": 914,
@@ -2141,7 +2073,7 @@
         "totalDosesWithAtleast2Dose": 2.88,
         "totalDosesPer100People": 31.71,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 64.51988983154297,
         "long": 26.282997131347656,
         "parentId": "world"
@@ -2149,7 +2081,6 @@
     {
         "id": "cameroon",
         "displayName": "Cameroon",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 72250,
         "totalDeaths": 1107,
@@ -2163,7 +2094,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 5.697135925292969,
         "long": 12.74233627319336,
         "parentId": "world"
@@ -2171,7 +2102,6 @@
     {
         "id": "mozambique",
         "displayName": "Mozambique",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 69917,
         "totalDeaths": 814,
@@ -2185,7 +2115,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.18,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -17.2731990814209,
         "long": 35.5474853515625,
         "parentId": "world"
@@ -2193,7 +2123,6 @@
     {
         "id": "elsalvador",
         "displayName": "El Salvador",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 69198,
         "totalDeaths": 2124,
@@ -2207,7 +2136,7 @@
         "totalDosesWithAtleast2Dose": 0.89,
         "totalDosesPer100People": 12.86,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 13.73300552368164,
         "long": -88.86650085449219,
         "parentId": "world"
@@ -2215,7 +2144,6 @@
     {
         "id": "luxembourg",
         "displayName": "Luxembourg",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 67397,
         "totalDeaths": 796,
@@ -2229,7 +2157,7 @@
         "totalDosesWithAtleast2Dose": 7.99,
         "totalDosesPer100People": 29.79,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 49.776824951171875,
         "long": 6.09234094619751,
         "parentId": "world"
@@ -2237,7 +2165,6 @@
     {
         "id": "thailand",
         "displayName": "Thailand",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 67044,
         "totalDeaths": 224,
@@ -2251,7 +2178,7 @@
         "totalDosesWithAtleast2Dose": 0.48,
         "totalDosesPer100People": 2.02,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 15.1306734085083,
         "long": 101.01778411865234,
         "parentId": "world"
@@ -2259,21 +2186,20 @@
     {
         "id": "cyprus",
         "displayName": "Cyprus",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 65909,
-        "totalDeaths": 312,
+        "totalConfirmed": 66372,
+        "totalDeaths": 313,
         "totalRecovered": 39061,
         "totalRecoveredDelta": null,
-        "totalDeathsDelta": 4,
-        "totalConfirmedDelta": 676,
+        "totalDeathsDelta": 1,
+        "totalConfirmedDelta": 463,
         "totalDosesAdministered": 236265,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 20.1,
         "totalDosesWithAtleast2Dose": 6.87,
         "totalDosesPer100People": 26.97,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 34.91740798950195,
         "long": 32.95891189575195,
         "parentId": "world"
@@ -2281,7 +2207,6 @@
     {
         "id": "singapore",
         "displayName": "Singapore",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 61179,
         "totalDeaths": 31,
@@ -2295,7 +2220,7 @@
         "totalDosesWithAtleast2Dose": 14.53,
         "totalDosesPer100People": 37.84,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 1.290179967880249,
         "long": 103.85198974609375,
         "parentId": "world"
@@ -2303,7 +2228,6 @@
     {
         "id": "afghanistan",
         "displayName": "Afghanistan",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 60122,
         "totalDeaths": 2637,
@@ -2317,7 +2241,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.62,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 33.831138610839844,
         "long": 66.02471160888672,
         "parentId": "world"
@@ -2325,7 +2249,6 @@
     {
         "id": "namibia",
         "displayName": "Namibia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 48654,
         "totalDeaths": 643,
@@ -2339,7 +2262,7 @@
         "totalDosesWithAtleast2Dose": 0.05,
         "totalDosesPer100People": 0.79,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -22.139442443847656,
         "long": 17.221797943115234,
         "parentId": "world"
@@ -2347,7 +2270,6 @@
     {
         "id": "botswana",
         "displayName": "Botswana",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 46934,
         "totalDeaths": 712,
@@ -2361,7 +2283,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 2.01,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -22.18724250793457,
         "long": 23.814544677734375,
         "parentId": "world"
@@ -2369,7 +2291,6 @@
     {
         "id": "ctedivoire",
         "displayName": "C\u00f4te d\u2019Ivoire",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 46036,
         "totalDeaths": 286,
@@ -2383,7 +2304,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.53,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 7.622841835021973,
         "long": -5.552559852600098,
         "parentId": "world"
@@ -2391,7 +2312,6 @@
     {
         "id": "jamaica",
         "displayName": "Jamaica",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 45777,
         "totalDeaths": 779,
@@ -2405,7 +2325,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 4.57,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 18.236000061035156,
         "long": -77.36399841308594,
         "parentId": "world"
@@ -2413,7 +2333,6 @@
     {
         "id": "uganda",
         "displayName": "Uganda",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 41905,
         "totalDeaths": 342,
@@ -2427,7 +2346,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.7,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 1.2772749662399292,
         "long": 32.38970184326172,
         "parentId": "world"
@@ -2435,7 +2354,6 @@
     {
         "id": "senegal",
         "displayName": "Senegal",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 40344,
         "totalDeaths": 1107,
@@ -2449,7 +2367,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 2.45,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 14.359614372253418,
         "long": -14.468459129333496,
         "parentId": "world"
@@ -2457,21 +2375,20 @@
     {
         "id": "zimbabwe",
         "displayName": "Zimbabwe",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 38257,
-        "totalDeaths": 1567,
-        "totalRecovered": 35612,
-        "totalRecoveredDelta": 18,
-        "totalDeathsDelta": null,
-        "totalConfirmedDelta": 22,
+        "totalConfirmed": 38260,
+        "totalDeaths": 1568,
+        "totalRecovered": 35620,
+        "totalRecoveredDelta": 26,
+        "totalDeathsDelta": 1,
+        "totalConfirmedDelta": 25,
         "totalDosesAdministered": 477597,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 2.7,
         "totalDosesWithAtleast2Dose": 0.52,
         "totalDosesPer100People": 3.21,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -19.000457763671875,
         "long": 29.871837615966797,
         "parentId": "world"
@@ -2479,7 +2396,6 @@
     {
         "id": "mongolia",
         "displayName": "Mongolia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 37285,
         "totalDeaths": 115,
@@ -2493,7 +2409,7 @@
         "totalDosesWithAtleast2Dose": 9.98,
         "totalDosesPer100People": 34.73,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 46.83469009399414,
         "long": 103.06763458251953,
         "parentId": "world"
@@ -2501,7 +2417,6 @@
     {
         "id": "madagascar",
         "displayName": "Madagascar",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 37014,
         "totalDeaths": 643,
@@ -2515,7 +2430,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -19.382877349853516,
         "long": 46.69585037231445,
         "parentId": "world"
@@ -2523,7 +2438,6 @@
     {
         "id": "malawi",
         "displayName": "Malawi",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 34095,
         "totalDeaths": 1148,
@@ -2537,7 +2451,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 1.52,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -13.360275268554688,
         "long": 34.29304504394531,
         "parentId": "world"
@@ -2545,7 +2459,6 @@
     {
         "id": "sudan",
         "displayName": "Sudan",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 33944,
         "totalDeaths": 2349,
@@ -2559,7 +2472,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.32,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 15.983181953430176,
         "long": 29.949295043945312,
         "parentId": "world"
@@ -2567,7 +2480,6 @@
     {
         "id": "malta",
         "displayName": "Malta",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 30307,
         "totalDeaths": 415,
@@ -2581,7 +2493,7 @@
         "totalDosesWithAtleast2Dose": 23.92,
         "totalDosesPer100People": 75.06,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 35.89055633544922,
         "long": 14.439536094665527,
         "parentId": "world"
@@ -2589,7 +2501,6 @@
     {
         "id": "congodrc",
         "displayName": "Congo (DRC)",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 29904,
         "totalDeaths": 768,
@@ -2603,7 +2514,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -2.878549098968506,
         "long": 23.65669059753418,
         "parentId": "world"
@@ -2611,7 +2522,6 @@
     {
         "id": "maldives",
         "displayName": "Maldives",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 29835,
         "totalDeaths": 73,
@@ -2625,7 +2535,7 @@
         "totalDosesWithAtleast2Dose": 18.01,
         "totalDosesPer100People": 72.63,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 1.9123070240020752,
         "long": 73.54009246826172,
         "parentId": "world"
@@ -2646,7 +2556,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 8.28,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -25.578937530517578,
         "long": 134.35971069335938,
         "parentId": "world"
@@ -2654,7 +2564,6 @@
     {
         "id": "angola",
         "displayName": "Angola",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 26652,
         "totalDeaths": 596,
@@ -2668,7 +2577,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 1.39,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -12.332923889160156,
         "long": 17.572837829589844,
         "parentId": "world"
@@ -2676,21 +2585,20 @@
     {
         "id": "rwanda",
         "displayName": "Rwanda",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 25116,
+        "totalConfirmed": 25225,
         "totalDeaths": 335,
-        "totalRecovered": 23234,
-        "totalRecoveredDelta": 28,
+        "totalRecovered": 23345,
+        "totalRecoveredDelta": 139,
         "totalDeathsDelta": 2,
-        "totalConfirmedDelta": 121,
+        "totalConfirmedDelta": 230,
         "totalDosesAdministered": 349702,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 2.7,
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 2.7,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -1.9999899864196777,
         "long": 29.92605972290039,
         "parentId": "world"
@@ -2698,21 +2606,20 @@
     {
         "id": "caboverde",
         "displayName": "Cabo Verde",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 23882,
         "totalDeaths": 217,
         "totalRecovered": 20565,
-        "totalRecoveredDelta": 308,
-        "totalDeathsDelta": 4,
-        "totalConfirmedDelta": 328,
+        "totalRecoveredDelta": null,
+        "totalDeathsDelta": null,
+        "totalConfirmedDelta": null,
         "totalDosesAdministered": 2184,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 0.39,
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.39,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 15.08362865447998,
         "long": -23.624671936035156,
         "parentId": "world"
@@ -2720,7 +2627,6 @@
     {
         "id": "gabon",
         "displayName": "Gabon",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 23075,
         "totalDeaths": 139,
@@ -2734,7 +2640,7 @@
         "totalDosesWithAtleast2Dose": 0.09,
         "totalDosesPer100People": 0.4,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -0.6238250136375427,
         "long": 11.781533241271973,
         "parentId": "world"
@@ -2742,7 +2648,6 @@
     {
         "id": "syria",
         "displayName": "Syria",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 22733,
         "totalDeaths": 1592,
@@ -2756,7 +2661,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.01,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 35.024818420410156,
         "long": 38.5218505859375,
         "parentId": "world"
@@ -2764,7 +2669,6 @@
     {
         "id": "guinea",
         "displayName": "Guinea",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 22247,
         "totalDeaths": 144,
@@ -2778,7 +2682,7 @@
         "totalDosesWithAtleast2Dose": 0.35,
         "totalDosesPer100People": 1.06,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 10.437061309814453,
         "long": -10.934968948364258,
         "parentId": "world"
@@ -2786,7 +2690,6 @@
     {
         "id": "mayotte",
         "displayName": "Mayotte",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 20055,
         "totalDeaths": 170,
@@ -2800,7 +2703,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -12.827500343322754,
         "long": 45.16624450683594,
         "parentId": "world"
@@ -2808,7 +2711,6 @@
     {
         "id": "frenchguiana",
         "displayName": "French Guiana",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 19264,
         "totalDeaths": 100,
@@ -2822,7 +2724,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 3.9815070629119873,
         "long": -53.19322967529297,
         "parentId": "world"
@@ -2830,7 +2732,6 @@
     {
         "id": "frenchpolynesia",
         "displayName": "French Polynesia",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 18758,
         "totalDeaths": 141,
@@ -2844,7 +2745,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -17.677398681640625,
         "long": -149.40097045898438,
         "parentId": "world"
@@ -2852,7 +2753,6 @@
     {
         "id": "eswatini",
         "displayName": "Eswatini",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 18458,
         "totalDeaths": 671,
@@ -2866,7 +2766,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 3.01,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -26.56521987915039,
         "long": 31.498117446899414,
         "parentId": "world"
@@ -2874,21 +2774,20 @@
     {
         "id": "mauritania",
         "displayName": "Mauritania",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 18402,
+        "totalConfirmed": 18429,
         "totalDeaths": 455,
-        "totalRecovered": 17687,
-        "totalRecoveredDelta": 18,
+        "totalRecovered": 17707,
+        "totalRecoveredDelta": 38,
         "totalDeathsDelta": null,
-        "totalConfirmedDelta": 25,
+        "totalConfirmedDelta": 52,
         "totalDosesAdministered": 7038,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 0.15,
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.15,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 20.258419036865234,
         "long": -10.331938743591309,
         "parentId": "world"
@@ -2896,7 +2795,6 @@
     {
         "id": "somalia",
         "displayName": "Somalia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 13915,
         "totalDeaths": 713,
@@ -2910,7 +2808,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.74,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 6.533645153045654,
         "long": 48.076171875,
         "parentId": "world"
@@ -2918,7 +2816,6 @@
     {
         "id": "mali",
         "displayName": "Mali",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 13896,
         "totalDeaths": 485,
@@ -2932,7 +2829,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.25,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 17.35763931274414,
         "long": -3.524878978729248,
         "parentId": "world"
@@ -2940,7 +2837,6 @@
     {
         "id": "cambodia",
         "displayName": "Cambodia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 13790,
         "totalDeaths": 96,
@@ -2954,7 +2850,7 @@
         "totalDosesWithAtleast2Dose": 5.45,
         "totalDosesPer100People": 13.4,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 12.710771560668945,
         "long": 104.91678619384766,
         "parentId": "world"
@@ -2962,7 +2858,6 @@
     {
         "id": "guadeloupe",
         "displayName": "Guadeloupe",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 13770,
         "totalDeaths": 211,
@@ -2976,7 +2871,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 16.25,
         "long": -61.58333206176758,
         "parentId": "world"
@@ -2984,7 +2879,6 @@
     {
         "id": "tajikistan",
         "displayName": "Tajikistan",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 13714,
         "totalDeaths": 91,
@@ -2998,7 +2892,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 38.52513122558594,
         "long": 71.03881072998047,
         "parentId": "world"
@@ -3006,7 +2900,6 @@
     {
         "id": "burkinafaso",
         "displayName": "Burkina Faso",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 13310,
         "totalDeaths": 157,
@@ -3020,7 +2913,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 12.28544807434082,
         "long": -1.7441790103912354,
         "parentId": "world"
@@ -3028,21 +2921,20 @@
     {
         "id": "guyana",
         "displayName": "Guyana",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 13283,
         "totalDeaths": 296,
         "totalRecovered": 11208,
-        "totalRecoveredDelta": 98,
-        "totalDeathsDelta": 1,
-        "totalConfirmedDelta": 177,
+        "totalRecoveredDelta": null,
+        "totalDeathsDelta": null,
+        "totalConfirmedDelta": null,
         "totalDosesAdministered": 126800,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 15.76,
         "totalDosesWithAtleast2Dose": 0.36,
         "totalDosesPer100People": 16.12,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 4.978387832641602,
         "long": -59.08845520019531,
         "parentId": "world"
@@ -3050,7 +2942,6 @@
     {
         "id": "andorra",
         "displayName": "Andorra",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 13232,
         "totalDeaths": 125,
@@ -3064,7 +2955,7 @@
         "totalDosesWithAtleast2Dose": 6.06,
         "totalDosesPer100People": 34.19,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 42.54530334472656,
         "long": 1.5762859582901,
         "parentId": "world"
@@ -3072,7 +2963,6 @@
     {
         "id": "haiti",
         "displayName": "Haiti",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 13094,
         "totalDeaths": 254,
@@ -3086,7 +2976,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 18.933517456054688,
         "long": -72.67459106445312,
         "parentId": "world"
@@ -3094,21 +2984,20 @@
     {
         "id": "togo",
         "displayName": "Togo",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 12967,
+        "totalConfirmed": 12992,
         "totalDeaths": 123,
-        "totalRecovered": 11140,
-        "totalRecoveredDelta": 95,
+        "totalRecovered": 11249,
+        "totalRecoveredDelta": 204,
         "totalDeathsDelta": null,
-        "totalConfirmedDelta": 36,
+        "totalConfirmedDelta": 61,
         "totalDosesAdministered": 160000,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 1.93,
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 1.93,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 8.530759811401367,
         "long": 0.976809024810791,
         "parentId": "world"
@@ -3116,7 +3005,6 @@
     {
         "id": "belize",
         "displayName": "Belize",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 12668,
         "totalDeaths": 323,
@@ -3130,7 +3018,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 10.59,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 17.20055389404297,
         "long": -88.70706939697266,
         "parentId": "world"
@@ -3138,7 +3026,6 @@
     {
         "id": "curaao",
         "displayName": "Cura\u00e7ao",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 12195,
         "totalDeaths": 109,
@@ -3152,7 +3039,7 @@
         "totalDosesWithAtleast2Dose": 13.57,
         "totalDosesPer100People": 57.23,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 12.192387580871582,
         "long": -68.97064971923828,
         "parentId": "world"
@@ -3160,7 +3047,6 @@
     {
         "id": "hongkong",
         "displayName": "Hong Kong SAR",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 11783,
         "totalDeaths": 210,
@@ -3174,7 +3060,7 @@
         "totalDosesWithAtleast2Dose": 6.41,
         "totalDosesPer100People": 18.38,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 22.333080291748047,
         "long": 114.19122314453125,
         "parentId": "world"
@@ -3182,7 +3068,6 @@
     {
         "id": "djibouti",
         "displayName": "Djibouti",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 11121,
         "totalDeaths": 145,
@@ -3196,15 +3081,35 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 1.04,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 11.73109245300293,
         "long": 42.579105377197266,
         "parentId": "world"
     },
     {
+        "id": "trinidadandtobago",
+        "displayName": "Trinidad and Tobago",
+        "isVaccineDataAvailable": true,
+        "totalConfirmed": 11072,
+        "totalDeaths": 171,
+        "totalRecovered": 8546,
+        "totalRecoveredDelta": 65,
+        "totalDeathsDelta": 2,
+        "totalConfirmedDelta": 248,
+        "totalDosesAdministered": 42154,
+        "totalDosesDistributed": null,
+        "totalDosesWithAtleast1Dose": 3.01,
+        "totalDosesWithAtleast2Dose": null,
+        "totalDosesPer100People": 3.01,
+        "totalSupplyUsed": null,
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
+        "lat": 10.423745155334473,
+        "long": -61.296531677246094,
+        "parentId": "world"
+    },
+    {
         "id": "papuanewguinea",
         "displayName": "Papua New Guinea",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 11037,
         "totalDeaths": 115,
@@ -3218,37 +3123,14 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.03,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -6.613677024841309,
         "long": 144.26144409179688,
         "parentId": "world"
     },
     {
-        "id": "trinidadandtobago",
-        "displayName": "Trinidad and Tobago",
-        "areas": [],
-        "isVaccineDataAvailable": true,
-        "totalConfirmed": 10824,
-        "totalDeaths": 169,
-        "totalRecovered": 8481,
-        "totalRecoveredDelta": 61,
-        "totalDeathsDelta": 4,
-        "totalConfirmedDelta": 326,
-        "totalDosesAdministered": 42154,
-        "totalDosesDistributed": null,
-        "totalDosesWithAtleast1Dose": 3.01,
-        "totalDosesWithAtleast2Dose": null,
-        "totalDosesPer100People": 3.01,
-        "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
-        "lat": 10.423745155334473,
-        "long": -61.296531677246094,
-        "parentId": "world"
-    },
-    {
         "id": "lesotho",
         "displayName": "Lesotho",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 10731,
         "totalDeaths": 316,
@@ -3262,7 +3144,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.75,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -29.582122802734375,
         "long": 28.246875762939453,
         "parentId": "world"
@@ -3270,7 +3152,6 @@
     {
         "id": "congo",
         "displayName": "Congo",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 10678,
         "totalDeaths": 144,
@@ -3284,7 +3165,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.26,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -0.8273400068283081,
         "long": 15.241456985473633,
         "parentId": "world"
@@ -3292,21 +3173,20 @@
     {
         "id": "aruba",
         "displayName": "Aruba",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 10638,
+        "totalConfirmed": 10650,
         "totalDeaths": 99,
-        "totalRecovered": 10368,
-        "totalRecoveredDelta": 32,
-        "totalDeathsDelta": 1,
-        "totalConfirmedDelta": 30,
+        "totalRecovered": 10402,
+        "totalRecoveredDelta": 34,
+        "totalDeathsDelta": null,
+        "totalConfirmedDelta": 12,
         "totalDosesAdministered": 75846,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 50.67,
         "totalDosesWithAtleast2Dose": 20.37,
         "totalDosesPer100People": 71.04,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 12.509138107299805,
         "long": -69.9704360961914,
         "parentId": "world"
@@ -3314,7 +3194,6 @@
     {
         "id": "southsudan",
         "displayName": "South Sudan",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 10583,
         "totalDeaths": 115,
@@ -3328,7 +3207,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.01,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 7.283548831939697,
         "long": 30.326135635375977,
         "parentId": "world"
@@ -3336,7 +3215,6 @@
     {
         "id": "martinique",
         "displayName": "Martinique",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 10491,
         "totalDeaths": 70,
@@ -3350,7 +3228,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 14.653226852416992,
         "long": -61.01868438720703,
         "parentId": "world"
@@ -3358,7 +3236,6 @@
     {
         "id": "bahamas",
         "displayName": "Bahamas",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 10453,
         "totalDeaths": 199,
@@ -3372,7 +3249,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 6.53,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 24.679536819458008,
         "long": -78.05500030517578,
         "parentId": "world"
@@ -3380,21 +3257,20 @@
     {
         "id": "suriname",
         "displayName": "Suriname",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 10363,
+        "totalConfirmed": 10428,
         "totalDeaths": 204,
-        "totalRecovered": 9336,
-        "totalRecoveredDelta": 47,
+        "totalRecovered": 9359,
+        "totalRecoveredDelta": 70,
         "totalDeathsDelta": 3,
-        "totalConfirmedDelta": 77,
+        "totalConfirmedDelta": 142,
         "totalDosesAdministered": 38351,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 6.54,
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 6.54,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 4.1390700340271,
         "long": -55.91132736206055,
         "parentId": "world"
@@ -3402,7 +3278,6 @@
     {
         "id": "guam",
         "displayName": "Guam",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 8933,
         "totalDeaths": 137,
@@ -3416,7 +3291,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 13.443708419799805,
         "long": 144.77774047851562,
         "parentId": "world"
@@ -3424,7 +3299,6 @@
     {
         "id": "benin",
         "displayName": "Benin",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 7821,
         "totalDeaths": 99,
@@ -3438,7 +3312,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 9.6560640335083,
         "long": 2.3395819664001465,
         "parentId": "world"
@@ -3446,7 +3320,6 @@
     {
         "id": "equatorialguinea",
         "displayName": "Equatorial Guinea",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 7694,
         "totalDeaths": 112,
@@ -3460,7 +3333,7 @@
         "totalDosesWithAtleast2Dose": 0.77,
         "totalDosesPer100People": 5.38,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 1.5670069456100464,
         "long": 10.465889930725098,
         "parentId": "world"
@@ -3468,7 +3341,6 @@
     {
         "id": "nicaragua",
         "displayName": "Nicaragua",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 6898,
         "totalDeaths": 182,
@@ -3482,7 +3354,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.93,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 12.844159126281738,
         "long": -85.03196716308594,
         "parentId": "world"
@@ -3490,7 +3362,6 @@
     {
         "id": "iceland",
         "displayName": "Iceland",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 6472,
         "totalDeaths": 29,
@@ -3504,7 +3375,7 @@
         "totalDosesWithAtleast2Dose": 10.38,
         "totalDosesPer100People": 38.99,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 64.983642578125,
         "long": -18.577098846435547,
         "parentId": "world"
@@ -3512,7 +3383,6 @@
     {
         "id": "centralafricanrepublic",
         "displayName": "Central African Republic",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 6411,
         "totalDeaths": 88,
@@ -3526,7 +3396,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 6.57574987411499,
         "long": 20.48409080505371,
         "parentId": "world"
@@ -3534,21 +3404,20 @@
     {
         "id": "yemen",
         "displayName": "Yemen",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 6325,
         "totalDeaths": 1229,
         "totalRecovered": 2794,
-        "totalRecoveredDelta": 63,
-        "totalDeathsDelta": 7,
-        "totalConfirmedDelta": 31,
+        "totalRecoveredDelta": 43,
+        "totalDeathsDelta": 3,
+        "totalConfirmedDelta": 8,
         "totalDosesAdministered": null,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": null,
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 15.934554100036621,
         "long": 47.54685592651367,
         "parentId": "world"
@@ -3556,7 +3425,6 @@
     {
         "id": "gambia",
         "displayName": "Gambia",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 5898,
         "totalDeaths": 174,
@@ -3570,7 +3438,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.87,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 13.446971893310547,
         "long": -15.422768592834473,
         "parentId": "world"
@@ -3578,7 +3446,6 @@
     {
         "id": "seychelles",
         "displayName": "Seychelles",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 5873,
         "totalDeaths": 28,
@@ -3592,7 +3459,7 @@
         "totalDosesWithAtleast2Dose": 59.48,
         "totalDosesPer100People": 127.66,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -4.6786580085754395,
         "long": 55.4672966003418,
         "parentId": "world"
@@ -3600,7 +3467,6 @@
     {
         "id": "niger",
         "displayName": "Niger",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 5228,
         "totalDeaths": 191,
@@ -3614,7 +3480,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.01,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 17.420581817626953,
         "long": 9.400392532348633,
         "parentId": "world"
@@ -3622,7 +3488,6 @@
     {
         "id": "sanmarino",
         "displayName": "San Marino",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 5066,
         "totalDeaths": 90,
@@ -3636,7 +3501,7 @@
         "totalDosesWithAtleast2Dose": 25.64,
         "totalDosesPer100People": 85.36,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 43.938133239746094,
         "long": 12.463393211364746,
         "parentId": "world"
@@ -3644,21 +3509,20 @@
     {
         "id": "chad",
         "displayName": "Chad",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 4824,
         "totalDeaths": 170,
         "totalRecovered": 4430,
-        "totalRecoveredDelta": 14,
+        "totalRecoveredDelta": 7,
         "totalDeathsDelta": null,
-        "totalConfirmedDelta": 14,
+        "totalConfirmedDelta": 7,
         "totalDosesAdministered": null,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": null,
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 15.36843490600586,
         "long": 18.667133331298828,
         "parentId": "world"
@@ -3666,21 +3530,20 @@
     {
         "id": "saintlucia",
         "displayName": "Saint Lucia",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 4552,
+        "totalConfirmed": 4560,
         "totalDeaths": 74,
-        "totalRecovered": 4363,
-        "totalRecoveredDelta": 6,
+        "totalRecovered": 4368,
+        "totalRecoveredDelta": 11,
         "totalDeathsDelta": null,
-        "totalConfirmedDelta": 18,
+        "totalConfirmedDelta": 26,
         "totalDosesAdministered": 24230,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": null,
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 13.2,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 13.898548126220703,
         "long": -60.967308044433594,
         "parentId": "world"
@@ -3688,7 +3551,6 @@
     {
         "id": "gibraltar",
         "displayName": "Gibraltar",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 4283,
         "totalDeaths": 94,
@@ -3702,7 +3564,7 @@
         "totalDosesWithAtleast2Dose": 95.14,
         "totalDosesPer100People": 206.38,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 36.13597106933594,
         "long": -5.348627090454102,
         "parentId": "world"
@@ -3710,21 +3572,20 @@
     {
         "id": "sierraleone",
         "displayName": "Sierra Leone",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 4057,
         "totalDeaths": 79,
         "totalRecovered": 3076,
-        "totalRecoveredDelta": 1,
+        "totalRecoveredDelta": null,
         "totalDeathsDelta": null,
-        "totalConfirmedDelta": 4,
+        "totalConfirmedDelta": 3,
         "totalDosesAdministered": 59786,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 0.68,
         "totalDosesWithAtleast2Dose": 0.07,
         "totalDosesPer100People": 0.75,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 8.548967361450195,
         "long": -11.80417537689209,
         "parentId": "world"
@@ -3732,7 +3593,6 @@
     {
         "id": "burundi",
         "displayName": "Burundi",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 4018,
         "totalDeaths": 6,
@@ -3746,7 +3606,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -3.367311954498291,
         "long": 29.8881893157959,
         "parentId": "world"
@@ -3754,7 +3614,6 @@
     {
         "id": "barbados",
         "displayName": "Barbados",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 3863,
         "totalDeaths": 44,
@@ -3768,7 +3627,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 25.68,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 13.172222137451172,
         "long": -59.55642318725586,
         "parentId": "world"
@@ -3776,7 +3635,6 @@
     {
         "id": "comoros",
         "displayName": "Comoros",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 3838,
         "totalDeaths": 146,
@@ -3790,7 +3648,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -11.662553787231445,
         "long": 43.354217529296875,
         "parentId": "world"
@@ -3798,7 +3656,6 @@
     {
         "id": "guineabissau",
         "displayName": "Guinea-Bissau",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 3734,
         "totalDeaths": 67,
@@ -3812,7 +3669,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 12.037690162658691,
         "long": -14.958002090454102,
         "parentId": "world"
@@ -3820,7 +3677,6 @@
     {
         "id": "eritrea",
         "displayName": "Eritrea",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 3671,
         "totalDeaths": 10,
@@ -3834,7 +3690,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 15.359945297241211,
         "long": 38.845680236816406,
         "parentId": "world"
@@ -3842,7 +3698,6 @@
     {
         "id": "usvirginislands",
         "displayName": "U.S. Virgin Islands",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 3093,
         "totalDeaths": 27,
@@ -3856,7 +3711,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 17.732929229736328,
         "long": -64.76648712158203,
         "parentId": "world"
@@ -3864,7 +3719,6 @@
     {
         "id": "vietnam",
         "displayName": "Vietnam",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 2942,
         "totalDeaths": 35,
@@ -3878,7 +3732,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.52,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 16.167692184448242,
         "long": 107.83905029296875,
         "parentId": "world"
@@ -3886,7 +3740,6 @@
     {
         "id": "liechtenstein",
         "displayName": "Liechtenstein",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 2936,
         "totalDeaths": 57,
@@ -3900,7 +3753,7 @@
         "totalDosesWithAtleast2Dose": 10.95,
         "totalDosesPer100People": 32.04,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 47.14126968383789,
         "long": 9.552783012390137,
         "parentId": "world"
@@ -3908,7 +3761,6 @@
     {
         "id": "newzealand",
         "displayName": "New Zealand",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 2613,
         "totalDeaths": 26,
@@ -3922,7 +3774,7 @@
         "totalDosesWithAtleast2Dose": 1.24,
         "totalDosesPer100People": 4.82,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -43.947635650634766,
         "long": 170.50286865234375,
         "parentId": "world"
@@ -3930,21 +3782,20 @@
     {
         "id": "monaco",
         "displayName": "Monaco",
-        "areas": [],
         "isVaccineDataAvailable": true,
-        "totalConfirmed": 2454,
+        "totalConfirmed": 2457,
         "totalDeaths": 32,
-        "totalRecovered": 2368,
-        "totalRecoveredDelta": 10,
+        "totalRecovered": 2369,
+        "totalRecoveredDelta": 1,
         "totalDeathsDelta": null,
-        "totalConfirmedDelta": 2,
+        "totalConfirmedDelta": 3,
         "totalDosesAdministered": 24390,
         "totalDosesDistributed": null,
         "totalDosesWithAtleast1Dose": 32.51,
         "totalDosesWithAtleast2Dose": 29.64,
         "totalDosesPer100People": 62.15,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 43.736305236816406,
         "long": 7.423314094543457,
         "parentId": "world"
@@ -3952,7 +3803,6 @@
     {
         "id": "bermuda",
         "displayName": "Bermuda",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 2393,
         "totalDeaths": 28,
@@ -3966,7 +3816,7 @@
         "totalDosesWithAtleast2Dose": 38.18,
         "totalDosesPer100People": 89.77,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 32.39096450805664,
         "long": -64.67505645751953,
         "parentId": "world"
@@ -3974,7 +3824,6 @@
     {
         "id": "turksandcaicosislands",
         "displayName": "Turks and Caicos Islands",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 2390,
         "totalDeaths": 17,
@@ -3988,7 +3837,7 @@
         "totalDosesWithAtleast2Dose": 25.83,
         "totalDosesPer100People": 64.67,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 21.77568244934082,
         "long": -71.7576675415039,
         "parentId": "world"
@@ -3996,7 +3845,6 @@
     {
         "id": "sotomandprncipe",
         "displayName": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 2303,
         "totalDeaths": 35,
@@ -4010,7 +3858,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 4.44,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 0.23931099474430084,
         "long": 6.602059841156006,
         "parentId": "world"
@@ -4018,7 +3866,6 @@
     {
         "id": "timorleste",
         "displayName": "Timor-Leste",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 2276,
         "totalDeaths": 3,
@@ -4032,7 +3879,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.2,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -8.797422409057617,
         "long": 125.9454116821289,
         "parentId": "world"
@@ -4040,7 +3887,6 @@
     {
         "id": "liberia",
         "displayName": "Liberia",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 2099,
         "totalDeaths": 85,
@@ -4054,7 +3900,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 6.447522163391113,
         "long": -9.311179161071777,
         "parentId": "world"
@@ -4062,7 +3908,6 @@
     {
         "id": "stvincentandthegrenadines",
         "displayName": "Saint Vincent and the Grenadines",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 1864,
         "totalDeaths": 11,
@@ -4076,7 +3921,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 12.49,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 13.25147819519043,
         "long": -61.18913650512695,
         "parentId": "world"
@@ -4084,7 +3929,6 @@
     {
         "id": "isleofman",
         "displayName": "Isle of Man",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 1589,
         "totalDeaths": 29,
@@ -4098,7 +3942,7 @@
         "totalDosesWithAtleast2Dose": 18.55,
         "totalDosesPer100People": 85.4,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 54.22895812988281,
         "long": -4.537568092346191,
         "parentId": "world"
@@ -4106,7 +3950,6 @@
     {
         "id": "bonaire",
         "displayName": "Bonaire",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 1533,
         "totalDeaths": 16,
@@ -4120,7 +3963,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 12.185541152954102,
         "long": -68.29056549072266,
         "parentId": "world"
@@ -4128,7 +3971,6 @@
     {
         "id": "antiguaandbarbuda",
         "displayName": "Antigua and Barbuda",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 1232,
         "totalDeaths": 32,
@@ -4142,7 +3984,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 30.38,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 17.077665328979492,
         "long": -61.798709869384766,
         "parentId": "world"
@@ -4150,7 +3992,6 @@
     {
         "id": "mauritius",
         "displayName": "Mauritius",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 1211,
         "totalDeaths": 17,
@@ -4164,7 +4005,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 9.23,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -20.28355598449707,
         "long": 57.571815490722656,
         "parentId": "world"
@@ -4172,7 +4013,6 @@
     {
         "id": "taiwan",
         "displayName": "Taiwan",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 1132,
         "totalDeaths": 12,
@@ -4186,7 +4026,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.23,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 23.748992919921875,
         "long": 120.97128295898438,
         "parentId": "world"
@@ -4194,7 +4034,6 @@
     {
         "id": "bhutan",
         "displayName": "Bhutan",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 1074,
         "totalDeaths": 1,
@@ -4208,7 +4047,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 62.25,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 27.416879653930664,
         "long": 90.43476104736328,
         "parentId": "world"
@@ -4216,7 +4055,6 @@
     {
         "id": "guernsey",
         "displayName": "Guernsey",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 822,
         "totalDeaths": 14,
@@ -4230,7 +4068,7 @@
         "totalDosesWithAtleast2Dose": 20.31,
         "totalDosesPer100People": 69.48,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 49.45612335205078,
         "long": -2.579606056213379,
         "parentId": "world"
@@ -4238,7 +4076,6 @@
     {
         "id": "laos",
         "displayName": "Laos",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 821,
         "totalDeaths": null,
@@ -4252,7 +4089,7 @@
         "totalDosesWithAtleast2Dose": 0.8,
         "totalDosesPer100People": 2.53,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 18.49555778503418,
         "long": 103.76795959472656,
         "parentId": "world"
@@ -4260,7 +4097,6 @@
     {
         "id": "faroeislands",
         "displayName": "Faroe Islands",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 664,
         "totalDeaths": 1,
@@ -4274,7 +4110,7 @@
         "totalDosesWithAtleast2Dose": 11.83,
         "totalDosesPer100People": 41.42,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 62.134979248046875,
         "long": -7.01463508605957,
         "parentId": "world"
@@ -4282,7 +4118,6 @@
     {
         "id": "caymanislands",
         "displayName": "Cayman Islands",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 543,
         "totalDeaths": 2,
@@ -4296,7 +4131,7 @@
         "totalDosesWithAtleast2Dose": 45.76,
         "totalDosesPer100People": 99.49,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 19.318519592285156,
         "long": -81.24376678466797,
         "parentId": "world"
@@ -4304,7 +4139,6 @@
     {
         "id": "tanzania",
         "displayName": "Tanzania",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 509,
         "totalDeaths": 21,
@@ -4318,7 +4152,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -6.267545223236084,
         "long": 34.81095886230469,
         "parentId": "world"
@@ -4326,7 +4160,6 @@
     {
         "id": "wallisandfutuna",
         "displayName": "Wallis and Futuna",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 444,
         "totalDeaths": 7,
@@ -4340,7 +4173,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -13.285017013549805,
         "long": -176.20445251464844,
         "parentId": "world"
@@ -4348,7 +4181,6 @@
     {
         "id": "brunei",
         "displayName": "Brunei",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 224,
         "totalDeaths": 3,
@@ -4362,7 +4194,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 2.45,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 4.4969048500061035,
         "long": 114.6308364868164,
         "parentId": "world"
@@ -4370,7 +4202,6 @@
     {
         "id": "britishvirginislands",
         "displayName": "British Virgin Islands",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 194,
         "totalDeaths": 1,
@@ -4384,7 +4215,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 18.42353630065918,
         "long": -64.62605285644531,
         "parentId": "world"
@@ -4392,7 +4223,6 @@
     {
         "id": "dominica",
         "displayName": "Dominica",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 174,
         "totalDeaths": null,
@@ -4406,7 +4236,7 @@
         "totalDosesWithAtleast2Dose": 6.69,
         "totalDosesPer100People": 32.02,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 15.434657096862793,
         "long": -61.350074768066406,
         "parentId": "world"
@@ -4427,7 +4257,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 15.188824653625488,
         "long": 145.75350952148438,
         "parentId": "world"
@@ -4435,7 +4265,6 @@
     {
         "id": "grenada",
         "displayName": "Grenada",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 160,
         "totalDeaths": 1,
@@ -4449,7 +4278,7 @@
         "totalDosesWithAtleast2Dose": 0.88,
         "totalDosesPer100People": 11.34,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 12.113840103149414,
         "long": -61.683753967285156,
         "parentId": "world"
@@ -4457,7 +4286,6 @@
     {
         "id": "newcaledonia",
         "displayName": "New Caledonia",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 124,
         "totalDeaths": null,
@@ -4471,7 +4299,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -21.32696533203125,
         "long": 165.4899444580078,
         "parentId": "world"
@@ -4479,7 +4307,6 @@
     {
         "id": "fiji",
         "displayName": "Fiji",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 119,
         "totalDeaths": 2,
@@ -4493,7 +4320,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 6.25,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -17.83541488647461,
         "long": 177.96334838867188,
         "parentId": "world"
@@ -4501,7 +4328,6 @@
     {
         "id": "anguilla",
         "displayName": "Anguilla",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 93,
         "totalDeaths": null,
@@ -4515,7 +4341,7 @@
         "totalDosesWithAtleast2Dose": 5.22,
         "totalDosesPer100People": 45.98,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 18.21481704711914,
         "long": -63.05470275878906,
         "parentId": "world"
@@ -4523,7 +4349,6 @@
     {
         "id": "falklandislands",
         "displayName": "Falkland Islands",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 63,
         "totalDeaths": null,
@@ -4537,7 +4362,7 @@
         "totalDosesWithAtleast2Dose": 50.96,
         "totalDosesPer100People": 126.53,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -51.745506286621094,
         "long": -58.75210952758789,
         "parentId": "world"
@@ -4545,7 +4370,6 @@
     {
         "id": "antarctica",
         "displayName": "Antarctica",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 58,
         "totalDeaths": null,
@@ -4559,7 +4383,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -80.20263671875,
         "long": 28.703405380249023,
         "parentId": "world"
@@ -4567,7 +4391,6 @@
     {
         "id": "macau",
         "displayName": "Macao SAR",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 49,
         "totalDeaths": null,
@@ -4581,7 +4404,7 @@
         "totalDosesWithAtleast2Dose": 5.46,
         "totalDosesPer100People": 15.78,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 22.145139694213867,
         "long": 113.58858489990234,
         "parentId": "world"
@@ -4589,7 +4412,6 @@
     {
         "id": "greenland",
         "displayName": "Greenland",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 31,
         "totalDeaths": null,
@@ -4603,7 +4425,7 @@
         "totalDosesWithAtleast2Dose": 9.29,
         "totalDosesPer100People": 24.9,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 74.75581359863281,
         "long": -41.3941650390625,
         "parentId": "world"
@@ -4611,7 +4433,6 @@
     {
         "id": "vaticancity",
         "displayName": "Vatican City",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 29,
         "totalDeaths": null,
@@ -4625,7 +4446,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 41.90339660644531,
         "long": 12.452831268310547,
         "parentId": "world"
@@ -4633,7 +4454,6 @@
     {
         "id": "saintpierreandmiquelon",
         "displayName": "Saint Pierre and Miquelon",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 25,
         "totalDeaths": null,
@@ -4647,7 +4467,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 46.951499938964844,
         "long": -56.324745178222656,
         "parentId": "world"
@@ -4655,7 +4475,6 @@
     {
         "id": "solomonislands",
         "displayName": "Solomon Islands",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 20,
         "totalDeaths": null,
@@ -4669,7 +4488,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": 0.71,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -9.622803688049316,
         "long": 160.16029357910156,
         "parentId": "world"
@@ -4677,7 +4496,6 @@
     {
         "id": "montserrat",
         "displayName": "Montserrat",
-        "areas": [],
         "isVaccineDataAvailable": true,
         "totalConfirmed": 20,
         "totalDeaths": 1,
@@ -4691,7 +4509,7 @@
         "totalDosesWithAtleast2Dose": 12.32,
         "totalDosesPer100People": 38.19,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 16.739171981811523,
         "long": -62.18928146362305,
         "parentId": "world"
@@ -4699,7 +4517,6 @@
     {
         "id": "saba",
         "displayName": "Saba",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 7,
         "totalDeaths": null,
@@ -4713,7 +4530,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 17.63150978088379,
         "long": -63.23771286010742,
         "parentId": "world"
@@ -4721,7 +4538,6 @@
     {
         "id": "vanuatu",
         "displayName": "Vanuatu",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 4,
         "totalDeaths": 1,
@@ -4735,7 +4551,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -15.241355895996094,
         "long": 166.8727569580078,
         "parentId": "world"
@@ -4743,7 +4559,6 @@
     {
         "id": "samoa",
         "displayName": "Samoa",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 4,
         "totalDeaths": null,
@@ -4757,7 +4572,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -13.62081241607666,
         "long": -172.44732666015625,
         "parentId": "world"
@@ -4765,7 +4580,6 @@
     {
         "id": "marshallislands",
         "displayName": "Marshall Islands",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 4,
         "totalDeaths": null,
@@ -4779,7 +4593,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": 7.164979934692383,
         "long": 171.038818359375,
         "parentId": "world"
@@ -4787,11 +4601,10 @@
     {
         "id": "americansamoa",
         "displayName": "American Samoa",
-        "areas": [],
         "isVaccineDataAvailable": false,
         "totalConfirmed": 3,
         "totalDeaths": null,
-        "totalRecovered": 3,
+        "totalRecovered": null,
         "totalRecoveredDelta": null,
         "totalDeathsDelta": null,
         "totalConfirmedDelta": null,
@@ -4801,7 +4614,7 @@
         "totalDosesWithAtleast2Dose": null,
         "totalDosesPer100People": null,
         "totalSupplyUsed": null,
-        "lastUpdated": "2021-05-01T19:09:01.949Z",
+        "lastUpdated": "2021-05-01T23:29:08.295Z",
         "lat": -14.300687789916992,
         "long": -170.71810913085938,
         "parentId": "world"
