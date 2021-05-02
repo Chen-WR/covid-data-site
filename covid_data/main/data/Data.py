@@ -92,10 +92,10 @@ class Data:
 		self.data.pop('areas')
 		self.globaldata.append(self.data)
 
-		# self.writeData(self.globaldata, 'globaldata')
-		# self.writeData(self.countrydata, 'countrydata')
-		# self.writeData(self.statedata, 'statedata')
-		# self.writeData(self.areadata, 'areadata')
+		self.writeData(self.globaldata, 'globaldata')
+		self.writeData(self.countrydata, 'countrydata')
+		self.writeData(self.statedata, 'statedata')
+		self.writeData(self.areadata, 'areadata')
 
 	def writeData(self, data, filename):
 		ext = '.json'
@@ -117,7 +117,7 @@ class Data:
 def main():
 	data = Data()
 	# data.start()
-	globaldata, countrydata, statedata, areadata = data.oneClick()
+	data.arangeData()
 
 if __name__ == '__main__':
 	main()

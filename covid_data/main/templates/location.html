@@ -1,0 +1,5 @@
+{% csrf_token %}
+{% for message in messages %}
+	<p>{{ message|safe }}</p>
+{% endfor %}
+{{form.as_p}}
