@@ -2,7 +2,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-class Data:
+class Datas:
 	def __init__(self):
 		self.data = self.getData()
 		self.tempdata = []
@@ -92,10 +92,44 @@ class Data:
 		self.data.pop('areas')
 		self.globaldata.append(self.data)
 
-		self.writeData(self.globaldata, 'globaldata')
-		self.writeData(self.countrydata, 'countrydata')
-		self.writeData(self.statedata, 'statedata')
-		self.writeData(self.areadata, 'areadata')
+		# self.writeData(self.globaldata, 'globaldata')
+		# self.writeData(self.countrydata, 'countrydata')
+		# self.writeData(self.statedata, 'statedata')
+		# self.writeData(self.areadata, 'areadata')
+
+	def arangeChoice(self):
+		for x in range(len(self.data['areas'])):
+			for y in range(len(self.data['areas'][x]['areas'])):
+				for z in range(len(self.data['areas'][x]['areas'][y]['areas'])):
+					self.data['areas'][x]['areas'][y]['areas'][z].pop('areas')
+					data = {}
+					for i,j in self.data['areas'][x]['areas'][y]['areas'][z].items():
+						if i == 'id' or i == 'displayName' or i == 'parentId':
+							data[i] = j
+					self.areadata.append(data)
+				data = {}
+				self.data['areas'][x]['areas'][y].pop('areas')
+				for i,j in self.data['areas'][x]['areas'][y].items():
+					if i == 'id' or i == 'displayName' or i == 'parentId':
+						data[i] = j
+				self.statedata.append(data)
+			data = {}
+			self.data['areas'][x].pop('areas')
+			for i,j in self.data['areas'][x].items():
+				if i == 'id' or i == 'displayName' or i == 'parentId':
+					data[i] = j
+			self.countrydata.append(data)
+		data = {}
+		self.data.pop('areas')
+		for i,j in self.data.items():
+			if i == 'id' or i == 'displayName' or i == 'parentId':
+				data[i] = j
+		self.globaldata.append(data)
+
+		# self.writeData(self.globaldata, 'globaldata')
+		# self.writeData(self.countrydata, 'countrydata')
+		# self.writeData(self.statedata, 'statedata')
+		# self.writeData(self.areadata, 'areadata')
 
 	def writeData(self, data, filename):
 		ext = '.json'
@@ -114,10 +148,14 @@ class Data:
 		self.arangeData()
 		return self.globaldata, self.countrydata, self.statedata, self.areadata
 
+	def oneClickchoice(self):
+		self.arangeChoice()
+		return self.globaldata, self.countrydata, self.statedata, self.areadata
+
 def main():
-	data = Data()
+	data = Datas()
 	# data.start()
-	data.arangeData()
+	data.oneClick()
 
 if __name__ == '__main__':
 	main()

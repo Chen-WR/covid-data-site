@@ -20,10 +20,6 @@ class Data:
 		element = element.strip('<script type="text/javascript">var data=')
 		element = element.strip(';</script>')
 		json_data = json.loads(element)
-		# with open('data.json', 'w+') as output:
-		# 	json.dump(json_data, output, indent=4, separators=(',', ': '))
-		# with open('data.json', 'r') as file:
-		# 	data = json.load(file)
 		return json_data
 
 	# Extract Global Data
@@ -92,10 +88,44 @@ class Data:
 		self.data.pop('areas')
 		self.globaldata.append(self.data)
 
-		self.writeData(self.globaldata, 'globaldata')
-		self.writeData(self.countrydata, 'countrydata')
-		self.writeData(self.statedata, 'statedata')
-		self.writeData(self.areadata, 'areadata')
+		# self.writeData(self.globaldata, 'globaldata')
+		# self.writeData(self.countrydata, 'countrydata')
+		# self.writeData(self.statedata, 'statedata')
+		# self.writeData(self.areadata, 'areadata')
+
+	def arangeChoice(self):
+		for x in range(len(self.data['areas'])):
+			for y in range(len(self.data['areas'][x]['areas'])):
+				for z in range(len(self.data['areas'][x]['areas'][y]['areas'])):
+					self.data['areas'][x]['areas'][y]['areas'][z].pop('areas')
+					data = {}
+					for i,j in self.data['areas'][x]['areas'][y]['areas'][z].items():
+						if i == 'id' or i == 'displayName' or i == 'parentId':
+							data[i] = j
+					self.areadata.append(data)
+				data = {}
+				self.data['areas'][x]['areas'][y].pop('areas')
+				for i,j in self.data['areas'][x]['areas'][y].items():
+					if i == 'id' or i == 'displayName' or i == 'parentId':
+						data[i] = j
+				self.statedata.append(data)
+			data = {}
+			self.data['areas'][x].pop('areas')
+			for i,j in self.data['areas'][x].items():
+				if i == 'id' or i == 'displayName' or i == 'parentId':
+					data[i] = j
+			self.countrydata.append(data)
+		data = {}
+		self.data.pop('areas')
+		for i,j in self.data.items():
+			if i == 'id' or i == 'displayName' or i == 'parentId':
+				data[i] = j
+		self.globaldata.append(data)
+
+		# self.writeData(self.globaldata, 'globaldata')
+		# self.writeData(self.countrydata, 'countrydata')
+		# self.writeData(self.statedata, 'statedata')
+		# self.writeData(self.areadata, 'areadata')
 
 	def writeData(self, data, filename):
 		ext = '.json'
@@ -115,7 +145,7 @@ class Data:
 def main():
 	data = Data()
 	# data.start()
-	data.oneClick()
+	data.arangeChoice()
 
 if __name__ == '__main__':
 	main()

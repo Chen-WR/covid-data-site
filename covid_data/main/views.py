@@ -1,6 +1,6 @@
 from django.shortcuts import render
-from .models import World, Country, State, Area
-from .forms import LocationForm
+from .models import Data, Location
+# from .forms import LocationForm
 from django.http import JsonResponse, Http404, HttpResponse, HttpResponseRedirect, HttpResponsePermanentRedirect
 from .updateDB import update
 import threading

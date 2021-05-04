@@ -1,0 +1,3407 @@
+[
+    {
+        "id": "california_unitedstates",
+        "displayName": "California",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "texas_unitedstates",
+        "displayName": "Texas",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "florida_unitedstates",
+        "displayName": "Florida",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "newyork_unitedstates",
+        "displayName": "New York",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "illinois_unitedstates",
+        "displayName": "Illinois",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "pennsylvania_unitedstates",
+        "displayName": "Pennsylvania",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "georgia_unitedstates",
+        "displayName": "Georgia",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "ohio_unitedstates",
+        "displayName": "Ohio",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "newjersey_unitedstates",
+        "displayName": "New Jersey",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "northcarolina_unitedstates",
+        "displayName": "North Carolina",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "michigan_unitedstates",
+        "displayName": "Michigan",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "arizona_unitedstates",
+        "displayName": "Arizona",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "tennessee_unitedstates",
+        "displayName": "Tennessee",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "indiana_unitedstates",
+        "displayName": "Indiana",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "massachusetts_unitedstates",
+        "displayName": "Massachusetts",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "wisconsin_unitedstates",
+        "displayName": "Wisconsin",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "virginia_unitedstates",
+        "displayName": "Virginia",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "missouri_unitedstates",
+        "displayName": "Missouri",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "southcarolina_unitedstates",
+        "displayName": "South Carolina",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "minnesota_unitedstates",
+        "displayName": "Minnesota",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "alabama_unitedstates",
+        "displayName": "Alabama",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "colorado_unitedstates",
+        "displayName": "Colorado",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "louisiana_unitedstates",
+        "displayName": "Louisiana",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "maryland_unitedstates",
+        "displayName": "Maryland",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "oklahoma_unitedstates",
+        "displayName": "Oklahoma",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "kentucky_unitedstates",
+        "displayName": "Kentucky",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "washington_unitedstates",
+        "displayName": "Washington",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "utah_unitedstates",
+        "displayName": "Utah",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "iowa_unitedstates",
+        "displayName": "Iowa",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "connecticut_unitedstates",
+        "displayName": "Connecticut",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "arkansas_unitedstates",
+        "displayName": "Arkansas",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "nevada_unitedstates",
+        "displayName": "Nevada",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "mississippi_unitedstates",
+        "displayName": "Mississippi",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "kansas_unitedstates",
+        "displayName": "Kansas",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "nebraska_unitedstates",
+        "displayName": "Nebraska",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "newmexico_unitedstates",
+        "displayName": "New Mexico",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "idaho_unitedstates",
+        "displayName": "Idaho",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "oregon_unitedstates",
+        "displayName": "Oregon",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "westvirginia_unitedstates",
+        "displayName": "West Virginia",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "rhodeisland_unitedstates",
+        "displayName": "Rhode Island",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "southdakota_unitedstates",
+        "displayName": "South Dakota",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "montana_unitedstates",
+        "displayName": "Montana",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "northdakota_unitedstates",
+        "displayName": "North Dakota",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "delaware_unitedstates",
+        "displayName": "Delaware",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "newhampshire_unitedstates",
+        "displayName": "New Hampshire",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "alaska_unitedstates",
+        "displayName": "Alaska",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "maine_unitedstates",
+        "displayName": "Maine",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "wyoming_unitedstates",
+        "displayName": "Wyoming",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "districtofcolumbia_unitedstates",
+        "displayName": "District of Columbia",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "hawaii_unitedstates",
+        "displayName": "Hawaii",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "vermont_unitedstates",
+        "displayName": "Vermont",
+        "parentId": "unitedstates"
+    },
+    {
+        "id": "maharashtra_india",
+        "displayName": "Maharashtra",
+        "parentId": "india"
+    },
+    {
+        "id": "kerala_india",
+        "displayName": "Kerala",
+        "parentId": "india"
+    },
+    {
+        "id": "karnataka_india",
+        "displayName": "Karnataka",
+        "parentId": "india"
+    },
+    {
+        "id": "uttarpradesh_india",
+        "displayName": "Uttar Pradesh",
+        "parentId": "india"
+    },
+    {
+        "id": "tamilnadu_india",
+        "displayName": "Tamil Nadu",
+        "parentId": "india"
+    },
+    {
+        "id": "delhi_india",
+        "displayName": "Delhi",
+        "parentId": "india"
+    },
+    {
+        "id": "andhrapradesh_india",
+        "displayName": "Andhra Pradesh",
+        "parentId": "india"
+    },
+    {
+        "id": "westbengal_india",
+        "displayName": "West Bengal",
+        "parentId": "india"
+    },
+    {
+        "id": "chhattisgarh_india",
+        "displayName": "Chhattisgarh",
+        "parentId": "india"
+    },
+    {
+        "id": "rajasthan_india",
+        "displayName": "Rajasthan",
+        "parentId": "india"
+    },
+    {
+        "id": "madhyapradesh_india",
+        "displayName": "Madhya Pradesh",
+        "parentId": "india"
+    },
+    {
+        "id": "gujarat_india",
+        "displayName": "Gujarat",
+        "parentId": "india"
+    },
+    {
+        "id": "haryana_india",
+        "displayName": "Haryana",
+        "parentId": "india"
+    },
+    {
+        "id": "bihar_india",
+        "displayName": "Bihar",
+        "parentId": "india"
+    },
+    {
+        "id": "orissa_india",
+        "displayName": "Orissa",
+        "parentId": "india"
+    },
+    {
+        "id": "telangana_india",
+        "displayName": "Telangana",
+        "parentId": "india"
+    },
+    {
+        "id": "punjab_india",
+        "displayName": "Punjab",
+        "parentId": "india"
+    },
+    {
+        "id": "assam_india",
+        "displayName": "Assam",
+        "parentId": "india"
+    },
+    {
+        "id": "jharkhand_india",
+        "displayName": "Jharkhand",
+        "parentId": "india"
+    },
+    {
+        "id": "uttarakhand_india",
+        "displayName": "Uttarakhand",
+        "parentId": "india"
+    },
+    {
+        "id": "himachalpradesh_india",
+        "displayName": "Himachal Pradesh",
+        "parentId": "india"
+    },
+    {
+        "id": "goa_india",
+        "displayName": "Goa",
+        "parentId": "india"
+    },
+    {
+        "id": "puducherry_india",
+        "displayName": "Puducherry",
+        "parentId": "india"
+    },
+    {
+        "id": "chandigarh_india",
+        "displayName": "Chandigarh",
+        "parentId": "india"
+    },
+    {
+        "id": "tripura_india",
+        "displayName": "Tripura",
+        "parentId": "india"
+    },
+    {
+        "id": "manipur_india",
+        "displayName": "Manipur",
+        "parentId": "india"
+    },
+    {
+        "id": "meghalaya_india",
+        "displayName": "Meghalaya",
+        "parentId": "india"
+    },
+    {
+        "id": "nagaland_india",
+        "displayName": "Nagaland",
+        "parentId": "india"
+    },
+    {
+        "id": "sikkim_india",
+        "displayName": "Sikkim",
+        "parentId": "india"
+    },
+    {
+        "id": "damananddiu_india",
+        "displayName": "Daman and Diu",
+        "parentId": "india"
+    },
+    {
+        "id": "mizoram_india",
+        "displayName": "Mizoram",
+        "parentId": "india"
+    },
+    {
+        "id": "andamanandnicobarislands_india",
+        "displayName": "Andaman and Nicobar Islands",
+        "parentId": "india"
+    },
+    {
+        "id": "lakshadweep_india",
+        "displayName": "Lakshadweep",
+        "parentId": "india"
+    },
+    {
+        "id": "sopaulo_brazil",
+        "displayName": "S\u00e3o Paulo",
+        "parentId": "brazil"
+    },
+    {
+        "id": "minasgerais_brazil",
+        "displayName": "Minas Gerais",
+        "parentId": "brazil"
+    },
+    {
+        "id": "riograndedosul_brazil",
+        "displayName": "Rio Grande do Sul",
+        "parentId": "brazil"
+    },
+    {
+        "id": "paran_brazil",
+        "displayName": "Paran\u00e1",
+        "parentId": "brazil"
+    },
+    {
+        "id": "bahia_brazil",
+        "displayName": "Bahia",
+        "parentId": "brazil"
+    },
+    {
+        "id": "santacatarina_brazil",
+        "displayName": "Santa Catarina",
+        "parentId": "brazil"
+    },
+    {
+        "id": "riodejaneiro_brazil",
+        "displayName": "Rio de Janeiro",
+        "parentId": "brazil"
+    },
+    {
+        "id": "cear_brazil",
+        "displayName": "Cear\u00e1",
+        "parentId": "brazil"
+    },
+    {
+        "id": "gois_brazil",
+        "displayName": "Goi\u00e1s",
+        "parentId": "brazil"
+    },
+    {
+        "id": "par_brazil",
+        "displayName": "Par\u00e1",
+        "parentId": "brazil"
+    },
+    {
+        "id": "espritosanto_brazil",
+        "displayName": "Esp\u00edrito Santo",
+        "parentId": "brazil"
+    },
+    {
+        "id": "pernambuco_brazil",
+        "displayName": "Pernambuco",
+        "parentId": "brazil"
+    },
+    {
+        "id": "federaldistrict_brazil",
+        "displayName": "Federal District",
+        "parentId": "brazil"
+    },
+    {
+        "id": "amazonas_brazil",
+        "displayName": "Amazonas",
+        "parentId": "brazil"
+    },
+    {
+        "id": "matogrosso_brazil",
+        "displayName": "Mato Grosso",
+        "parentId": "brazil"
+    },
+    {
+        "id": "paraiba_brazil",
+        "displayName": "Paraiba",
+        "parentId": "brazil"
+    },
+    {
+        "id": "maranho_brazil",
+        "displayName": "Maranh\u00e3o",
+        "parentId": "brazil"
+    },
+    {
+        "id": "matogrossodosul_brazil",
+        "displayName": "Mato Grosso do Sul",
+        "parentId": "brazil"
+    },
+    {
+        "id": "piau_brazil",
+        "displayName": "Piau\u00ed",
+        "parentId": "brazil"
+    },
+    {
+        "id": "riograndedonorte_brazil",
+        "displayName": "Rio Grande do Norte",
+        "parentId": "brazil"
+    },
+    {
+        "id": "rondnia_brazil",
+        "displayName": "Rond\u00f4nia",
+        "parentId": "brazil"
+    },
+    {
+        "id": "sergipe_brazil",
+        "displayName": "Sergipe",
+        "parentId": "brazil"
+    },
+    {
+        "id": "alagoas_brazil",
+        "displayName": "Alagoas",
+        "parentId": "brazil"
+    },
+    {
+        "id": "tocantins_brazil",
+        "displayName": "Tocantins",
+        "parentId": "brazil"
+    },
+    {
+        "id": "amap_brazil",
+        "displayName": "Amap\u00e1",
+        "parentId": "brazil"
+    },
+    {
+        "id": "roraima_brazil",
+        "displayName": "Roraima",
+        "parentId": "brazil"
+    },
+    {
+        "id": "acre_brazil",
+        "displayName": "Acre",
+        "parentId": "brazil"
+    },
+    {
+        "id": "moscowcity_russia",
+        "displayName": "Moscow City",
+        "parentId": "russia"
+    },
+    {
+        "id": "stpetersburgcity_russia",
+        "displayName": "St Petersburg City",
+        "parentId": "russia"
+    },
+    {
+        "id": "moscow_russia",
+        "displayName": "Moscow",
+        "parentId": "russia"
+    },
+    {
+        "id": "nizhniynovgorod_russia",
+        "displayName": "Nizhniy Novgorod",
+        "parentId": "russia"
+    },
+    {
+        "id": "rostov_russia",
+        "displayName": "Rostov",
+        "parentId": "russia"
+    },
+    {
+        "id": "sverdlovsk_russia",
+        "displayName": "Sverdlovsk",
+        "parentId": "russia"
+    },
+    {
+        "id": "voronezh_russia",
+        "displayName": "Voronezh",
+        "parentId": "russia"
+    },
+    {
+        "id": "krasnoyarsk_russia",
+        "displayName": "Krasnoyarsk",
+        "parentId": "russia"
+    },
+    {
+        "id": "irkutsk_russia",
+        "displayName": "Irkutsk",
+        "parentId": "russia"
+    },
+    {
+        "id": "arkhangelsk_russia",
+        "displayName": "Arkhangel\u2019sk",
+        "parentId": "russia"
+    },
+    {
+        "id": "samara_russia",
+        "displayName": "Samara",
+        "parentId": "russia"
+    },
+    {
+        "id": "saratov_russia",
+        "displayName": "Saratov",
+        "parentId": "russia"
+    },
+    {
+        "id": "chelyabinsk_russia",
+        "displayName": "Chelyabinsk",
+        "parentId": "russia"
+    },
+    {
+        "id": "volgograd_russia",
+        "displayName": "Volgograd",
+        "parentId": "russia"
+    },
+    {
+        "id": "khantymansi_russia",
+        "displayName": "Khanty-Mansi",
+        "parentId": "russia"
+    },
+    {
+        "id": "perm_russia",
+        "displayName": "Perm",
+        "parentId": "russia"
+    },
+    {
+        "id": "ulyanovsk_russia",
+        "displayName": "Ul\u2019yanovsk",
+        "parentId": "russia"
+    },
+    {
+        "id": "stavropol_russia",
+        "displayName": "Stavropol",
+        "parentId": "russia"
+    },
+    {
+        "id": "khabarovsk_russia",
+        "displayName": "Khabarovsk",
+        "parentId": "russia"
+    },
+    {
+        "id": "murmansk_russia",
+        "displayName": "Murmansk",
+        "parentId": "russia"
+    },
+    {
+        "id": "altayterritory_russia",
+        "displayName": "Altay Territory",
+        "parentId": "russia"
+    },
+    {
+        "id": "omsk_russia",
+        "displayName": "Omsk",
+        "parentId": "russia"
+    },
+    {
+        "id": "krasnodar_russia",
+        "displayName": "Krasnodar",
+        "parentId": "russia"
+    },
+    {
+        "id": "penza_russia",
+        "displayName": "Penza",
+        "parentId": "russia"
+    },
+    {
+        "id": "vologda_russia",
+        "displayName": "Vologda",
+        "parentId": "russia"
+    },
+    {
+        "id": "primorye_russia",
+        "displayName": "Primorye",
+        "parentId": "russia"
+    },
+    {
+        "id": "komi_russia",
+        "displayName": "Komi",
+        "parentId": "russia"
+    },
+    {
+        "id": "leningradoblast_russia",
+        "displayName": "Leningrad Oblast",
+        "parentId": "russia"
+    },
+    {
+        "id": "orenburg_russia",
+        "displayName": "Orenburg",
+        "parentId": "russia"
+    },
+    {
+        "id": "zabaykalskykrai_russia",
+        "displayName": "Zabaykalsky Krai",
+        "parentId": "russia"
+    },
+    {
+        "id": "kirov_russia",
+        "displayName": "Kirov",
+        "parentId": "russia"
+    },
+    {
+        "id": "novosibirsk_russia",
+        "displayName": "Novosibirsk",
+        "parentId": "russia"
+    },
+    {
+        "id": "tver_russia",
+        "displayName": "Tver\u2019",
+        "parentId": "russia"
+    },
+    {
+        "id": "yaroslavl_russia",
+        "displayName": "Yaroslavl\u2019",
+        "parentId": "russia"
+    },
+    {
+        "id": "tula_russia",
+        "displayName": "Tula",
+        "parentId": "russia"
+    },
+    {
+        "id": "yamalonenets_russia",
+        "displayName": "Yamalo-Nenets",
+        "parentId": "russia"
+    },
+    {
+        "id": "bryansk_russia",
+        "displayName": "Bryansk",
+        "parentId": "russia"
+    },
+    {
+        "id": "belgorod_russia",
+        "displayName": "Belgorod",
+        "parentId": "russia"
+    },
+    {
+        "id": "kursk_russia",
+        "displayName": "Kursk",
+        "parentId": "russia"
+    },
+    {
+        "id": "pskov_russia",
+        "displayName": "Pskov",
+        "parentId": "russia"
+    },
+    {
+        "id": "tyumen_russia",
+        "displayName": "Tyumen\u2019",
+        "parentId": "russia"
+    },
+    {
+        "id": "kemerovo_russia",
+        "displayName": "Kemerovo",
+        "parentId": "russia"
+    },
+    {
+        "id": "ivanovo_russia",
+        "displayName": "Ivanovo",
+        "parentId": "russia"
+    },
+    {
+        "id": "kaluga_russia",
+        "displayName": "Kaluga",
+        "parentId": "russia"
+    },
+    {
+        "id": "astrakhan_russia",
+        "displayName": "Astrakhan\u2019",
+        "parentId": "russia"
+    },
+    {
+        "id": "tomsk_russia",
+        "displayName": "Tomsk",
+        "parentId": "russia"
+    },
+    {
+        "id": "vladimir_russia",
+        "displayName": "Vladimir",
+        "parentId": "russia"
+    },
+    {
+        "id": "karelia_russia",
+        "displayName": "Karelia",
+        "parentId": "russia"
+    },
+    {
+        "id": "kaliningrad_russia",
+        "displayName": "Kaliningrad",
+        "parentId": "russia"
+    },
+    {
+        "id": "tambov_russia",
+        "displayName": "Tambov",
+        "parentId": "russia"
+    },
+    {
+        "id": "novgorod_russia",
+        "displayName": "Novgorod",
+        "parentId": "russia"
+    },
+    {
+        "id": "lipetsk_russia",
+        "displayName": "Lipetsk",
+        "parentId": "russia"
+    },
+    {
+        "id": "smolensk_russia",
+        "displayName": "Smolensk",
+        "parentId": "russia"
+    },
+    {
+        "id": "sakha_russia",
+        "displayName": "Sakha",
+        "parentId": "russia"
+    },
+    {
+        "id": "buryatia_russia",
+        "displayName": "Buryatia",
+        "parentId": "russia"
+    },
+    {
+        "id": "ryazan_russia",
+        "displayName": "Ryazan\u2019",
+        "parentId": "russia"
+    },
+    {
+        "id": "dagestan_russia",
+        "displayName": "Dagestan",
+        "parentId": "russia"
+    },
+    {
+        "id": "orel_russia",
+        "displayName": "Orel",
+        "parentId": "russia"
+    },
+    {
+        "id": "udmurtia_russia",
+        "displayName": "Udmurtia",
+        "parentId": "russia"
+    },
+    {
+        "id": "sakhalin_russia",
+        "displayName": "Sakhalin",
+        "parentId": "russia"
+    },
+    {
+        "id": "amur_russia",
+        "displayName": "Amur",
+        "parentId": "russia"
+    },
+    {
+        "id": "bashkortostan_russia",
+        "displayName": "Bashkortostan",
+        "parentId": "russia"
+    },
+    {
+        "id": "kostroma_russia",
+        "displayName": "Kostroma",
+        "parentId": "russia"
+    },
+    {
+        "id": "kurgan_russia",
+        "displayName": "Kurgan",
+        "parentId": "russia"
+    },
+    {
+        "id": "khakassia_russia",
+        "displayName": "Khakassia",
+        "parentId": "russia"
+    },
+    {
+        "id": "chuvashia_russia",
+        "displayName": "Chuvashia",
+        "parentId": "russia"
+    },
+    {
+        "id": "kabardinobalkaria_russia",
+        "displayName": "Kabardino-Balkaria",
+        "parentId": "russia"
+    },
+    {
+        "id": "altay_russia",
+        "displayName": "Altay",
+        "parentId": "russia"
+    },
+    {
+        "id": "karachaycherkessia_russia",
+        "displayName": "Karachay-Cherkessia",
+        "parentId": "russia"
+    },
+    {
+        "id": "kalmykia_russia",
+        "displayName": "Kalmykia",
+        "parentId": "russia"
+    },
+    {
+        "id": "tuva_russia",
+        "displayName": "Tuva",
+        "parentId": "russia"
+    },
+    {
+        "id": "mordovia_russia",
+        "displayName": "Mordovia",
+        "parentId": "russia"
+    },
+    {
+        "id": "tatarstan_russia",
+        "displayName": "Tatarstan",
+        "parentId": "russia"
+    },
+    {
+        "id": "kamchatka_russia",
+        "displayName": "Kamchatka",
+        "parentId": "russia"
+    },
+    {
+        "id": "northossetiaalania_russia",
+        "displayName": "North Ossetia-Alania",
+        "parentId": "russia"
+    },
+    {
+        "id": "ingushetia_russia",
+        "displayName": "Ingushetia",
+        "parentId": "russia"
+    },
+    {
+        "id": "adygea_russia",
+        "displayName": "Adygea",
+        "parentId": "russia"
+    },
+    {
+        "id": "chechnya_russia",
+        "displayName": "Chechnya",
+        "parentId": "russia"
+    },
+    {
+        "id": "mariel_russia",
+        "displayName": "Mari El",
+        "parentId": "russia"
+    },
+    {
+        "id": "magadan_russia",
+        "displayName": "Magadan",
+        "parentId": "russia"
+    },
+    {
+        "id": "birobijan_russia",
+        "displayName": "Birobijan",
+        "parentId": "russia"
+    },
+    {
+        "id": "nenets_russia",
+        "displayName": "Nenets",
+        "parentId": "russia"
+    },
+    {
+        "id": "chukot_russia",
+        "displayName": "Chukot",
+        "parentId": "russia"
+    },
+    {
+        "id": "england_unitedkingdom",
+        "displayName": "England",
+        "parentId": "unitedkingdom"
+    },
+    {
+        "id": "scotland_unitedkingdom",
+        "displayName": "Scotland",
+        "parentId": "unitedkingdom"
+    },
+    {
+        "id": "wales_unitedkingdom",
+        "displayName": "Wales",
+        "parentId": "unitedkingdom"
+    },
+    {
+        "id": "northernireland_unitedkingdom",
+        "displayName": "Northern Ireland",
+        "parentId": "unitedkingdom"
+    },
+    {
+        "id": "lombardy_italy",
+        "displayName": "Lombardy",
+        "parentId": "italy"
+    },
+    {
+        "id": "veneto_italy",
+        "displayName": "Veneto",
+        "parentId": "italy"
+    },
+    {
+        "id": "campania_italy",
+        "displayName": "Campania",
+        "parentId": "italy"
+    },
+    {
+        "id": "emiliaromagna_italy",
+        "displayName": "Emilia-Romagna",
+        "parentId": "italy"
+    },
+    {
+        "id": "piedmont_italy",
+        "displayName": "Piedmont",
+        "parentId": "italy"
+    },
+    {
+        "id": "latium_italy",
+        "displayName": "Latium",
+        "parentId": "italy"
+    },
+    {
+        "id": "apulia_italy",
+        "displayName": "Apulia",
+        "parentId": "italy"
+    },
+    {
+        "id": "tuscany_italy",
+        "displayName": "Tuscany",
+        "parentId": "italy"
+    },
+    {
+        "id": "sicily_italy",
+        "displayName": "Sicily",
+        "parentId": "italy"
+    },
+    {
+        "id": "liguria_italy",
+        "displayName": "Liguria",
+        "parentId": "italy"
+    },
+    {
+        "id": "marches_italy",
+        "displayName": "Marches",
+        "parentId": "italy"
+    },
+    {
+        "id": "abruzzi_italy",
+        "displayName": "Abruzzi",
+        "parentId": "italy"
+    },
+    {
+        "id": "calabria_italy",
+        "displayName": "Calabria",
+        "parentId": "italy"
+    },
+    {
+        "id": "sardinia_italy",
+        "displayName": "Sardinia",
+        "parentId": "italy"
+    },
+    {
+        "id": "umbria_italy",
+        "displayName": "Umbria",
+        "parentId": "italy"
+    },
+    {
+        "id": "basilicata_italy",
+        "displayName": "Basilicata",
+        "parentId": "italy"
+    },
+    {
+        "id": "molise_italy",
+        "displayName": "Molise",
+        "parentId": "italy"
+    },
+    {
+        "id": "valledaosta_italy",
+        "displayName": "Valle d'Aosta",
+        "parentId": "italy"
+    },
+    {
+        "id": "trentinoaltoadige_italy",
+        "displayName": "Trentino-Alto Adige",
+        "parentId": "italy"
+    },
+    {
+        "id": "friuliveneziagiulia_italy",
+        "displayName": "Friuli-Venezia Giulia",
+        "parentId": "italy"
+    },
+    {
+        "id": "communityofmadrid_spain",
+        "displayName": "Community of Madrid",
+        "parentId": "spain"
+    },
+    {
+        "id": "catalonia_spain",
+        "displayName": "Catalonia",
+        "parentId": "spain"
+    },
+    {
+        "id": "andalusia_spain",
+        "displayName": "Andalusia",
+        "parentId": "spain"
+    },
+    {
+        "id": "madrid_spain",
+        "displayName": "Madrid",
+        "parentId": "spain"
+    },
+    {
+        "id": "valencia_spain",
+        "displayName": "Valencia",
+        "parentId": "spain"
+    },
+    {
+        "id": "castillaandleon_spain",
+        "displayName": "Castilla and Leon",
+        "parentId": "spain"
+    },
+    {
+        "id": "basquecountry_spain",
+        "displayName": "Basque Country",
+        "parentId": "spain"
+    },
+    {
+        "id": "castillaleon_spain",
+        "displayName": "Castilla Leon",
+        "parentId": "spain"
+    },
+    {
+        "id": "castilelamancha_spain",
+        "displayName": "Castile La Mancha",
+        "parentId": "spain"
+    },
+    {
+        "id": "galicia_spain",
+        "displayName": "Galicia",
+        "parentId": "spain"
+    },
+    {
+        "id": "aragon_spain",
+        "displayName": "Aragon",
+        "parentId": "spain"
+    },
+    {
+        "id": "murcia_spain",
+        "displayName": "Murcia",
+        "parentId": "spain"
+    },
+    {
+        "id": "extremadura_spain",
+        "displayName": "Extremadura",
+        "parentId": "spain"
+    },
+    {
+        "id": "charteredcommunityofnavarre_spain",
+        "displayName": "Chartered Community of Navarre",
+        "parentId": "spain"
+    },
+    {
+        "id": "autonomouscommunityofbalearicislands_spain",
+        "displayName": "Autonomous Community of Balearic Islands",
+        "parentId": "spain"
+    },
+    {
+        "id": "canaryislands_spain",
+        "displayName": "Canary Islands",
+        "parentId": "spain"
+    },
+    {
+        "id": "asturias_spain",
+        "displayName": "Asturias",
+        "parentId": "spain"
+    },
+    {
+        "id": "balearicislands_spain",
+        "displayName": "Balearic Islands",
+        "parentId": "spain"
+    },
+    {
+        "id": "navarre_spain",
+        "displayName": "Navarre",
+        "parentId": "spain"
+    },
+    {
+        "id": "larioja_spain",
+        "displayName": "La Rioja",
+        "parentId": "spain"
+    },
+    {
+        "id": "cantabria_spain",
+        "displayName": "Cantabria",
+        "parentId": "spain"
+    },
+    {
+        "id": "melilla_spain",
+        "displayName": "Melilla",
+        "parentId": "spain"
+    },
+    {
+        "id": "ceuta_spain",
+        "displayName": "Ceuta",
+        "parentId": "spain"
+    },
+    {
+        "id": "northrhinewestphalia_germany",
+        "displayName": "North Rhine-Westphalia",
+        "parentId": "germany"
+    },
+    {
+        "id": "bavaria_germany",
+        "displayName": "Bavaria",
+        "parentId": "germany"
+    },
+    {
+        "id": "badenwrttemberg_germany",
+        "displayName": "Baden-W\u00fcrttemberg",
+        "parentId": "germany"
+    },
+    {
+        "id": "hesse_germany",
+        "displayName": "Hesse",
+        "parentId": "germany"
+    },
+    {
+        "id": "saxony_germany",
+        "displayName": "Saxony",
+        "parentId": "germany"
+    },
+    {
+        "id": "lowersaxony_germany",
+        "displayName": "Lower Saxony",
+        "parentId": "germany"
+    },
+    {
+        "id": "berlin_germany",
+        "displayName": "Berlin",
+        "parentId": "germany"
+    },
+    {
+        "id": "rhinelandpalatinate_germany",
+        "displayName": "Rhineland-Palatinate",
+        "parentId": "germany"
+    },
+    {
+        "id": "thuringia_germany",
+        "displayName": "Thuringia",
+        "parentId": "germany"
+    },
+    {
+        "id": "brandenburg_germany",
+        "displayName": "Brandenburg",
+        "parentId": "germany"
+    },
+    {
+        "id": "saxonyanhalt_germany",
+        "displayName": "Saxony-Anhalt",
+        "parentId": "germany"
+    },
+    {
+        "id": "hamburg_germany",
+        "displayName": "Hamburg",
+        "parentId": "germany"
+    },
+    {
+        "id": "schleswigholstein_germany",
+        "displayName": "Schleswig-Holstein",
+        "parentId": "germany"
+    },
+    {
+        "id": "mecklenburgwestpomerania_germany",
+        "displayName": "Mecklenburg-West Pomerania",
+        "parentId": "germany"
+    },
+    {
+        "id": "saarland_germany",
+        "displayName": "Saarland",
+        "parentId": "germany"
+    },
+    {
+        "id": "bremen_germany",
+        "displayName": "Bremen",
+        "parentId": "germany"
+    },
+    {
+        "id": "cityofbuenosaires_argentina",
+        "displayName": "City of Buenos Aires",
+        "parentId": "argentina"
+    },
+    {
+        "id": "santafe_argentina",
+        "displayName": "Santa Fe",
+        "parentId": "argentina"
+    },
+    {
+        "id": "cordoba_argentina",
+        "displayName": "Cordoba",
+        "parentId": "argentina"
+    },
+    {
+        "id": "tucuman_argentina",
+        "displayName": "Tucuman",
+        "parentId": "argentina"
+    },
+    {
+        "id": "mendoza_argentina",
+        "displayName": "Mendoza",
+        "parentId": "argentina"
+    },
+    {
+        "id": "neuquen_argentina",
+        "displayName": "Neuquen",
+        "parentId": "argentina"
+    },
+    {
+        "id": "entrerios_argentina",
+        "displayName": "Entre Rios",
+        "parentId": "argentina"
+    },
+    {
+        "id": "rionegro_argentina",
+        "displayName": "Rio Negro",
+        "parentId": "argentina"
+    },
+    {
+        "id": "chubut_argentina",
+        "displayName": "Chubut",
+        "parentId": "argentina"
+    },
+    {
+        "id": "larioja_argentina",
+        "displayName": "La Rioja",
+        "parentId": "argentina"
+    },
+    {
+        "id": "chaco_argentina",
+        "displayName": "Chaco",
+        "parentId": "argentina"
+    },
+    {
+        "id": "sanluis_argentina",
+        "displayName": "San Luis",
+        "parentId": "argentina"
+    },
+    {
+        "id": "corrientes_argentina",
+        "displayName": "Corrientes",
+        "parentId": "argentina"
+    },
+    {
+        "id": "salta_argentina",
+        "displayName": "Salta",
+        "parentId": "argentina"
+    },
+    {
+        "id": "santiagodelestero_argentina",
+        "displayName": "Santiago del Estero",
+        "parentId": "argentina"
+    },
+    {
+        "id": "sanjuan_argentina",
+        "displayName": "San Juan",
+        "parentId": "argentina"
+    },
+    {
+        "id": "jujuy_argentina",
+        "displayName": "Jujuy",
+        "parentId": "argentina"
+    },
+    {
+        "id": "catamarca_argentina",
+        "displayName": "Catamarca",
+        "parentId": "argentina"
+    },
+    {
+        "id": "misiones_argentina",
+        "displayName": "Misiones",
+        "parentId": "argentina"
+    },
+    {
+        "id": "formosa_argentina",
+        "displayName": "Formosa",
+        "parentId": "argentina"
+    },
+    {
+        "id": "capitaldistrict_colombia",
+        "displayName": "Capital District",
+        "parentId": "colombia"
+    },
+    {
+        "id": "antioquia_colombia",
+        "displayName": "Antioquia",
+        "parentId": "colombia"
+    },
+    {
+        "id": "atlantico_colombia",
+        "displayName": "Atlantico",
+        "parentId": "colombia"
+    },
+    {
+        "id": "valledelcauca_colombia",
+        "displayName": "Valle del Cauca",
+        "parentId": "colombia"
+    },
+    {
+        "id": "cundinamarca_colombia",
+        "displayName": "Cundinamarca",
+        "parentId": "colombia"
+    },
+    {
+        "id": "santander_colombia",
+        "displayName": "Santander",
+        "parentId": "colombia"
+    },
+    {
+        "id": "bolivar_colombia",
+        "displayName": "Bolivar",
+        "parentId": "colombia"
+    },
+    {
+        "id": "tolima_colombia",
+        "displayName": "Tolima",
+        "parentId": "colombia"
+    },
+    {
+        "id": "caldas_colombia",
+        "displayName": "Caldas",
+        "parentId": "colombia"
+    },
+    {
+        "id": "magdalena_colombia",
+        "displayName": "Magdalena",
+        "parentId": "colombia"
+    },
+    {
+        "id": "risaralda_colombia",
+        "displayName": "Risaralda",
+        "parentId": "colombia"
+    },
+    {
+        "id": "nortedesantander_colombia",
+        "displayName": "Norte de Santander",
+        "parentId": "colombia"
+    },
+    {
+        "id": "cesar_colombia",
+        "displayName": "Cesar",
+        "parentId": "colombia"
+    },
+    {
+        "id": "boyaca_colombia",
+        "displayName": "Boyaca",
+        "parentId": "colombia"
+    },
+    {
+        "id": "narino_colombia",
+        "displayName": "Narino",
+        "parentId": "colombia"
+    },
+    {
+        "id": "huila_colombia",
+        "displayName": "Huila",
+        "parentId": "colombia"
+    },
+    {
+        "id": "cordoba_colombia",
+        "displayName": "Cordoba",
+        "parentId": "colombia"
+    },
+    {
+        "id": "meta_colombia",
+        "displayName": "Meta",
+        "parentId": "colombia"
+    },
+    {
+        "id": "quindio_colombia",
+        "displayName": "Quindio",
+        "parentId": "colombia"
+    },
+    {
+        "id": "cauca_colombia",
+        "displayName": "Cauca",
+        "parentId": "colombia"
+    },
+    {
+        "id": "laguajira_colombia",
+        "displayName": "La Guajira",
+        "parentId": "colombia"
+    },
+    {
+        "id": "sucre_colombia",
+        "displayName": "Sucre",
+        "parentId": "colombia"
+    },
+    {
+        "id": "caqueta_colombia",
+        "displayName": "Caqueta",
+        "parentId": "colombia"
+    },
+    {
+        "id": "casanare_colombia",
+        "displayName": "Casanare",
+        "parentId": "colombia"
+    },
+    {
+        "id": "putumayo_colombia",
+        "displayName": "Putumayo",
+        "parentId": "colombia"
+    },
+    {
+        "id": "choco_colombia",
+        "displayName": "Choco",
+        "parentId": "colombia"
+    },
+    {
+        "id": "arauca_colombia",
+        "displayName": "Arauca",
+        "parentId": "colombia"
+    },
+    {
+        "id": "amazonas_colombia",
+        "displayName": "Amazonas",
+        "parentId": "colombia"
+    },
+    {
+        "id": "sanandrsandprovidencia_colombia",
+        "displayName": "San Andr\u00e9s and Providencia",
+        "parentId": "colombia"
+    },
+    {
+        "id": "guaviare_colombia",
+        "displayName": "Guaviare",
+        "parentId": "colombia"
+    },
+    {
+        "id": "vichada_colombia",
+        "displayName": "Vichada",
+        "parentId": "colombia"
+    },
+    {
+        "id": "guainia_colombia",
+        "displayName": "Guainia",
+        "parentId": "colombia"
+    },
+    {
+        "id": "vaupes_colombia",
+        "displayName": "Vaupes",
+        "parentId": "colombia"
+    },
+    {
+        "id": "tehran_iran",
+        "displayName": "Tehran",
+        "parentId": "iran"
+    },
+    {
+        "id": "esfahan_iran",
+        "displayName": "Esfahan",
+        "parentId": "iran"
+    },
+    {
+        "id": "mazandaran_iran",
+        "displayName": "Mazandaran",
+        "parentId": "iran"
+    },
+    {
+        "id": "gilan_iran",
+        "displayName": "Gilan",
+        "parentId": "iran"
+    },
+    {
+        "id": "qom_iran",
+        "displayName": "Qom",
+        "parentId": "iran"
+    },
+    {
+        "id": "alborzprovince_iran",
+        "displayName": "Alborz Province",
+        "parentId": "iran"
+    },
+    {
+        "id": "markazi_iran",
+        "displayName": "Markazi",
+        "parentId": "iran"
+    },
+    {
+        "id": "razavikhorasanprovince_iran",
+        "displayName": "Razavi Khorasan Province",
+        "parentId": "iran"
+    },
+    {
+        "id": "eastazerbaijan_iran",
+        "displayName": "East Azerbaijan",
+        "parentId": "iran"
+    },
+    {
+        "id": "yazd_iran",
+        "displayName": "Yazd",
+        "parentId": "iran"
+    },
+    {
+        "id": "qazvin_iran",
+        "displayName": "Qazvin",
+        "parentId": "iran"
+    },
+    {
+        "id": "semnan_iran",
+        "displayName": "Semnan",
+        "parentId": "iran"
+    },
+    {
+        "id": "fars_iran",
+        "displayName": "Fars",
+        "parentId": "iran"
+    },
+    {
+        "id": "lorestan_iran",
+        "displayName": "Lorestan",
+        "parentId": "iran"
+    },
+    {
+        "id": "khuzestan_iran",
+        "displayName": "Khuzestan",
+        "parentId": "iran"
+    },
+    {
+        "id": "westazerbaijan_iran",
+        "displayName": "West Azerbaijan",
+        "parentId": "iran"
+    },
+    {
+        "id": "zanjan_iran",
+        "displayName": "Zanjan",
+        "parentId": "iran"
+    },
+    {
+        "id": "gorgan_iran",
+        "displayName": "Gorgan",
+        "parentId": "iran"
+    },
+    {
+        "id": "ardabil_iran",
+        "displayName": "Ardabil",
+        "parentId": "iran"
+    },
+    {
+        "id": "hamadan_iran",
+        "displayName": "Hamadan",
+        "parentId": "iran"
+    },
+    {
+        "id": "ilam_iran",
+        "displayName": "Ilam",
+        "parentId": "iran"
+    },
+    {
+        "id": "southkhorasanprovince_iran",
+        "displayName": "South Khorasan Province",
+        "parentId": "iran"
+    },
+    {
+        "id": "kermanshah_iran",
+        "displayName": "Kermanshah",
+        "parentId": "iran"
+    },
+    {
+        "id": "kerman_iran",
+        "displayName": "Kerman",
+        "parentId": "iran"
+    },
+    {
+        "id": "northkhorasanprovince_iran",
+        "displayName": "North Khorasan Province",
+        "parentId": "iran"
+    },
+    {
+        "id": "hormozgan_iran",
+        "displayName": "Hormozgan",
+        "parentId": "iran"
+    },
+    {
+        "id": "sistanvabaluchestan_iran",
+        "displayName": "Sistan va Baluchestan",
+        "parentId": "iran"
+    },
+    {
+        "id": "kohgiluyehvabuyerahmad_iran",
+        "displayName": "Kohgiluyeh va Buyer Ahmad",
+        "parentId": "iran"
+    },
+    {
+        "id": "chaharmahallvabakhtiari_iran",
+        "displayName": "Chahar Mahall va Bakhtiari",
+        "parentId": "iran"
+    },
+    {
+        "id": "bshehr_iran",
+        "displayName": "B\u016bshehr",
+        "parentId": "iran"
+    },
+    {
+        "id": "mexicocity_mexico",
+        "displayName": "Mexico City",
+        "parentId": "mexico"
+    },
+    {
+        "id": "mxico_mexico",
+        "displayName": "M\u00e9xico",
+        "parentId": "mexico"
+    },
+    {
+        "id": "guanajuato_mexico",
+        "displayName": "Guanajuato",
+        "parentId": "mexico"
+    },
+    {
+        "id": "nuevolen_mexico",
+        "displayName": "Nuevo Le\u00f3n",
+        "parentId": "mexico"
+    },
+    {
+        "id": "jalisco_mexico",
+        "displayName": "Jalisco",
+        "parentId": "mexico"
+    },
+    {
+        "id": "puebla_mexico",
+        "displayName": "Puebla",
+        "parentId": "mexico"
+    },
+    {
+        "id": "sonora_mexico",
+        "displayName": "Sonora",
+        "parentId": "mexico"
+    },
+    {
+        "id": "coahuila_mexico",
+        "displayName": "Coahuila",
+        "parentId": "mexico"
+    },
+    {
+        "id": "quertaro_mexico",
+        "displayName": "Quer\u00e9taro",
+        "parentId": "mexico"
+    },
+    {
+        "id": "tabasco_mexico",
+        "displayName": "Tabasco",
+        "parentId": "mexico"
+    },
+    {
+        "id": "sanluispotos_mexico",
+        "displayName": "San Luis Potos\u00ed",
+        "parentId": "mexico"
+    },
+    {
+        "id": "veracruz_mexico",
+        "displayName": "Veracruz",
+        "parentId": "mexico"
+    },
+    {
+        "id": "tamaulipas_mexico",
+        "displayName": "Tamaulipas",
+        "parentId": "mexico"
+    },
+    {
+        "id": "chihuahua_mexico",
+        "displayName": "Chihuahua",
+        "parentId": "mexico"
+    },
+    {
+        "id": "bajacalifornia_mexico",
+        "displayName": "Baja California",
+        "parentId": "mexico"
+    },
+    {
+        "id": "michoacn_mexico",
+        "displayName": "Michoac\u00e1n",
+        "parentId": "mexico"
+    },
+    {
+        "id": "oaxaca_mexico",
+        "displayName": "Oaxaca",
+        "parentId": "mexico"
+    },
+    {
+        "id": "guerrero_mexico",
+        "displayName": "Guerrero",
+        "parentId": "mexico"
+    },
+    {
+        "id": "hidalgo_mexico",
+        "displayName": "Hidalgo",
+        "parentId": "mexico"
+    },
+    {
+        "id": "sinaloa_mexico",
+        "displayName": "Sinaloa",
+        "parentId": "mexico"
+    },
+    {
+        "id": "yucatn_mexico",
+        "displayName": "Yucat\u00e1n",
+        "parentId": "mexico"
+    },
+    {
+        "id": "durango_mexico",
+        "displayName": "Durango",
+        "parentId": "mexico"
+    },
+    {
+        "id": "morelos_mexico",
+        "displayName": "Morelos",
+        "parentId": "mexico"
+    },
+    {
+        "id": "zacatecas_mexico",
+        "displayName": "Zacatecas",
+        "parentId": "mexico"
+    },
+    {
+        "id": "bajacaliforniasur_mexico",
+        "displayName": "Baja California Sur",
+        "parentId": "mexico"
+    },
+    {
+        "id": "aguascalientes_mexico",
+        "displayName": "Aguascalientes",
+        "parentId": "mexico"
+    },
+    {
+        "id": "quintanaroo_mexico",
+        "displayName": "Quintana Roo",
+        "parentId": "mexico"
+    },
+    {
+        "id": "tlaxcala_mexico",
+        "displayName": "Tlaxcala",
+        "parentId": "mexico"
+    },
+    {
+        "id": "nayarit_mexico",
+        "displayName": "Nayarit",
+        "parentId": "mexico"
+    },
+    {
+        "id": "colima_mexico",
+        "displayName": "Colima",
+        "parentId": "mexico"
+    },
+    {
+        "id": "chiapas_mexico",
+        "displayName": "Chiapas",
+        "parentId": "mexico"
+    },
+    {
+        "id": "campeche_mexico",
+        "displayName": "Campeche",
+        "parentId": "mexico"
+    },
+    {
+        "id": "kiev_ukraine",
+        "displayName": "Kiev",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "kharkiv_ukraine",
+        "displayName": "Kharkiv",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "odessa_ukraine",
+        "displayName": "Odessa",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "lviv_ukraine",
+        "displayName": "Lviv",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "dnipropetrovsk_ukraine",
+        "displayName": "Dnipropetrovsk",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "zaporizhzhya_ukraine",
+        "displayName": "Zaporizhzhya",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "zhytomyr_ukraine",
+        "displayName": "Zhytomyr",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "ivanofrankivsk_ukraine",
+        "displayName": "Ivano-Frankivsk",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "khmelnytsky_ukraine",
+        "displayName": "Khmelnytsky",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "donetsk_ukraine",
+        "displayName": "Donetsk",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "chernivtsi_ukraine",
+        "displayName": "Chernivtsi",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "cherkasy_ukraine",
+        "displayName": "Cherkasy",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "sumy_ukraine",
+        "displayName": "Sumy",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "poltava_ukraine",
+        "displayName": "Poltava",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "rivne_ukraine",
+        "displayName": "Rivne",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "vinnytsya_ukraine",
+        "displayName": "Vinnytsya",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "ternopil_ukraine",
+        "displayName": "Ternopil",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "mykolayiv_ukraine",
+        "displayName": "Mykolayiv",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "zakarpattya_ukraine",
+        "displayName": "Zakarpattya",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "volyn_ukraine",
+        "displayName": "Volyn",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "chernihiv_ukraine",
+        "displayName": "Chernihiv",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "kherson_ukraine",
+        "displayName": "Kherson",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "luhansk_ukraine",
+        "displayName": "Luhansk",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "kirovohrad_ukraine",
+        "displayName": "Kirovohrad",
+        "parentId": "ukraine"
+    },
+    {
+        "id": "centralbohemia_czechia",
+        "displayName": "Central Bohemia",
+        "parentId": "czechia"
+    },
+    {
+        "id": "prague_czechia",
+        "displayName": "Prague",
+        "parentId": "czechia"
+    },
+    {
+        "id": "moraviasilesia_czechia",
+        "displayName": "Moravia-Silesia",
+        "parentId": "czechia"
+    },
+    {
+        "id": "southmoravia_czechia",
+        "displayName": "South Moravia",
+        "parentId": "czechia"
+    },
+    {
+        "id": "stnadlabem_czechia",
+        "displayName": "\u00dast\u00ed nad Labem",
+        "parentId": "czechia"
+    },
+    {
+        "id": "southbohemia_czechia",
+        "displayName": "South Bohemia",
+        "parentId": "czechia"
+    },
+    {
+        "id": "plze_czechia",
+        "displayName": "Plze\u0148",
+        "parentId": "czechia"
+    },
+    {
+        "id": "pardubice_czechia",
+        "displayName": "Pardubice",
+        "parentId": "czechia"
+    },
+    {
+        "id": "zlin_czechia",
+        "displayName": "Zlin",
+        "parentId": "czechia"
+    },
+    {
+        "id": "vysoina_czechia",
+        "displayName": "Vyso\u010dina",
+        "parentId": "czechia"
+    },
+    {
+        "id": "karlovyvary_czechia",
+        "displayName": "Karlovy Vary",
+        "parentId": "czechia"
+    },
+    {
+        "id": "southholland_netherlands",
+        "displayName": "South Holland",
+        "parentId": "netherlands"
+    },
+    {
+        "id": "northholland_netherlands",
+        "displayName": "North Holland",
+        "parentId": "netherlands"
+    },
+    {
+        "id": "northbrabant_netherlands",
+        "displayName": "North Brabant",
+        "parentId": "netherlands"
+    },
+    {
+        "id": "gelderland_netherlands",
+        "displayName": "Gelderland",
+        "parentId": "netherlands"
+    },
+    {
+        "id": "utrecht_netherlands",
+        "displayName": "Utrecht",
+        "parentId": "netherlands"
+    },
+    {
+        "id": "limburg_netherlands",
+        "displayName": "Limburg",
+        "parentId": "netherlands"
+    },
+    {
+        "id": "overijssel_netherlands",
+        "displayName": "Overijssel",
+        "parentId": "netherlands"
+    },
+    {
+        "id": "friesland_netherlands",
+        "displayName": "Friesland",
+        "parentId": "netherlands"
+    },
+    {
+        "id": "groningen_netherlands",
+        "displayName": "Groningen",
+        "parentId": "netherlands"
+    },
+    {
+        "id": "flevoland_netherlands",
+        "displayName": "Flevoland",
+        "parentId": "netherlands"
+    },
+    {
+        "id": "drenthe_netherlands",
+        "displayName": "Drenthe",
+        "parentId": "netherlands"
+    },
+    {
+        "id": "zeeland_netherlands",
+        "displayName": "Zeeland",
+        "parentId": "netherlands"
+    },
+    {
+        "id": "ontario_canada",
+        "displayName": "Ontario",
+        "parentId": "canada"
+    },
+    {
+        "id": "quebec_canada",
+        "displayName": "Quebec",
+        "parentId": "canada"
+    },
+    {
+        "id": "alberta_canada",
+        "displayName": "Alberta",
+        "parentId": "canada"
+    },
+    {
+        "id": "britishcolumbia_canada",
+        "displayName": "British Columbia",
+        "parentId": "canada"
+    },
+    {
+        "id": "saskatchewan_canada",
+        "displayName": "Saskatchewan",
+        "parentId": "canada"
+    },
+    {
+        "id": "manitoba_canada",
+        "displayName": "Manitoba",
+        "parentId": "canada"
+    },
+    {
+        "id": "novascotia_canada",
+        "displayName": "Nova Scotia",
+        "parentId": "canada"
+    },
+    {
+        "id": "newbrunswick_canada",
+        "displayName": "New Brunswick",
+        "parentId": "canada"
+    },
+    {
+        "id": "newfoundlandandlabrador_canada",
+        "displayName": "Newfoundland and Labrador",
+        "parentId": "canada"
+    },
+    {
+        "id": "nunavut_canada",
+        "displayName": "Nunavut",
+        "parentId": "canada"
+    },
+    {
+        "id": "princeedwardisland_canada",
+        "displayName": "Prince Edward Island",
+        "parentId": "canada"
+    },
+    {
+        "id": "yukonterritory_canada",
+        "displayName": "Yukon Territory",
+        "parentId": "canada"
+    },
+    {
+        "id": "northwestterritories_canada",
+        "displayName": "Northwest Territories",
+        "parentId": "canada"
+    },
+    {
+        "id": "santiagometropolitan_chile",
+        "displayName": "Santiago Metropolitan",
+        "parentId": "chile"
+    },
+    {
+        "id": "biobio_chile",
+        "displayName": "Bio-Bio",
+        "parentId": "chile"
+    },
+    {
+        "id": "valparaso_chile",
+        "displayName": "Valpara\u00edso",
+        "parentId": "chile"
+    },
+    {
+        "id": "maule_chile",
+        "displayName": "Maule",
+        "parentId": "chile"
+    },
+    {
+        "id": "araucana_chile",
+        "displayName": "Araucan\u00eda",
+        "parentId": "chile"
+    },
+    {
+        "id": "loslagos_chile",
+        "displayName": "Los Lagos",
+        "parentId": "chile"
+    },
+    {
+        "id": "antofagasta_chile",
+        "displayName": "Antofagasta",
+        "parentId": "chile"
+    },
+    {
+        "id": "ohiggins_chile",
+        "displayName": "O\u2019Higgins",
+        "parentId": "chile"
+    },
+    {
+        "id": "losros_chile",
+        "displayName": "Los R\u00edos",
+        "parentId": "chile"
+    },
+    {
+        "id": "tarapac_chile",
+        "displayName": "Tarapac\u00e1",
+        "parentId": "chile"
+    },
+    {
+        "id": "coquimbo_chile",
+        "displayName": "Coquimbo",
+        "parentId": "chile"
+    },
+    {
+        "id": "uble_chile",
+        "displayName": "\u00d1uble",
+        "parentId": "chile"
+    },
+    {
+        "id": "magallanesandantarcticregion_chile",
+        "displayName": "Magallanes and Antarctic Region",
+        "parentId": "chile"
+    },
+    {
+        "id": "aricayparinacota_chile",
+        "displayName": "Arica y Parinacota",
+        "parentId": "chile"
+    },
+    {
+        "id": "atacama_chile",
+        "displayName": "Atacama",
+        "parentId": "chile"
+    },
+    {
+        "id": "aisenofgralcibezdelcampo_chile",
+        "displayName": "Aisen of Gral. C. Ib\u00e1\u00f1ez del Campo",
+        "parentId": "chile"
+    },
+    {
+        "id": "brusselsregion_belgium",
+        "displayName": "Brussels Region",
+        "parentId": "belgium"
+    },
+    {
+        "id": "stockholmcounty_sweden",
+        "displayName": "Stockholm County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "vastragotalandcounty_sweden",
+        "displayName": "Vastra Gotaland County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "skanecounty_sweden",
+        "displayName": "Skane County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "jonkopingcounty_sweden",
+        "displayName": "Jonkoping County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "hallandcounty_sweden",
+        "displayName": "Halland County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "uppsalacounty_sweden",
+        "displayName": "Uppsala County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "ostergotlandcounty_sweden",
+        "displayName": "Ostergotland County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "gavleborgcounty_sweden",
+        "displayName": "Gavleborg County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "orebrocounty_sweden",
+        "displayName": "Orebro County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "vastmanlandcounty_sweden",
+        "displayName": "Vastmanland County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "dalarnacounty_sweden",
+        "displayName": "Dalarna County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "vsternorrland_sweden",
+        "displayName": "V\u00e4sternorrland",
+        "parentId": "sweden"
+    },
+    {
+        "id": "vsterbotten_sweden",
+        "displayName": "V\u00e4sterbotten",
+        "parentId": "sweden"
+    },
+    {
+        "id": "norrbotten_sweden",
+        "displayName": "Norrbotten",
+        "parentId": "sweden"
+    },
+    {
+        "id": "kalmarcounty_sweden",
+        "displayName": "Kalmar County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "kronobergcounty_sweden",
+        "displayName": "Kronoberg County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "varmlandcounty_sweden",
+        "displayName": "Varmland County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "blekingecounty_sweden",
+        "displayName": "Blekinge County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "gotlandcounty_sweden",
+        "displayName": "Gotland County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "sodermanlandcounty_sweden",
+        "displayName": "Sodermanland County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "jamtlandcounty_sweden",
+        "displayName": "Jamtland County",
+        "parentId": "sweden"
+    },
+    {
+        "id": "punjab_pakistan",
+        "displayName": "Punjab",
+        "parentId": "pakistan"
+    },
+    {
+        "id": "sindh_pakistan",
+        "displayName": "Sindh",
+        "parentId": "pakistan"
+    },
+    {
+        "id": "khyberpakhtunkhwa_pakistan",
+        "displayName": "Khyber Pakhtunkhwa",
+        "parentId": "pakistan"
+    },
+    {
+        "id": "islamabad_pakistan",
+        "displayName": "Islamabad",
+        "parentId": "pakistan"
+    },
+    {
+        "id": "baluchistan_pakistan",
+        "displayName": "Baluchistan",
+        "parentId": "pakistan"
+    },
+    {
+        "id": "gilgitandbaltistan_pakistan",
+        "displayName": "Gilgit and Baltistan",
+        "parentId": "pakistan"
+    },
+    {
+        "id": "budapest_hungary",
+        "displayName": "Budapest",
+        "parentId": "hungary"
+    },
+    {
+        "id": "pest_hungary",
+        "displayName": "Pest",
+        "parentId": "hungary"
+    },
+    {
+        "id": "borsodabajzempln_hungary",
+        "displayName": "Borsod-Aba\u00faj-Zempl\u00e9n",
+        "parentId": "hungary"
+    },
+    {
+        "id": "gyrmosonsopron_hungary",
+        "displayName": "Gy\u0151r-Moson-Sopron",
+        "parentId": "hungary"
+    },
+    {
+        "id": "hajdbihar_hungary",
+        "displayName": "Hajd\u00fa-Bihar",
+        "parentId": "hungary"
+    },
+    {
+        "id": "szabolcsszatmrbereg_hungary",
+        "displayName": "Szabolcs-Szatm\u00e1r-Bereg",
+        "parentId": "hungary"
+    },
+    {
+        "id": "bcskiskun_hungary",
+        "displayName": "B\u00e1cs-Kiskun",
+        "parentId": "hungary"
+    },
+    {
+        "id": "fejr_hungary",
+        "displayName": "Fej\u00e9r",
+        "parentId": "hungary"
+    },
+    {
+        "id": "veszprm_hungary",
+        "displayName": "Veszpr\u00e9m",
+        "parentId": "hungary"
+    },
+    {
+        "id": "somogy_hungary",
+        "displayName": "Somogy",
+        "parentId": "hungary"
+    },
+    {
+        "id": "komromesztergom_hungary",
+        "displayName": "Kom\u00e1rom-Esztergom",
+        "parentId": "hungary"
+    },
+    {
+        "id": "baranya_hungary",
+        "displayName": "Baranya",
+        "parentId": "hungary"
+    },
+    {
+        "id": "jsznagykunszolnok_hungary",
+        "displayName": "J\u00e1sz-Nagykun-Szolnok",
+        "parentId": "hungary"
+    },
+    {
+        "id": "vas_hungary",
+        "displayName": "Vas",
+        "parentId": "hungary"
+    },
+    {
+        "id": "heves_hungary",
+        "displayName": "Heves",
+        "parentId": "hungary"
+    },
+    {
+        "id": "bks_hungary",
+        "displayName": "B\u00e9k\u00e9s",
+        "parentId": "hungary"
+    },
+    {
+        "id": "ngrd_hungary",
+        "displayName": "N\u00f3gr\u00e1d",
+        "parentId": "hungary"
+    },
+    {
+        "id": "zala_hungary",
+        "displayName": "Zala",
+        "parentId": "hungary"
+    },
+    {
+        "id": "tolna_hungary",
+        "displayName": "Tolna",
+        "parentId": "hungary"
+    },
+    {
+        "id": "geneva_switzerland",
+        "displayName": "Geneva",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "vaud_switzerland",
+        "displayName": "Vaud",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "zurich_switzerland",
+        "displayName": "Zurich",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "ticino_switzerland",
+        "displayName": "Ticino",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "berne_switzerland",
+        "displayName": "Berne",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "valais_switzerland",
+        "displayName": "Valais",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "aargau_switzerland",
+        "displayName": "Aargau",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "fribourg_switzerland",
+        "displayName": "Fribourg",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "stgallen_switzerland",
+        "displayName": "St Gallen",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "baseltown_switzerland",
+        "displayName": "Basel-Town",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "lucerne_switzerland",
+        "displayName": "Lucerne",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "graubnden_switzerland",
+        "displayName": "Graub\u00fcnden",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "baselcountry_switzerland",
+        "displayName": "Basel-Country",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "neuchtel_switzerland",
+        "displayName": "Neuch\u00e2tel",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "solothurn_switzerland",
+        "displayName": "Solothurn",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "thurgau_switzerland",
+        "displayName": "Thurgau",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "schwyz_switzerland",
+        "displayName": "Schwyz",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "zug_switzerland",
+        "displayName": "Zug",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "jura_switzerland",
+        "displayName": "Jura",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "glarus_switzerland",
+        "displayName": "Glarus",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "schaffhausen_switzerland",
+        "displayName": "Schaffhausen",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "nidwalden_switzerland",
+        "displayName": "Nidwalden",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "uri_switzerland",
+        "displayName": "Uri",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "appenzellouterrhoden_switzerland",
+        "displayName": "Appenzell Outer-Rhoden",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "obwalden_switzerland",
+        "displayName": "Obwalden",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "appenzellinnerrhoden_switzerland",
+        "displayName": "Appenzell Inner-Rhoden",
+        "parentId": "switzerland"
+    },
+    {
+        "id": "vienna_austria",
+        "displayName": "Vienna",
+        "parentId": "austria"
+    },
+    {
+        "id": "upperaustria_austria",
+        "displayName": "Upper Austria",
+        "parentId": "austria"
+    },
+    {
+        "id": "loweraustria_austria",
+        "displayName": "Lower Austria",
+        "parentId": "austria"
+    },
+    {
+        "id": "styria_austria",
+        "displayName": "Styria",
+        "parentId": "austria"
+    },
+    {
+        "id": "tyrol_austria",
+        "displayName": "Tyrol",
+        "parentId": "austria"
+    },
+    {
+        "id": "salzburg_austria",
+        "displayName": "Salzburg",
+        "parentId": "austria"
+    },
+    {
+        "id": "carinthia_austria",
+        "displayName": "Carinthia",
+        "parentId": "austria"
+    },
+    {
+        "id": "vorarlberg_austria",
+        "displayName": "Vorarlberg",
+        "parentId": "austria"
+    },
+    {
+        "id": "burgenland_austria",
+        "displayName": "Burgenland",
+        "parentId": "austria"
+    },
+    {
+        "id": "tokyo_japan",
+        "displayName": "Tokyo",
+        "parentId": "japan"
+    },
+    {
+        "id": "osaka_japan",
+        "displayName": "Osaka",
+        "parentId": "japan"
+    },
+    {
+        "id": "kanagawa_japan",
+        "displayName": "Kanagawa",
+        "parentId": "japan"
+    },
+    {
+        "id": "saitama_japan",
+        "displayName": "Saitama",
+        "parentId": "japan"
+    },
+    {
+        "id": "aichi_japan",
+        "displayName": "Aichi",
+        "parentId": "japan"
+    },
+    {
+        "id": "chiba_japan",
+        "displayName": "Chiba",
+        "parentId": "japan"
+    },
+    {
+        "id": "hyogo_japan",
+        "displayName": "Hyogo",
+        "parentId": "japan"
+    },
+    {
+        "id": "hokkaido_japan",
+        "displayName": "Hokkaido",
+        "parentId": "japan"
+    },
+    {
+        "id": "fukuoka_japan",
+        "displayName": "Fukuoka",
+        "parentId": "japan"
+    },
+    {
+        "id": "kyoto_japan",
+        "displayName": "Kyoto",
+        "parentId": "japan"
+    },
+    {
+        "id": "okinawa_japan",
+        "displayName": "Okinawa",
+        "parentId": "japan"
+    },
+    {
+        "id": "ibaraki_japan",
+        "displayName": "Ibaraki",
+        "parentId": "japan"
+    },
+    {
+        "id": "miyagi_japan",
+        "displayName": "Miyagi",
+        "parentId": "japan"
+    },
+    {
+        "id": "shizuoka_japan",
+        "displayName": "Shizuoka",
+        "parentId": "japan"
+    },
+    {
+        "id": "nara_japan",
+        "displayName": "Nara",
+        "parentId": "japan"
+    },
+    {
+        "id": "gunma_japan",
+        "displayName": "Gunma",
+        "parentId": "japan"
+    },
+    {
+        "id": "hiroshima_japan",
+        "displayName": "Hiroshima",
+        "parentId": "japan"
+    },
+    {
+        "id": "gifu_japan",
+        "displayName": "Gifu",
+        "parentId": "japan"
+    },
+    {
+        "id": "tochigi_japan",
+        "displayName": "Tochigi",
+        "parentId": "japan"
+    },
+    {
+        "id": "kumamoto_japan",
+        "displayName": "Kumamoto",
+        "parentId": "japan"
+    },
+    {
+        "id": "okayama_japan",
+        "displayName": "Okayama",
+        "parentId": "japan"
+    },
+    {
+        "id": "nagano_japan",
+        "displayName": "Nagano",
+        "parentId": "japan"
+    },
+    {
+        "id": "mie_japan",
+        "displayName": "Mie",
+        "parentId": "japan"
+    },
+    {
+        "id": "shiga_japan",
+        "displayName": "Shiga",
+        "parentId": "japan"
+    },
+    {
+        "id": "fukushima_japan",
+        "displayName": "Fukushima",
+        "parentId": "japan"
+    },
+    {
+        "id": "ishikawa_japan",
+        "displayName": "Ishikawa",
+        "parentId": "japan"
+    },
+    {
+        "id": "ehime_japan",
+        "displayName": "Ehime",
+        "parentId": "japan"
+    },
+    {
+        "id": "niigata_japan",
+        "displayName": "Niigata",
+        "parentId": "japan"
+    },
+    {
+        "id": "miyazaki_japan",
+        "displayName": "Miyazaki",
+        "parentId": "japan"
+    },
+    {
+        "id": "kagoshima_japan",
+        "displayName": "Kagoshima",
+        "parentId": "japan"
+    },
+    {
+        "id": "wakayama_japan",
+        "displayName": "Wakayama",
+        "parentId": "japan"
+    },
+    {
+        "id": "nagasaki_japan",
+        "displayName": "Nagasaki",
+        "parentId": "japan"
+    },
+    {
+        "id": "oita_japan",
+        "displayName": "Oita",
+        "parentId": "japan"
+    },
+    {
+        "id": "yamaguchi_japan",
+        "displayName": "Yamaguchi",
+        "parentId": "japan"
+    },
+    {
+        "id": "saga_japan",
+        "displayName": "Saga",
+        "parentId": "japan"
+    },
+    {
+        "id": "aomori_japan",
+        "displayName": "Aomori",
+        "parentId": "japan"
+    },
+    {
+        "id": "yamagata_japan",
+        "displayName": "Yamagata",
+        "parentId": "japan"
+    },
+    {
+        "id": "toyama_japan",
+        "displayName": "Toyama",
+        "parentId": "japan"
+    },
+    {
+        "id": "tokushima_japan",
+        "displayName": "Tokushima",
+        "parentId": "japan"
+    },
+    {
+        "id": "kagawa_japan",
+        "displayName": "Kagawa",
+        "parentId": "japan"
+    },
+    {
+        "id": "yamanashi_japan",
+        "displayName": "Yamanashi",
+        "parentId": "japan"
+    },
+    {
+        "id": "kochi_japan",
+        "displayName": "Kochi",
+        "parentId": "japan"
+    },
+    {
+        "id": "iwate_japan",
+        "displayName": "Iwate",
+        "parentId": "japan"
+    },
+    {
+        "id": "fukui_japan",
+        "displayName": "Fukui",
+        "parentId": "japan"
+    },
+    {
+        "id": "akita_japan",
+        "displayName": "Akita",
+        "parentId": "japan"
+    },
+    {
+        "id": "tottori_japan",
+        "displayName": "Tottori",
+        "parentId": "japan"
+    },
+    {
+        "id": "shimane_japan",
+        "displayName": "Shimane",
+        "parentId": "japan"
+    },
+    {
+        "id": "pichincha_ecuador",
+        "displayName": "Pichincha",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "guayas_ecuador",
+        "displayName": "Guayas",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "manab_ecuador",
+        "displayName": "Manab\u00ed",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "azuay_ecuador",
+        "displayName": "Azuay",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "eloro_ecuador",
+        "displayName": "El Oro",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "loja_ecuador",
+        "displayName": "Loja",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "tungurahua_ecuador",
+        "displayName": "Tungurahua",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "imbabura_ecuador",
+        "displayName": "Imbabura",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "losros_ecuador",
+        "displayName": "Los R\u00edos",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "santodomingodelostschilas_ecuador",
+        "displayName": "Santo Domingo de los Ts\u00e1chilas",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "cotopaxi_ecuador",
+        "displayName": "Cotopaxi",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "esmeraldas_ecuador",
+        "displayName": "Esmeraldas",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "chimborazo_ecuador",
+        "displayName": "Chimborazo",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "carchi_ecuador",
+        "displayName": "Carchi",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "bolvar_ecuador",
+        "displayName": "Bol\u00edvar",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "moronasantiago_ecuador",
+        "displayName": "Morona Santiago",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "caar_ecuador",
+        "displayName": "Ca\u00f1ar",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "sucumbos_ecuador",
+        "displayName": "Sucumb\u00edos",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "santaelena_ecuador",
+        "displayName": "Santa Elena",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "pastaza_ecuador",
+        "displayName": "Pastaza",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "orellana_ecuador",
+        "displayName": "Orellana",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "napo_ecuador",
+        "displayName": "Napo",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "zamorachinchipe_ecuador",
+        "displayName": "Zamora Chinchipe",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "galpagos_ecuador",
+        "displayName": "Gal\u00e1pagos",
+        "parentId": "ecuador"
+    },
+    {
+        "id": "abkhazia_georgia",
+        "displayName": "Abkhazia",
+        "parentId": "georgia"
+    },
+    {
+        "id": "santacruz_bolivia",
+        "displayName": "Santa Cruz",
+        "parentId": "bolivia"
+    },
+    {
+        "id": "lapaz_bolivia",
+        "displayName": "La Paz",
+        "parentId": "bolivia"
+    },
+    {
+        "id": "cochabamba_bolivia",
+        "displayName": "Cochabamba",
+        "parentId": "bolivia"
+    },
+    {
+        "id": "beni_bolivia",
+        "displayName": "Beni",
+        "parentId": "bolivia"
+    },
+    {
+        "id": "tarija_bolivia",
+        "displayName": "Tarija",
+        "parentId": "bolivia"
+    },
+    {
+        "id": "oruro_bolivia",
+        "displayName": "Oruro",
+        "parentId": "bolivia"
+    },
+    {
+        "id": "chuquisaca_bolivia",
+        "displayName": "Chuquisaca",
+        "parentId": "bolivia"
+    },
+    {
+        "id": "potos_bolivia",
+        "displayName": "Potos\u00ed",
+        "parentId": "bolivia"
+    },
+    {
+        "id": "pando_bolivia",
+        "displayName": "Pando",
+        "parentId": "bolivia"
+    },
+    {
+        "id": "sanjose_costarica",
+        "displayName": "San Jose",
+        "parentId": "costarica"
+    },
+    {
+        "id": "alajuela_costarica",
+        "displayName": "Alajuela",
+        "parentId": "costarica"
+    },
+    {
+        "id": "heredia_costarica",
+        "displayName": "Heredia",
+        "parentId": "costarica"
+    },
+    {
+        "id": "cartago_costarica",
+        "displayName": "Cartago",
+        "parentId": "costarica"
+    },
+    {
+        "id": "puntarenas_costarica",
+        "displayName": "Puntarenas",
+        "parentId": "costarica"
+    },
+    {
+        "id": "guanacaste_costarica",
+        "displayName": "Guanacaste",
+        "parentId": "costarica"
+    },
+    {
+        "id": "limon_costarica",
+        "displayName": "Limon",
+        "parentId": "costarica"
+    },
+    {
+        "id": "seoul_southkorea",
+        "displayName": "Seoul",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "gyeonggi_southkorea",
+        "displayName": "Gyeonggi",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "daegu_southkorea",
+        "displayName": "Daegu",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "incheon_southkorea",
+        "displayName": "Incheon",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "busan_southkorea",
+        "displayName": "Busan",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "northgyeongsang_southkorea",
+        "displayName": "North Gyeongsang",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "southgyeongsang_southkorea",
+        "displayName": "South Gyeongsang",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "southchungcheong_southkorea",
+        "displayName": "South Chungcheong",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "gangwon_southkorea",
+        "displayName": "Gangwon",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "northchungcheong_southkorea",
+        "displayName": "North Chungcheong",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "gwangju_southkorea",
+        "displayName": "Gwangju",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "ulsan_southkorea",
+        "displayName": "Ulsan",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "northjeolla_southkorea",
+        "displayName": "North Jeolla",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "daejeon_southkorea",
+        "displayName": "Daejeon",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "southjeolla_southkorea",
+        "displayName": "South Jeolla",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "jeju_southkorea",
+        "displayName": "Jeju",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "sejong_southkorea",
+        "displayName": "Sejong",
+        "parentId": "southkorea"
+    },
+    {
+        "id": "oslo_norway",
+        "displayName": "Oslo",
+        "parentId": "norway"
+    },
+    {
+        "id": "vestfoldogtelemark_norway",
+        "displayName": "Vestfold og Telemark",
+        "parentId": "norway"
+    },
+    {
+        "id": "rogaland_norway",
+        "displayName": "Rogaland",
+        "parentId": "norway"
+    },
+    {
+        "id": "trondelag_norway",
+        "displayName": "Trondelag",
+        "parentId": "norway"
+    },
+    {
+        "id": "austagder_norway",
+        "displayName": "Aust-Agder",
+        "parentId": "norway"
+    },
+    {
+        "id": "mreogromsdal_norway",
+        "displayName": "M\u00f8re og Romsdal",
+        "parentId": "norway"
+    },
+    {
+        "id": "finnmark_norway",
+        "displayName": "Finnmark",
+        "parentId": "norway"
+    },
+    {
+        "id": "nordland_norway",
+        "displayName": "Nordland",
+        "parentId": "norway"
+    },
+    {
+        "id": "hubei_chinamainland",
+        "displayName": "Hubei",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "guangdong_chinamainland",
+        "displayName": "Guangdong",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "shanghai_chinamainland",
+        "displayName": "Shanghai",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "heilongjiang_chinamainland",
+        "displayName": "Heilongjiang",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "zhejiang_chinamainland",
+        "displayName": "Zhejiang",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "hebei_chinamainland",
+        "displayName": "Hebei",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "henan_chinamainland",
+        "displayName": "Henan",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "beijing_chinamainland",
+        "displayName": "Beijing",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "hunan_chinamainland",
+        "displayName": "Hunan",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "anhui_chinamainland",
+        "displayName": "Anhui",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "sichuan_chinamainland",
+        "displayName": "Sichuan",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "xinjiang_chinamainland",
+        "displayName": "Xinjiang",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "jiangxi_chinamainland",
+        "displayName": "Jiangxi",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "shandong_chinamainland",
+        "displayName": "Shandong",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "jiangsu_chinamainland",
+        "displayName": "Jiangsu",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "chongqing_chinamainland",
+        "displayName": "Chongqing",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "fujian_chinamainland",
+        "displayName": "Fujian",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "shaanxi_chinamainland",
+        "displayName": "Shaanxi",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "jilin_chinamainland",
+        "displayName": "Jilin",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "liaoning_chinamainland",
+        "displayName": "Liaoning",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "tianjin_chinamainland",
+        "displayName": "Tianjin",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "innermongolia_chinamainland",
+        "displayName": "Inner Mongolia",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "yunnan_chinamainland",
+        "displayName": "Yunnan",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "shanxi_chinamainland",
+        "displayName": "Shanxi",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "gansu_chinamainland",
+        "displayName": "Gansu",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "hainan_chinamainland",
+        "displayName": "Hainan",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "guizhou_chinamainland",
+        "displayName": "Guizhou",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "ningxia_chinamainland",
+        "displayName": "Ningxia",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "qinghai_chinamainland",
+        "displayName": "Qinghai",
+        "parentId": "chinamainland"
+    },
+    {
+        "id": "victoria_australia",
+        "displayName": "Victoria",
+        "parentId": "australia"
+    },
+    {
+        "id": "newsouthwales_australia",
+        "displayName": "New South Wales",
+        "parentId": "australia"
+    },
+    {
+        "id": "queensland_australia",
+        "displayName": "Queensland",
+        "parentId": "australia"
+    },
+    {
+        "id": "westernaustralia_australia",
+        "displayName": "Western Australia",
+        "parentId": "australia"
+    },
+    {
+        "id": "southaustralia_australia",
+        "displayName": "South Australia",
+        "parentId": "australia"
+    },
+    {
+        "id": "tasmania_australia",
+        "displayName": "Tasmania",
+        "parentId": "australia"
+    },
+    {
+        "id": "northernterritory_australia",
+        "displayName": "Northern Territory",
+        "parentId": "australia"
+    },
+    {
+        "id": "australiancapitalterritory_australia",
+        "displayName": "Australian Capital Territory",
+        "parentId": "australia"
+    },
+    {
+        "id": "saipan_northernmarianaislands",
+        "displayName": "Saipan",
+        "parentId": "northernmarianaislands"
+    }
+]

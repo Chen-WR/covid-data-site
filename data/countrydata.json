@@ -1,0 +1,1102 @@
+[
+    {
+        "id": "unitedstates",
+        "displayName": "United States",
+        "parentId": "world"
+    },
+    {
+        "id": "india",
+        "displayName": "India",
+        "parentId": "world"
+    },
+    {
+        "id": "brazil",
+        "displayName": "Brazil",
+        "parentId": "world"
+    },
+    {
+        "id": "france",
+        "displayName": "France",
+        "parentId": "world"
+    },
+    {
+        "id": "turkey",
+        "displayName": "Turkey",
+        "parentId": "world"
+    },
+    {
+        "id": "russia",
+        "displayName": "Russia",
+        "parentId": "world"
+    },
+    {
+        "id": "unitedkingdom",
+        "displayName": "United Kingdom",
+        "parentId": "world"
+    },
+    {
+        "id": "italy",
+        "displayName": "Italy",
+        "parentId": "world"
+    },
+    {
+        "id": "spain",
+        "displayName": "Spain",
+        "parentId": "world"
+    },
+    {
+        "id": "germany",
+        "displayName": "Germany",
+        "parentId": "world"
+    },
+    {
+        "id": "argentina",
+        "displayName": "Argentina",
+        "parentId": "world"
+    },
+    {
+        "id": "colombia",
+        "displayName": "Colombia",
+        "parentId": "world"
+    },
+    {
+        "id": "poland",
+        "displayName": "Poland",
+        "parentId": "world"
+    },
+    {
+        "id": "iran",
+        "displayName": "Iran",
+        "parentId": "world"
+    },
+    {
+        "id": "mexico",
+        "displayName": "Mexico",
+        "parentId": "world"
+    },
+    {
+        "id": "ukraine",
+        "displayName": "Ukraine",
+        "parentId": "world"
+    },
+    {
+        "id": "indonesia",
+        "displayName": "Indonesia",
+        "parentId": "world"
+    },
+    {
+        "id": "czechia",
+        "displayName": "Czechia",
+        "parentId": "world"
+    },
+    {
+        "id": "southafrica",
+        "displayName": "South Africa",
+        "parentId": "world"
+    },
+    {
+        "id": "netherlands",
+        "displayName": "Netherlands",
+        "parentId": "world"
+    },
+    {
+        "id": "canada",
+        "displayName": "Canada",
+        "parentId": "world"
+    },
+    {
+        "id": "chile",
+        "displayName": "Chile",
+        "parentId": "world"
+    },
+    {
+        "id": "iraq",
+        "displayName": "Iraq",
+        "parentId": "world"
+    },
+    {
+        "id": "philippines",
+        "displayName": "Philippines",
+        "parentId": "world"
+    },
+    {
+        "id": "romania",
+        "displayName": "Romania",
+        "parentId": "world"
+    },
+    {
+        "id": "belgium",
+        "displayName": "Belgium",
+        "parentId": "world"
+    },
+    {
+        "id": "sweden",
+        "displayName": "Sweden",
+        "parentId": "world"
+    },
+    {
+        "id": "israel",
+        "displayName": "Israel",
+        "parentId": "world"
+    },
+    {
+        "id": "portugal",
+        "displayName": "Portugal",
+        "parentId": "world"
+    },
+    {
+        "id": "pakistan",
+        "displayName": "Pakistan",
+        "parentId": "world"
+    },
+    {
+        "id": "hungary",
+        "displayName": "Hungary",
+        "parentId": "world"
+    },
+    {
+        "id": "bangladesh",
+        "displayName": "Bangladesh",
+        "parentId": "world"
+    },
+    {
+        "id": "jordan",
+        "displayName": "Jordan",
+        "parentId": "world"
+    },
+    {
+        "id": "serbia",
+        "displayName": "Serbia",
+        "parentId": "world"
+    },
+    {
+        "id": "switzerland",
+        "displayName": "Switzerland",
+        "parentId": "world"
+    },
+    {
+        "id": "austria",
+        "displayName": "Austria",
+        "parentId": "world"
+    },
+    {
+        "id": "japan",
+        "displayName": "Japan",
+        "parentId": "world"
+    },
+    {
+        "id": "lebanon",
+        "displayName": "Lebanon",
+        "parentId": "world"
+    },
+    {
+        "id": "unitedarabemirates",
+        "displayName": "United Arab Emirates",
+        "parentId": "world"
+    },
+    {
+        "id": "morocco",
+        "displayName": "Morocco",
+        "parentId": "world"
+    },
+    {
+        "id": "saudiarabia",
+        "displayName": "Saudi Arabia",
+        "parentId": "world"
+    },
+    {
+        "id": "malaysia",
+        "displayName": "Malaysia",
+        "parentId": "world"
+    },
+    {
+        "id": "bulgaria",
+        "displayName": "Bulgaria",
+        "parentId": "world"
+    },
+    {
+        "id": "ecuador",
+        "displayName": "Ecuador",
+        "parentId": "world"
+    },
+    {
+        "id": "slovakia",
+        "displayName": "Slovakia",
+        "parentId": "world"
+    },
+    {
+        "id": "kazakhstan",
+        "displayName": "Kazakhstan",
+        "parentId": "world"
+    },
+    {
+        "id": "panama",
+        "displayName": "Panama",
+        "parentId": "world"
+    },
+    {
+        "id": "belarus",
+        "displayName": "Belarus",
+        "parentId": "world"
+    },
+    {
+        "id": "greece",
+        "displayName": "Greece",
+        "parentId": "world"
+    },
+    {
+        "id": "nepal",
+        "displayName": "Nepal",
+        "parentId": "world"
+    },
+    {
+        "id": "croatia",
+        "displayName": "Croatia",
+        "parentId": "world"
+    },
+    {
+        "id": "azerbaijan",
+        "displayName": "Azerbaijan",
+        "parentId": "world"
+    },
+    {
+        "id": "georgia",
+        "displayName": "Georgia",
+        "parentId": "world"
+    },
+    {
+        "id": "tunisia",
+        "displayName": "Tunisia",
+        "parentId": "world"
+    },
+    {
+        "id": "bolivia",
+        "displayName": "Bolivia",
+        "parentId": "world"
+    },
+    {
+        "id": "westbank",
+        "displayName": "West Bank",
+        "parentId": "world"
+    },
+    {
+        "id": "paraguay",
+        "displayName": "Paraguay",
+        "parentId": "world"
+    },
+    {
+        "id": "kuwait",
+        "displayName": "Kuwait",
+        "parentId": "world"
+    },
+    {
+        "id": "dominicanrepublic",
+        "displayName": "Dominican Republic",
+        "parentId": "world"
+    },
+    {
+        "id": "ethiopia",
+        "displayName": "Ethiopia",
+        "parentId": "world"
+    },
+    {
+        "id": "denmark",
+        "displayName": "Denmark",
+        "parentId": "world"
+    },
+    {
+        "id": "moldova",
+        "displayName": "Moldova",
+        "parentId": "world"
+    },
+    {
+        "id": "costarica",
+        "displayName": "Costa Rica",
+        "parentId": "world"
+    },
+    {
+        "id": "lithuania",
+        "displayName": "Lithuania",
+        "parentId": "world"
+    },
+    {
+        "id": "ireland",
+        "displayName": "Ireland",
+        "parentId": "world"
+    },
+    {
+        "id": "slovenia",
+        "displayName": "Slovenia",
+        "parentId": "world"
+    },
+    {
+        "id": "egypt",
+        "displayName": "Egypt",
+        "parentId": "world"
+    },
+    {
+        "id": "guatemala",
+        "displayName": "Guatemala",
+        "parentId": "world"
+    },
+    {
+        "id": "armenia",
+        "displayName": "Armenia",
+        "parentId": "world"
+    },
+    {
+        "id": "honduras",
+        "displayName": "Honduras",
+        "parentId": "world"
+    },
+    {
+        "id": "qatar",
+        "displayName": "Qatar",
+        "parentId": "world"
+    },
+    {
+        "id": "uruguay",
+        "displayName": "Uruguay",
+        "parentId": "world"
+    },
+    {
+        "id": "venezuela",
+        "displayName": "Venezuela",
+        "parentId": "world"
+    },
+    {
+        "id": "bosniaandherzegovina",
+        "displayName": "Bosnia and Herzegovina",
+        "parentId": "world"
+    },
+    {
+        "id": "oman",
+        "displayName": "Oman",
+        "parentId": "world"
+    },
+    {
+        "id": "bahrain",
+        "displayName": "Bahrain",
+        "parentId": "world"
+    },
+    {
+        "id": "libya",
+        "displayName": "Libya",
+        "parentId": "world"
+    },
+    {
+        "id": "nigeria",
+        "displayName": "Nigeria",
+        "parentId": "world"
+    },
+    {
+        "id": "kenya",
+        "displayName": "Kenya",
+        "parentId": "world"
+    },
+    {
+        "id": "northmacedonia",
+        "displayName": "North Macedonia",
+        "parentId": "world"
+    },
+    {
+        "id": "myanmar",
+        "displayName": "Myanmar",
+        "parentId": "world"
+    },
+    {
+        "id": "albania",
+        "displayName": "Albania",
+        "parentId": "world"
+    },
+    {
+        "id": "southkorea",
+        "displayName": "South Korea",
+        "parentId": "world"
+    },
+    {
+        "id": "estonia",
+        "displayName": "Estonia",
+        "parentId": "world"
+    },
+    {
+        "id": "algeria",
+        "displayName": "Algeria",
+        "parentId": "world"
+    },
+    {
+        "id": "latvia",
+        "displayName": "Latvia",
+        "parentId": "world"
+    },
+    {
+        "id": "puertorico",
+        "displayName": "Puerto Rico",
+        "parentId": "world"
+    },
+    {
+        "id": "srilanka",
+        "displayName": "Sri Lanka",
+        "parentId": "world"
+    },
+    {
+        "id": "norway",
+        "displayName": "Norway",
+        "parentId": "world"
+    },
+    {
+        "id": "cuba",
+        "displayName": "Cuba",
+        "parentId": "world"
+    },
+    {
+        "id": "kosovo",
+        "displayName": "Kosovo",
+        "parentId": "world"
+    },
+    {
+        "id": "gazastrip",
+        "displayName": "Gaza Strip",
+        "parentId": "world"
+    },
+    {
+        "id": "montenegro",
+        "displayName": "Montenegro",
+        "parentId": "world"
+    },
+    {
+        "id": "kyrgyzstan",
+        "displayName": "Kyrgyzstan",
+        "parentId": "world"
+    },
+    {
+        "id": "ghana",
+        "displayName": "Ghana",
+        "parentId": "world"
+    },
+    {
+        "id": "zambia",
+        "displayName": "Zambia",
+        "parentId": "world"
+    },
+    {
+        "id": "uzbekistan",
+        "displayName": "Uzbekistan",
+        "parentId": "world"
+    },
+    {
+        "id": "chinamainland",
+        "displayName": "China (mainland)",
+        "parentId": "world"
+    },
+    {
+        "id": "finland",
+        "displayName": "Finland",
+        "parentId": "world"
+    },
+    {
+        "id": "cameroon",
+        "displayName": "Cameroon",
+        "parentId": "world"
+    },
+    {
+        "id": "thailand",
+        "displayName": "Thailand",
+        "parentId": "world"
+    },
+    {
+        "id": "mozambique",
+        "displayName": "Mozambique",
+        "parentId": "world"
+    },
+    {
+        "id": "elsalvador",
+        "displayName": "El Salvador",
+        "parentId": "world"
+    },
+    {
+        "id": "luxembourg",
+        "displayName": "Luxembourg",
+        "parentId": "world"
+    },
+    {
+        "id": "cyprus",
+        "displayName": "Cyprus",
+        "parentId": "world"
+    },
+    {
+        "id": "singapore",
+        "displayName": "Singapore",
+        "parentId": "world"
+    },
+    {
+        "id": "afghanistan",
+        "displayName": "Afghanistan",
+        "parentId": "world"
+    },
+    {
+        "id": "namibia",
+        "displayName": "Namibia",
+        "parentId": "world"
+    },
+    {
+        "id": "botswana",
+        "displayName": "Botswana",
+        "parentId": "world"
+    },
+    {
+        "id": "jamaica",
+        "displayName": "Jamaica",
+        "parentId": "world"
+    },
+    {
+        "id": "ctedivoire",
+        "displayName": "C\u00f4te d\u2019Ivoire",
+        "parentId": "world"
+    },
+    {
+        "id": "uganda",
+        "displayName": "Uganda",
+        "parentId": "world"
+    },
+    {
+        "id": "senegal",
+        "displayName": "Senegal",
+        "parentId": "world"
+    },
+    {
+        "id": "mongolia",
+        "displayName": "Mongolia",
+        "parentId": "world"
+    },
+    {
+        "id": "zimbabwe",
+        "displayName": "Zimbabwe",
+        "parentId": "world"
+    },
+    {
+        "id": "madagascar",
+        "displayName": "Madagascar",
+        "parentId": "world"
+    },
+    {
+        "id": "malawi",
+        "displayName": "Malawi",
+        "parentId": "world"
+    },
+    {
+        "id": "sudan",
+        "displayName": "Sudan",
+        "parentId": "world"
+    },
+    {
+        "id": "maldives",
+        "displayName": "Maldives",
+        "parentId": "world"
+    },
+    {
+        "id": "malta",
+        "displayName": "Malta",
+        "parentId": "world"
+    },
+    {
+        "id": "congodrc",
+        "displayName": "Congo (DRC)",
+        "parentId": "world"
+    },
+    {
+        "id": "australia",
+        "displayName": "Australia",
+        "parentId": "world"
+    },
+    {
+        "id": "angola",
+        "displayName": "Angola",
+        "parentId": "world"
+    },
+    {
+        "id": "rwanda",
+        "displayName": "Rwanda",
+        "parentId": "world"
+    },
+    {
+        "id": "caboverde",
+        "displayName": "Cabo Verde",
+        "parentId": "world"
+    },
+    {
+        "id": "gabon",
+        "displayName": "Gabon",
+        "parentId": "world"
+    },
+    {
+        "id": "syria",
+        "displayName": "Syria",
+        "parentId": "world"
+    },
+    {
+        "id": "guinea",
+        "displayName": "Guinea",
+        "parentId": "world"
+    },
+    {
+        "id": "mayotte",
+        "displayName": "Mayotte",
+        "parentId": "world"
+    },
+    {
+        "id": "frenchguiana",
+        "displayName": "French Guiana",
+        "parentId": "world"
+    },
+    {
+        "id": "frenchpolynesia",
+        "displayName": "French Polynesia",
+        "parentId": "world"
+    },
+    {
+        "id": "eswatini",
+        "displayName": "Eswatini",
+        "parentId": "world"
+    },
+    {
+        "id": "mauritania",
+        "displayName": "Mauritania",
+        "parentId": "world"
+    },
+    {
+        "id": "cambodia",
+        "displayName": "Cambodia",
+        "parentId": "world"
+    },
+    {
+        "id": "guadeloupe",
+        "displayName": "Guadeloupe",
+        "parentId": "world"
+    },
+    {
+        "id": "mali",
+        "displayName": "Mali",
+        "parentId": "world"
+    },
+    {
+        "id": "somalia",
+        "displayName": "Somalia",
+        "parentId": "world"
+    },
+    {
+        "id": "tajikistan",
+        "displayName": "Tajikistan",
+        "parentId": "world"
+    },
+    {
+        "id": "guyana",
+        "displayName": "Guyana",
+        "parentId": "world"
+    },
+    {
+        "id": "burkinafaso",
+        "displayName": "Burkina Faso",
+        "parentId": "world"
+    },
+    {
+        "id": "andorra",
+        "displayName": "Andorra",
+        "parentId": "world"
+    },
+    {
+        "id": "haiti",
+        "displayName": "Haiti",
+        "parentId": "world"
+    },
+    {
+        "id": "togo",
+        "displayName": "Togo",
+        "parentId": "world"
+    },
+    {
+        "id": "belize",
+        "displayName": "Belize",
+        "parentId": "world"
+    },
+    {
+        "id": "curaao",
+        "displayName": "Cura\u00e7ao",
+        "parentId": "world"
+    },
+    {
+        "id": "hongkong",
+        "displayName": "Hong Kong SAR",
+        "parentId": "world"
+    },
+    {
+        "id": "trinidadandtobago",
+        "displayName": "Trinidad and Tobago",
+        "parentId": "world"
+    },
+    {
+        "id": "papuanewguinea",
+        "displayName": "Papua New Guinea",
+        "parentId": "world"
+    },
+    {
+        "id": "djibouti",
+        "displayName": "Djibouti",
+        "parentId": "world"
+    },
+    {
+        "id": "martinique",
+        "displayName": "Martinique",
+        "parentId": "world"
+    },
+    {
+        "id": "congo",
+        "displayName": "Congo",
+        "parentId": "world"
+    },
+    {
+        "id": "lesotho",
+        "displayName": "Lesotho",
+        "parentId": "world"
+    },
+    {
+        "id": "aruba",
+        "displayName": "Aruba",
+        "parentId": "world"
+    },
+    {
+        "id": "southsudan",
+        "displayName": "South Sudan",
+        "parentId": "world"
+    },
+    {
+        "id": "bahamas",
+        "displayName": "Bahamas",
+        "parentId": "world"
+    },
+    {
+        "id": "suriname",
+        "displayName": "Suriname",
+        "parentId": "world"
+    },
+    {
+        "id": "guam",
+        "displayName": "Guam",
+        "parentId": "world"
+    },
+    {
+        "id": "benin",
+        "displayName": "Benin",
+        "parentId": "world"
+    },
+    {
+        "id": "equatorialguinea",
+        "displayName": "Equatorial Guinea",
+        "parentId": "world"
+    },
+    {
+        "id": "nicaragua",
+        "displayName": "Nicaragua",
+        "parentId": "world"
+    },
+    {
+        "id": "iceland",
+        "displayName": "Iceland",
+        "parentId": "world"
+    },
+    {
+        "id": "centralafricanrepublic",
+        "displayName": "Central African Republic",
+        "parentId": "world"
+    },
+    {
+        "id": "seychelles",
+        "displayName": "Seychelles",
+        "parentId": "world"
+    },
+    {
+        "id": "yemen",
+        "displayName": "Yemen",
+        "parentId": "world"
+    },
+    {
+        "id": "gambia",
+        "displayName": "Gambia",
+        "parentId": "world"
+    },
+    {
+        "id": "niger",
+        "displayName": "Niger",
+        "parentId": "world"
+    },
+    {
+        "id": "sanmarino",
+        "displayName": "San Marino",
+        "parentId": "world"
+    },
+    {
+        "id": "chad",
+        "displayName": "Chad",
+        "parentId": "world"
+    },
+    {
+        "id": "saintlucia",
+        "displayName": "Saint Lucia",
+        "parentId": "world"
+    },
+    {
+        "id": "gibraltar",
+        "displayName": "Gibraltar",
+        "parentId": "world"
+    },
+    {
+        "id": "sierraleone",
+        "displayName": "Sierra Leone",
+        "parentId": "world"
+    },
+    {
+        "id": "burundi",
+        "displayName": "Burundi",
+        "parentId": "world"
+    },
+    {
+        "id": "barbados",
+        "displayName": "Barbados",
+        "parentId": "world"
+    },
+    {
+        "id": "comoros",
+        "displayName": "Comoros",
+        "parentId": "world"
+    },
+    {
+        "id": "guineabissau",
+        "displayName": "Guinea-Bissau",
+        "parentId": "world"
+    },
+    {
+        "id": "eritrea",
+        "displayName": "Eritrea",
+        "parentId": "world"
+    },
+    {
+        "id": "usvirginislands",
+        "displayName": "U.S. Virgin Islands",
+        "parentId": "world"
+    },
+    {
+        "id": "vietnam",
+        "displayName": "Vietnam",
+        "parentId": "world"
+    },
+    {
+        "id": "liechtenstein",
+        "displayName": "Liechtenstein",
+        "parentId": "world"
+    },
+    {
+        "id": "newzealand",
+        "displayName": "New Zealand",
+        "parentId": "world"
+    },
+    {
+        "id": "timorleste",
+        "displayName": "Timor-Leste",
+        "parentId": "world"
+    },
+    {
+        "id": "monaco",
+        "displayName": "Monaco",
+        "parentId": "world"
+    },
+    {
+        "id": "bermuda",
+        "displayName": "Bermuda",
+        "parentId": "world"
+    },
+    {
+        "id": "turksandcaicosislands",
+        "displayName": "Turks and Caicos Islands",
+        "parentId": "world"
+    },
+    {
+        "id": "sotomandprncipe",
+        "displayName": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "parentId": "world"
+    },
+    {
+        "id": "liberia",
+        "displayName": "Liberia",
+        "parentId": "world"
+    },
+    {
+        "id": "stvincentandthegrenadines",
+        "displayName": "Saint Vincent and the Grenadines",
+        "parentId": "world"
+    },
+    {
+        "id": "isleofman",
+        "displayName": "Isle of Man",
+        "parentId": "world"
+    },
+    {
+        "id": "bonaire",
+        "displayName": "Bonaire",
+        "parentId": "world"
+    },
+    {
+        "id": "antiguaandbarbuda",
+        "displayName": "Antigua and Barbuda",
+        "parentId": "world"
+    },
+    {
+        "id": "mauritius",
+        "displayName": "Mauritius",
+        "parentId": "world"
+    },
+    {
+        "id": "taiwan",
+        "displayName": "Taiwan",
+        "parentId": "world"
+    },
+    {
+        "id": "bhutan",
+        "displayName": "Bhutan",
+        "parentId": "world"
+    },
+    {
+        "id": "laos",
+        "displayName": "Laos",
+        "parentId": "world"
+    },
+    {
+        "id": "guernsey",
+        "displayName": "Guernsey",
+        "parentId": "world"
+    },
+    {
+        "id": "faroeislands",
+        "displayName": "Faroe Islands",
+        "parentId": "world"
+    },
+    {
+        "id": "caymanislands",
+        "displayName": "Cayman Islands",
+        "parentId": "world"
+    },
+    {
+        "id": "tanzania",
+        "displayName": "Tanzania",
+        "parentId": "world"
+    },
+    {
+        "id": "wallisandfutuna",
+        "displayName": "Wallis and Futuna",
+        "parentId": "world"
+    },
+    {
+        "id": "brunei",
+        "displayName": "Brunei",
+        "parentId": "world"
+    },
+    {
+        "id": "britishvirginislands",
+        "displayName": "British Virgin Islands",
+        "parentId": "world"
+    },
+    {
+        "id": "dominica",
+        "displayName": "Dominica",
+        "parentId": "world"
+    },
+    {
+        "id": "northernmarianaislands",
+        "displayName": "Northern Mariana Islands",
+        "parentId": "world"
+    },
+    {
+        "id": "grenada",
+        "displayName": "Grenada",
+        "parentId": "world"
+    },
+    {
+        "id": "newcaledonia",
+        "displayName": "New Caledonia",
+        "parentId": "world"
+    },
+    {
+        "id": "fiji",
+        "displayName": "Fiji",
+        "parentId": "world"
+    },
+    {
+        "id": "anguilla",
+        "displayName": "Anguilla",
+        "parentId": "world"
+    },
+    {
+        "id": "falklandislands",
+        "displayName": "Falkland Islands",
+        "parentId": "world"
+    },
+    {
+        "id": "antarctica",
+        "displayName": "Antarctica",
+        "parentId": "world"
+    },
+    {
+        "id": "macau",
+        "displayName": "Macao SAR",
+        "parentId": "world"
+    },
+    {
+        "id": "greenland",
+        "displayName": "Greenland",
+        "parentId": "world"
+    },
+    {
+        "id": "vaticancity",
+        "displayName": "Vatican City",
+        "parentId": "world"
+    },
+    {
+        "id": "saintpierreandmiquelon",
+        "displayName": "Saint Pierre and Miquelon",
+        "parentId": "world"
+    },
+    {
+        "id": "solomonislands",
+        "displayName": "Solomon Islands",
+        "parentId": "world"
+    },
+    {
+        "id": "montserrat",
+        "displayName": "Montserrat",
+        "parentId": "world"
+    },
+    {
+        "id": "saba",
+        "displayName": "Saba",
+        "parentId": "world"
+    },
+    {
+        "id": "americansamoa",
+        "displayName": "American Samoa",
+        "parentId": "world"
+    },
+    {
+        "id": "marshallislands",
+        "displayName": "Marshall Islands",
+        "parentId": "world"
+    },
+    {
+        "id": "samoa",
+        "displayName": "Samoa",
+        "parentId": "world"
+    },
+    {
+        "id": "vanuatu",
+        "displayName": "Vanuatu",
+        "parentId": "world"
+    }
+]
