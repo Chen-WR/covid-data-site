@@ -1,5 +1,33 @@
-{% csrf_token %}
-{% for message in messages %}
-	<p>{{ message|safe }}</p>
-{% endfor %}
-{{form.as_p}}
+{% extends "index.html" %}
+
+{% block content %}
+
+<form>
+	{% csrf_token %}
+	<div class="ui selection dropdown" id="global">
+		<input type="hidden" name="global">
+		<i class="dropdown icon"></i>
+		<div class="default text">Choose World</div>
+		<div class="menu" id='global-box'></div>
+	</div>
+	<div class="ui selection dropdown" id="country">
+		<input type="hidden" name="country">
+		<i class="dropdown icon"></i>
+		<div class="default text">Choose Country</div>
+		<div class="menu" id='country-box'></div>
+	</div>
+	<div class="ui selection dropdown" id="state">
+		<input type="hidden" name="state">
+		<i class="dropdown icon"></i>
+		<div class="default text">Choose State</div>
+		<div class="menu" id='state-box'></div>
+	</div>
+	<div class="ui selection dropdown" id="area">
+		<input type="hidden" name="area">
+		<i class="dropdown icon"></i>
+		<div class="default text">Choose Area</div>
+		<div class="menu" id='area-box'></div>
+	</div>
+</form>
+
+{% endblock content %}

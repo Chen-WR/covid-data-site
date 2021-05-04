@@ -1,5 +1,5 @@
 from .models import Data, Location
-from .data.Data import Datas
+from .static.Data import Datas
 
 def update():
 	data = Datas()

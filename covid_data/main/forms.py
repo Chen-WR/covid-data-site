@@ -1,6 +1,6 @@
 from django import forms
-from .models import World, Country, State, Area
-from .data.Data import Data
+from .models import Data, Location
+from .data.Data import Datas
 
 # data = Data()
 # globaldata, countrydata, statedata, areadata = data.oneClickchoice()
@@ -25,4 +25,16 @@ from .data.Data import Data
 # 	state = forms.CharField(label='Select State', widget=forms.Select(choices=state_choice))
 # 	area = forms.CharField(label='Select Area', widget=forms.Select(choices=area_choice))
 
+
+# class QueryModelForm(forms.Form):
+# 	class meta:
+# 		model = QueryModel
+# 		fields = ['world', 'country', 'state', 'area']
+
+# 	def __init__(self, *args, **kwargs):
+# 		super().__init__(*args, **kwargs)
+# 		self.fields['world'].queryset = Location.objects.none()
+# 		self.fields['country'].queryset = Location.objects.none()
+# 		self.fields['state'].queryset = Location.objects.none()
+# 		self.fields['area'].queryset = Location.objects.none()
 

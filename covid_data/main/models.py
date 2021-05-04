@@ -22,57 +22,12 @@ class Location(models.Model):
 	data = models.ForeignKey(Data, on_delete=models.CASCADE)
 
 	def __str__(self):
-		return f"{self.name}---{self.location_type}"	
+		return f"{self.name}---{self.location_type}"
 
-# class Country(models.Model):
-# 	id = models.AutoField(primary_key=True)
-# 	name = models.CharField(max_length=100)
-# 	location_type = models.CharField(max_length=100)
-# 	data = models.ForeignKey(Data, on_delete=models.CASCADE)
-
-# 	def __str__(self):
-# 		return f"{self.name}"
-
-# class State(models.Model):
-# 	id = models.AutoField(primary_key=True)
-# 	name = models.CharField(max_length=100)
-# 	location_type = models.CharField(max_length=100)
-# 	data = models.ForeignKey(Data, on_delete=models.CASCADE)
-
-# 	def __str__(self):
-# 		return f"{self.name}"
-
-# class Area(models.Model):
-# 	id = models.AutoField(primary_key=True)
-# 	name = models.CharField(max_length=100)
-# 	location_type = models.CharField(max_length=100)
-# 	data = models.ForeignKey(Data, on_delete=models.CASCADE)
-
-# 	def __str__(self):
-# 		return f"{self.name}"
-	
-# class TotalCase(models.Model):
-# 	id = models.AutoField(primary_key=True)
-# 	date = models.DateField(default=timezone.now)
-# 	totalConfirm = models.BigIntegerField()
-# 	place = models.ForeignKey(Area, on_delete=models.CASCADE)
-
-# class NewCase(models.Model):
-# 	id = models.AutoField(primary_key=True)
-# 	date = models.DateField(default=timezone.now)
-# 	newCase = models.BigIntegerField()
-# 	place= models.ForeignKey(Area, on_delete=models.CASCADE)
-
-# class TotalDeath(models.Model):
-# 	id = models.AutoField(primary_key=True)
-# 	date = models.DateField(default=timezone.now)
-# 	totalDeath = models.BigIntegerField()
-# 	place = models.ForeignKey(Area, on_delete=models.CASCADE)
-
-# class NewDeath(models.Model):
-# 	id = models.AutoField(primary_key=True)
-# 	date = models.DateField(default=timezone.now)
-# 	newDeath = models.BigIntegerField()
-# 	place = models.ForeignKey(Area, on_delete=models.CASCADE)
-
+class QueryModel(models.Model):
+	id = models.AutoField(primary_key=True)
+	world = models.ForeignKey(Location, related_name="world", on_delete=models.SET_NULL, null=True)
+	country = models.ForeignKey(Location, related_name="country", on_delete=models.SET_NULL, null=True)
+	state = models.ForeignKey(Location, related_name="state", on_delete=models.SET_NULL, null=True)
+	area = models.ForeignKey(Location, related_name="area" ,on_delete=models.SET_NULL, null=True)	
 
