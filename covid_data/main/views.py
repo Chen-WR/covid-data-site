@@ -34,3 +34,12 @@ def getArea(request, *args, **kwargs):
 	selectState = kwargs.get('state')
 	areas = list(Location.objects.filter(parent_id=selectState).values())
 	return JsonResponse({'data':areas})
+
+def showGraph(request):
+	if request.is_ajax():
+		world = request.POST.get('world')
+		country = request.POST.get('country')
+		state = request.POST.get('state')
+		area = request.POST.get('area')
+		# locationobj = Location.objects.get(name_id=name_id)
+		return HttpResponse(f'{world},{country},{state},{area}')

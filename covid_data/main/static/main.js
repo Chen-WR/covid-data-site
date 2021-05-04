@@ -2,9 +2,22 @@ const globalBox = document.getElementById('global-box')
 const countryBox = document.getElementById('country-box')
 const stateBox = document.getElementById('state-box')
 const areaBox = document.getElementById('area-box')
+
 const globalInput = document.getElementById('global')
 const countryInput = document.getElementById('country')
 const stateInput = document.getElementById('state')
+
+const globalText = document.getElementById('global-text')
+const countryText = document.getElementById('country-text')
+const stateText = document.getElementById('state-text')
+const areaText = document.getElementById('area-text')
+
+const alertBox = document.getElementById('alert-box')
+const buttonBox = document.getElementById('button-box')
+
+const locationForm = document.getElementById('location-form')
+
+const csrf = document.getElementsByName('csrfmiddlewaretoken')
 
 $.ajax({
 	type:'Get',
@@ -31,6 +44,15 @@ globalInput.addEventListener('change', e=>{
 	// console.log(e.target.value)
 	// selectWorld will be giving back parent id of the select global to filter out country
 	const selectWorld = e.target.value
+		countryBox.innerHTML = ""
+		countryText.textContent = "Choose Country"
+		countryText.classList.add("default")
+		stateBox.innerHTML = ""
+		stateText.textContent = "Choose State"
+		stateText.classList.add("default")
+		areaBox.innerHTML = ""
+		areaText.textContent = "Choose Area"
+		areaText.classList.add("default")
 	$.ajax({
 		type: 'Get',
 		url: `/country_json/${selectWorld}/`,
@@ -54,6 +76,12 @@ globalInput.addEventListener('change', e=>{
 
 countryInput.addEventListener('change', e=>{
 	const selectCountry = e.target.value
+	stateBox.innerHTML = ""
+	stateText.textContent = "Choose State"
+	stateText.classList.add("default")
+	areaBox.innerHTML = ""
+	areaText.textContent = "Choose Area"
+	areaText.classList.add("default")
 	$.ajax({
 		type: 'Get',
 		url: `/state_json/${selectCountry}/`,
@@ -77,6 +105,9 @@ countryInput.addEventListener('change', e=>{
 
 stateInput.addEventListener('change', e=>{
 	const selectState = e.target.value
+	areaBox.innerHTML = ""
+	areaText.textContent = "Choose Area"
+	areaText.classList.add("default")
 	$.ajax({
 		type: 'Get',
 		url: `/area_json/${selectState}/`,
@@ -91,6 +122,27 @@ stateInput.addEventListener('change', e=>{
 			option.setAttribute('data-value', item.name_id)
 			areaBox.appendChild(option)
 		})
+		},
+		error: function(error){
+			console.log(error)
+		},
+	})
+})
+
+locationForm.addEventListener('submit', e=>{
+	e.preventDefault()
+	$.ajax({
+		type:'POST',
+		url:'/graph/',
+		data:{
+			'csrfmiddlewaretoken': csrf[0].value,
+			'world':globalText.textContent,
+			'country':countryText.textContent,
+			'state':stateText.textContent,
+			'area':areaText.textContent,
+		},
+		success: function(response){
+			console.log(response)
 		},
 		error: function(error){
 			console.log(error)
