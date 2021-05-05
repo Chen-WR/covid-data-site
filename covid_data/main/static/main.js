@@ -12,12 +12,21 @@ const countryText = document.getElementById('country-text')
 const stateText = document.getElementById('state-text')
 const areaText = document.getElementById('area-text')
 
-const alertBox = document.getElementById('alert-box')
+const globalID = document.getElementById('Global')
+const countryID = document.getElementById('Country')
+const stateID = document.getElementById('State')
+const areaID = document.getElementById('Area')
+
 const buttonBox = document.getElementById('button-box')
 
 const locationForm = document.getElementById('location-form')
 
 const csrf = document.getElementsByName('csrfmiddlewaretoken')
+
+globalID.value = 0
+countryID.value = 0
+stateID.value = 0
+areaID.value = 0
 
 $.ajax({
 	type:'Get',
@@ -30,6 +39,7 @@ $.ajax({
 			// displaying the name of the place
 			option.textContent = item.name
 			option.setAttribute('class', 'item')
+			option.setAttribute('id', 'globalID')
 			// keeping data value as name id to filter country option
 			option.setAttribute('data-value', item.name_id)
 			globalBox.appendChild(option)
@@ -45,6 +55,9 @@ globalInput.addEventListener('change', e=>{
 	// selectWorld will be giving back parent id of the select global to filter out country
 	const selectWorld = e.target.value
 		countryBox.innerHTML = ""
+		countryID.value = 0
+		stateID.value = 0
+		areaID.value = 0
 		countryText.textContent = "Choose Country"
 		countryText.classList.add("default")
 		stateBox.innerHTML = ""
@@ -76,6 +89,8 @@ globalInput.addEventListener('change', e=>{
 
 countryInput.addEventListener('change', e=>{
 	const selectCountry = e.target.value
+	stateID.value = 0
+	areaID.value = 0
 	stateBox.innerHTML = ""
 	stateText.textContent = "Choose State"
 	stateText.classList.add("default")
@@ -105,6 +120,7 @@ countryInput.addEventListener('change', e=>{
 
 stateInput.addEventListener('change', e=>{
 	const selectState = e.target.value
+	areaID.value = 0
 	areaBox.innerHTML = ""
 	areaText.textContent = "Choose Area"
 	areaText.classList.add("default")
@@ -136,13 +152,17 @@ locationForm.addEventListener('submit', e=>{
 		url:'/graph/',
 		data:{
 			'csrfmiddlewaretoken': csrf[0].value,
-			'world':globalText.textContent,
-			'country':countryText.textContent,
-			'state':stateText.textContent,
-			'area':areaText.textContent,
+			// 'world':globalText.textContent,
+			// 'country':countryText.textContent,
+			// 'state':stateText.textContent,
+			// 'area':areaText.textContent,
+			'globalID':globalID.value,
+			'countryID':countryID.value,
+			'stateID':stateID.value,
+			'areaID':areaID.value,
 		},
 		success: function(response){
-			console.log(response)
+			// console.log(response)
 		},
 		error: function(error){
 			console.log(error)

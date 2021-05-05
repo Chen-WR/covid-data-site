@@ -1,5 +1,6 @@
 from django.http import JsonResponse, Http404, HttpResponse, HttpResponseRedirect, HttpResponsePermanentRedirect
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404, redirect
+from django.contrib import messages
 from .models import Data, Location
 # from .forms import QueryModelForm
 from .updateDB import update
@@ -7,14 +8,13 @@ import threading
 import json
 
 def index(request):
-	# thread = threading.Thread(target=update)
-	# thread.daemon = True
-	# thread.start()
+	thread = threading.Thread(target=update)
+	thread.daemon = True
+	thread.start()
 	return render(request, "index.html")
 
 def location(request):
-	query = Location.objects.filter(location_type='world').all()
-	return render(request, "location.html", {'query':query})
+	return render(request, "location.html", {})
 
 def getWorld(request):
 	query = list(Location.objects.filter(location_type='world').values())
@@ -37,9 +37,23 @@ def getArea(request, *args, **kwargs):
 
 def showGraph(request):
 	if request.is_ajax():
-		world = request.POST.get('world')
-		country = request.POST.get('country')
-		state = request.POST.get('state')
-		area = request.POST.get('area')
-		# locationobj = Location.objects.get(name_id=name_id)
-		return HttpResponse(f'{world},{country},{state},{area}')
+		# world = request.POST.get('world')
+		# country = request.POST.get('country')
+		# state = request.POST.get('state')
+		# area = request.POST.get('area')
+		globalID = request.POST.get('globalID')
+		countryID = request.POST.get('countryID')
+		stateID = request.POST.get('stateID')
+		areaID = request.POST.get('areaID')
+		if globalID and countryID=="0" and stateID=="0" and areaID=="0":
+			dataset = Data.objects.filter(name_id=globalID)
+		elif globalID and countryID and stateID=="0" and areaID=="0":
+			dataset = Data.objects.filter(name_id=countryID)
+		elif globalID and countryID and stateID and areaID=="0":
+			dataset = Data.objects.filter(name_id=stateID)
+		elif globalID and countryID and stateID and areaID:
+			dataset = Data.objects.filter(name_id=areaID)
+		else:
+			messages.error(request, "Please select location")
+
+	return redirect('/location/')

@@ -2,32 +2,36 @@
 
 {% block content %}
 
-<div id='alert-box'></div>
 <form class='mt-5' id='location-form'>
 	{% csrf_token %}
-	<div class="ui selection dropdown" id="global">
-		<input type="hidden" name="global">
+	<div class="ui fluid search selection dropdown" id="global">
+		<input type="hidden" id='Global' name="Global">
 		<i class="dropdown icon"></i>
 		<div class="default text" id="global-text">Choose World</div>
 		<div class="menu" id='global-box'></div>
 	</div>
-	<div class="ui selection dropdown" id="country">
-		<input type="hidden" name="country">
+	<div class="ui fluid search selection dropdown" id="country">
+		<input type="hidden" id='Country' name="Country">
 		<i class="dropdown icon"></i>
 		<div class="default text" id='country-text'>Choose Country</div>
 		<div class="menu" id='country-box'></div>
 	</div>
-	<div class="ui selection dropdown" id="state">
-		<input type="hidden" name="state">
+	<div class="ui fluid search selection dropdown" id="state">
+		<input type="hidden" id='State' name="State">
 		<i class="dropdown icon"></i>
 		<div class="default text" id='state-text'>Choose State</div>
 		<div class="menu" id='state-box'></div>
 	</div>
-	<div class="ui selection dropdown" id="area">
-		<input type="hidden" name="area">
+	<div class="ui fluid search selection dropdown" id="area">
+		<input type="hidden" id='Area' name="Area">
 		<i class="dropdown icon"></i>
 		<div class="default text" id='area-text'>Choose Area</div>
 		<div class="menu" id='area-box'></div>
+	</div>
+	<div>
+		{% for message in messages %}
+			<p>{{ message }}</p>
+		{% endfor %}
 	</div>
 	<div id='button-box' class='mt-5'>
 		<button type='submit' class='ui primary button'>Show</button>

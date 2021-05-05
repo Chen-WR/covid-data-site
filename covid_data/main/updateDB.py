@@ -6,6 +6,7 @@ def update():
 	globaldata, countrydata, statedata, areadata = data.oneClick()
 	# if not World.objects.filter(date=globaldata[0]['lastUpdated'][0:10]).exists() and not Country.objects.filter(date=countrydata[0]['lastUpdated'][0:10]).exists() and not State.objects.filter(date=statedata[0]['lastUpdated'][0:10]).exists() and not Area.objects.filter(date=areadata[0]['lastUpdated'][0:10]).exists():
 	for world in globaldata:
+		name_id = world['id']
 		dates = world['lastUpdated'][0:10]
 		if not Data.objects.filter(date=dates).exists():
 			dataobj = Data(
@@ -17,11 +18,11 @@ def update():
 				date=dates,
 			)
 			dataobj.save()
+		if not Location.objects.filter(name_id=name_id).exists():
 			worldobj = Location(
 				name=world['displayName'], 
 				name_id=world['id'],
 				location_type="world",
-				data=dataobj,
 			)
 			worldobj.save()
 
@@ -38,12 +39,12 @@ def update():
 				date=dates,
 			)
 			dataobj.save()
+		if not Location.objects.filter(name_id=name_id).exists():
 			countryobj = Location(
 				name=countries['displayName'],
 				name_id=countries['id'],
 				parent_id=countries['parentId'],
 				location_type="country", 
-				data=dataobj,
 			)
 			countryobj.save()
 
@@ -60,12 +61,12 @@ def update():
 				date=dates,
 			)
 			dataobj.save()
+		if not Location.objects.filter(name_id=name_id).exists():
 			stateobj = Location(
 				name=states['displayName'],
 				name_id=states['id'],
 				parent_id=states['parentId'],
 				location_type="state", 
-				data=dataobj,
 			)
 			stateobj.save()
 
@@ -82,11 +83,11 @@ def update():
 				date=dates,
 			)
 			dataobj.save()
+		if not Location.objects.filter(name_id=name_id).exists():
 			areaobj = Location(
 				name=areas['displayName'], 
 				name_id=areas['id'],
 				parent_id=areas['parentId'],
 				location_type="area",
-				data=dataobj,
 			)
 			areaobj.save()
