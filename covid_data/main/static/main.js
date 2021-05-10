@@ -154,10 +154,10 @@ locationForm.addEventListener('submit', e=>{
 			if (response['data']=='None'){
 			}
 			else if (response['data'] != 'None'){
-				makeGraph('total-case-chart', 'Total Case', response.data.date, response.data.totalcase)
-				makeGraph('new-case-chart', 'New Case', response.data.date, response.data.newcase)
-				makeGraph('total-death-chart', 'Total Death', response.data.date, response.data.totaldeath)
-				makeGraph('new-death-chart', 'New Death', response.data.date, response.data.newdeath)
+				makeGraph('total-case-chart', '.first-chart-container', 'Total Case', response.data.date, response.data.totalcase)
+				makeGraph('new-case-chart', '.second-chart-container', 'New Case', response.data.date, response.data.newcase)
+				makeGraph('total-death-chart', '.third-chart-container','Total Death', response.data.date, response.data.totaldeath)
+				makeGraph('new-death-chart', '.fourth-chart-container','New Death', response.data.date, response.data.newdeath)
 			}
 		},
 		error: function(error){
@@ -166,7 +166,15 @@ locationForm.addEventListener('submit', e=>{
 	})
 })
 
-function makeGraph(element, graphname, labelArray, dataArray){
+function destroyCanvas(element, container) {
+	document.getElementById(element).remove();
+	let canvas = document.createElement('canvas');
+	canvas.setAttribute('id', element);
+	document.querySelector(container).appendChild(canvas);
+}
+
+function makeGraph(element, container, graphname, labelArray, dataArray){
+	destroyCanvas(element, container)
 	var myChart = new Chart(
 		document.getElementById(element),
 		{
@@ -186,5 +194,5 @@ function makeGraph(element, graphname, labelArray, dataArray){
 			}
 		}
 	);
-	console.log()
 }
+
