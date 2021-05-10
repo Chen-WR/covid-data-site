@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import index, location, getWorld, getCountry, getState, getArea, showGraph
+from .views import index, location, getWorld, getCountry, getState, getArea, showGraph, test
 from django.conf import settings
 from django.conf.urls.static import static
 
@@ -11,10 +11,6 @@ urlpatterns = [
 	path('state_json/<str:country>/', getState, name='state'),
 	path('area_json/<str:state>/', getArea, name='area'),
 	path('graph/', showGraph, name='graph'),
-
-
-
-
-
+	path('test/', test)
 
 ] + static(settings.STATIC_URL,document_root=settings.STATIC_ROOT)

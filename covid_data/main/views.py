@@ -2,7 +2,6 @@ from django.http import JsonResponse, Http404, HttpResponse, HttpResponseRedirec
 from django.shortcuts import render, get_object_or_404, redirect
 from django.contrib import messages
 from .models import Data, Location
-# from .forms import QueryModelForm
 from .updateDB import update
 import threading
 import json
@@ -37,23 +36,44 @@ def getArea(request, *args, **kwargs):
 
 def showGraph(request):
 	if request.is_ajax():
-		# world = request.POST.get('world')
-		# country = request.POST.get('country')
-		# state = request.POST.get('state')
-		# area = request.POST.get('area')
 		globalID = request.POST.get('globalID')
 		countryID = request.POST.get('countryID')
 		stateID = request.POST.get('stateID')
 		areaID = request.POST.get('areaID')
 		if globalID and countryID=="0" and stateID=="0" and areaID=="0":
-			dataset = Data.objects.filter(name_id=globalID)
+			name_id = globalID
 		elif globalID and countryID and stateID=="0" and areaID=="0":
-			dataset = Data.objects.filter(name_id=countryID)
+			name_id = countryID
 		elif globalID and countryID and stateID and areaID=="0":
-			dataset = Data.objects.filter(name_id=stateID)
+			name_id = stateID
 		elif globalID and countryID and stateID and areaID:
-			dataset = Data.objects.filter(name_id=areaID)
+			name_id = areaID
 		else:
-			messages.error(request, "Please select location")
+			name_id = None
+		if name_id == None:
+			return JsonResponse({'data':'None'})
+		else:
+			date = []
+			totalcase = []
+			newcase = []
+			totaldeath = []
+			newdeath = []
+			data = {}
+			dataobj = list(Data.objects.filter(name_id=name_id).values())
+			for obj in dataobj:
+				date.append(str(obj['date']))
+				totalcase.append(obj['totalcase'])
+				newcase.append(obj['newcase'])
+				totaldeath.append(obj['totaldeath'])
+				newdeath.append(obj['newdeath'])
+			data['date'] = date
+			data['totalcase'] = totalcase
+			data['newcase'] = newcase
+			data['totaldeath'] = totaldeath
+			data['newdeath'] = newdeath
+			return JsonResponse({'data':data})
+	else:
+		return HttpResponse('Bad Request')
 
-	return redirect('/location/')
+def test(request):
+	return render(request, 'test.html', {})

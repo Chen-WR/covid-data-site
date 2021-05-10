@@ -23,16 +23,10 @@ const locationForm = document.getElementById('location-form')
 
 const csrf = document.getElementsByName('csrfmiddlewaretoken')
 
-globalID.value = 0
-countryID.value = 0
-stateID.value = 0
-areaID.value = 0
-
 $.ajax({
 	type:'Get',
 	url: '/world_json/',
 	success: function(response){
-		// console.log(response)
 		const globalData = response.data
 		globalData.map(item=>{
 			const option = document.createElement('div')
@@ -51,7 +45,6 @@ $.ajax({
 })
 
 globalInput.addEventListener('change', e=>{
-	// console.log(e.target.value)
 	// selectWorld will be giving back parent id of the select global to filter out country
 	const selectWorld = e.target.value
 		countryBox.innerHTML = ""
@@ -152,20 +145,46 @@ locationForm.addEventListener('submit', e=>{
 		url:'/graph/',
 		data:{
 			'csrfmiddlewaretoken': csrf[0].value,
-			// 'world':globalText.textContent,
-			// 'country':countryText.textContent,
-			// 'state':stateText.textContent,
-			// 'area':areaText.textContent,
 			'globalID':globalID.value,
 			'countryID':countryID.value,
 			'stateID':stateID.value,
 			'areaID':areaID.value,
 		},
 		success: function(response){
-			// console.log(response)
+			if (response['data']=='None'){
+			}
+			else if (response['data'] != 'None'){
+				makeGraph('total-case-chart', 'Total Case', response.data.date, response.data.totalcase)
+				makeGraph('new-case-chart', 'New Case', response.data.date, response.data.newcase)
+				makeGraph('total-death-chart', 'Total Death', response.data.date, response.data.totaldeath)
+				makeGraph('new-death-chart', 'New Death', response.data.date, response.data.newdeath)
+			}
 		},
 		error: function(error){
 			console.log(error)
 		},
 	})
 })
+
+function makeGraph(element, graphname, labelArray, dataArray){
+	var myChart = new Chart(
+		document.getElementById(element),
+		{
+			type: 'line',
+			data: {
+				labels: labelArray,
+				datasets: [{
+					label: graphname,
+					backgroundColor: 'rgb(255, 99, 132)',
+					borderColor: 'rgb(255, 99, 132)',
+					data: dataArray,
+				}]
+			},
+			options: {
+				responsive: true,
+				maintainAspectRatio: false,
+			}
+		}
+	);
+	console.log()
+}
